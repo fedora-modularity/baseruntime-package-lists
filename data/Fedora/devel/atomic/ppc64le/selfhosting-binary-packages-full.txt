@@ -168,7 +168,7 @@ apacheds-kerberos-2.0.0-0.5.M21.fc27.noarch
 apacheds-ldap-api-1.0.0-0.4.M33.fc27.noarch
 apacheds-protocols-2.0.0-0.5.M21.fc27.noarch
 apiviz-1.3.2-13.fc26.noarch
-appstream-0.11.2-4.fc27.ppc64le
+appstream-0.11.6-1.fc27.ppc64le
 appstream-data-27-4.fc27.noarch
 apr-1.6.2-3.fc27.ppc64le
 apr-devel-1.6.2-3.fc27.ppc64le
@@ -344,6 +344,8 @@ aws-sdk-java-waf-1.11.3-4.fc27.noarch
 aws-sdk-java-workspaces-1.11.3-4.fc27.noarch
 axiom-1.2.12-17.fc28.noarch
 axis-1.4-35.fc28.noarch
+baekmuk-ttf-batang-fonts-2.2-43.fc27.noarch
+baekmuk-ttf-fonts-common-2.2-43.fc27.noarch
 bakefile-0.2.10-4.fc27.ppc64le
 base64coder-20101219-19.fc27.noarch
 basesystem-11-4.fc27.noarch
@@ -499,6 +501,7 @@ chrony-3.2-0.3.pre1.fc27.ppc64le
 chrpath-0.16-6.fc27.ppc64le
 cifs-utils-6.7-3.fc27.ppc64le
 cifs-utils-devel-6.7-3.fc27.ppc64le
+cjkuni-uming-fonts-0.2.20080216.1-59.fc27.noarch
 clang-4.0.1-7.fc27.ppc64le
 clang-devel-4.0.1-7.fc27.ppc64le
 clang-libs-4.0.1-7.fc27.ppc64le
@@ -780,7 +783,7 @@ erlang-inets-19.3.6.2-2.fc27.ppc64le
 erlang-jinterface-19.3.6.2-2.fc27.ppc64le
 erlang-kernel-19.3.6.2-2.fc27.ppc64le
 erlang-lfe-1.3-3.fc27.ppc64le
-erlang-meck-0.8.4-5.fc26.ppc64le
+erlang-meck-0.8.8-2.fc27.ppc64le
 erlang-megaco-19.3.6.2-2.fc27.ppc64le
 erlang-mnesia-19.3.6.2-2.fc27.ppc64le
 erlang-mustache-0.1.1-7.fc27.ppc64le
@@ -1240,7 +1243,6 @@ gtkspell3-devel-3.0.9-4.fc27.ppc64le
 gts-0.7.6-32.20121130.fc27.ppc64le
 gts-devel-0.7.6-32.20121130.fc27.ppc64le
 guava-18.0-11.fc27.noarch
-guava-testlib-18.0-11.fc27.noarch
 guice-extensions-4.1-7.fc27.noarch
 guice-parent-4.1-7.fc27.noarch
 guice-servlet-4.1-7.fc27.noarch
@@ -1346,6 +1348,8 @@ initscripts-9.77-1.fc27.ppc64le
 inkscape-0.92.1-12.20170713bzr15740.fc28.ppc64le
 intltool-0.51.0-10.fc27.noarch
 invokebinder-1.2-7.fc27.noarch
+ipa-gothic-fonts-003.03-11.fc27.noarch
+ipa-pgothic-fonts-003.03-10.fc27.noarch
 ipcalc-0.2.0-3.fc27.ppc64le
 iproute-4.12.0-3.fc27.ppc64le
 ipset-6.32-1.fc27.ppc64le
@@ -1502,7 +1506,7 @@ jcl-over-slf4j-1.7.25-2.fc27.noarch
 jcodings-1.0.9-12.fc27.noarch
 jcommon-1.0.23-6.fc27.noarch
 jcsp-1.1-0.7.rc5.fc27.noarch
-jctools-2.0.2-1.fc27.noarch
+jctools-2.0.2-2.fc27.noarch
 jdbi-2.63.1-4.fc27.noarch
 jdeparser-2.0.0-3.fc27.noarch
 jdeparser1-1.0.0-4.fc27.noarch
@@ -2032,6 +2036,8 @@ libgpg-error-1.27-3.fc27.ppc64le
 libgpg-error-devel-1.27-3.fc27.ppc64le
 libgphoto2-2.5.14-3.fc27.ppc64le
 libgphoto2-devel-2.5.14-3.fc27.ppc64le
+libgtop2-2.37.90-1.fc27.ppc64le
+libgtop2-devel-2.37.90-1.fc27.ppc64le
 libgudev-232-1.fc27.ppc64le
 libgudev-devel-232-1.fc27.ppc64le
 libgusb-0.2.11-3.fc27.ppc64le
@@ -2228,8 +2234,8 @@ libsndfile-1.0.28-6.fc28.ppc64le
 libsndfile-devel-1.0.28-6.fc28.ppc64le
 libsolv-0.6.28-8.fc27.ppc64le
 libsolv-devel-0.6.28-8.fc27.ppc64le
-libsoup-2.59.90.1-2.fc27.ppc64le
-libsoup-devel-2.59.90.1-2.fc27.ppc64le
+libsoup-2.60.1-1.fc27.ppc64le
+libsoup-devel-2.60.1-1.fc27.ppc64le
 libspectre-0.2.8-4.fc27.ppc64le
 libspectre-devel-0.2.8-4.fc27.ppc64le
 libspiro-20150131-6.fc27.ppc64le
@@ -2307,8 +2313,8 @@ libuuid-2.30.2-1.fc28.ppc64le
 libuuid-devel-2.30.2-1.fc28.ppc64le
 libuv-1:1.14.0-1.fc28.ppc64le
 libuv-devel-1:1.14.0-1.fc28.ppc64le
-libv4l-1.12.5-4.fc27.ppc64le
-libv4l-devel-1.12.5-4.fc27.ppc64le
+libv4l-1.12.5-5.fc27.ppc64le
+libv4l-devel-1.12.5-5.fc27.ppc64le
 libva-1.8.3-4.fc28.ppc64le
 libva-devel-1.8.3-4.fc28.ppc64le
 libvdpau-1.1.1-4.fc26.ppc64le
@@ -2382,6 +2388,7 @@ liquibase-3.5.1-1.fc25.noarch
 lirc-core-0.10.0-3.fc28.ppc64le
 lirc-devel-0.10.0-3.fc28.ppc64le
 lirc-libs-0.10.0-3.fc28.ppc64le
+lklug-fonts-0.6-16.20090803cvs.fc27.noarch
 lksctp-tools-1.0.16-8.fc27.ppc64le
 lksctp-tools-devel-1.0.16-8.fc27.ppc64le
 llvm-4.0.1-4.fc28.ppc64le
@@ -2456,12 +2463,12 @@ mallard-rng-1.0.2-3.fc27.noarch
 man-db-2.7.6.1-5.fc27.ppc64le
 man2html-1.6-20.g.fc27.ppc64le
 man2html-core-1.6-20.g.fc27.ppc64le
-mariadb-common-3:10.2.7-8.fc27.ppc64le
-mariadb-config-3:10.2.7-8.fc27.ppc64le
+mariadb-common-3:10.2.9-3.fc27.ppc64le
+mariadb-config-3:10.2.9-3.fc27.ppc64le
 mariadb-connector-c-3.0.2-16.fc28.ppc64le
 mariadb-connector-c-devel-3.0.2-16.fc28.ppc64le
-mariadb-devel-3:10.2.7-8.fc27.ppc64le
-mariadb-libs-3:10.2.7-8.fc27.ppc64le
+mariadb-devel-3:10.2.9-3.fc27.ppc64le
+mariadb-libs-3:10.2.9-3.fc27.ppc64le
 maven-1:3.5.0-6.fc27.noarch
 maven-antrun-plugin-1.8-5.fc27.noarch
 maven-archiver-3.1.1-3.fc27.noarch
@@ -2928,6 +2935,7 @@ nodejs-monocle-1.1.51-9.fc26.noarch
 nodejs-ms-2.0.0-2.fc27.noarch
 nodejs-multimatch-2.1.0-4.fc27.noarch
 nodejs-nan-2.6.2-2.fc27.noarch
+nodejs-nan0-0.8.0-7.fc27.noarch
 nodejs-next-tick-0.2.2-5.fc27.noarch
 nodejs-node-uuid-1.4.7-4.fc27.noarch
 nodejs-nomnom-1.8.1-7.fc27.noarch
@@ -3158,6 +3166,7 @@ ostree-2017.10-2.fc28.ppc64le
 ostree-devel-2017.10-2.fc28.ppc64le
 ostree-grub2-2017.10-2.fc28.ppc64le
 ostree-libs-2017.10-2.fc28.ppc64le
+overpass-fonts-3.0.2-2.fc27.noarch
 p11-kit-0.23.8-2.fc28.ppc64le
 p11-kit-devel-0.23.8-2.fc28.ppc64le
 p11-kit-trust-0.23.8-2.fc28.ppc64le
@@ -3240,10 +3249,12 @@ perl-BDB-1.91-9.fc27.ppc64le
 perl-BSD-Resource-1.291.100-4.fc27.ppc64le
 perl-Bencode-1.402-8.fc27.noarch
 perl-Bit-Vector-7.4-9.fc27.ppc64le
+perl-Browser-Open-0.04-17.fc27.noarch
 perl-Business-ISBN-3.004-3.fc27.noarch
 perl-Business-ISBN-Data-20140910.003-6.fc27.noarch
 perl-CBOR-XS-1.7-3.fc27.ppc64le
 perl-CGI-4.36-4.fc27.noarch
+perl-CGI-Application-4.50-18.fc27.noarch
 perl-CPAN-2.18-395.fc27.noarch
 perl-CPAN-Changes-0.400002-6.fc27.noarch
 perl-CPAN-DistnameInfo-0.12-10.fc27.noarch
@@ -3252,6 +3263,8 @@ perl-CPAN-Meta-Check-0.014-4.fc27.noarch
 perl-CPAN-Meta-Requirements-2.140-395.fc27.noarch
 perl-CPAN-Meta-YAML-0.018-395.fc27.noarch
 perl-CPANPLUS-0.916.800-4.fc27.noarch
+perl-CSS-1.09-11.fc27.noarch
+perl-CSS-Tiny-1.20-5.fc27.noarch
 perl-Canary-Stability-2012-4.fc27.noarch
 perl-Capture-Tiny-0.46-3.fc27.noarch
 perl-Carp-1.42-394.fc27.noarch
@@ -3287,6 +3300,7 @@ perl-Config-Any-0.32-3.fc27.noarch
 perl-Config-AutoConf-0.315-1.fc27.noarch
 perl-Config-General-2.63-4.fc27.noarch
 perl-Config-Perl-V-0.28-395.fc27.noarch
+perl-Config-Simple-4.59-26.fc27.noarch
 perl-Config-Tiny-2.23-8.fc27.noarch
 perl-Const-Fast-0.014-12.fc27.noarch
 perl-Context-Preserve-0.02-3.fc27.noarch
@@ -3336,6 +3350,7 @@ perl-Date-Simple-3.03-27.fc27.ppc64le
 perl-DateTime-2:1.44-1.fc28.ppc64le
 perl-DateTime-Calendar-Mayan-0.0601-24.fc27.noarch
 perl-DateTime-Format-Builder-0.8100-13.fc27.noarch
+perl-DateTime-Format-DateParse-0.05-15.fc27.noarch
 perl-DateTime-Format-HTTP-0.42-8.fc27.noarch
 perl-DateTime-Format-IBeat-0.161-29.fc27.noarch
 perl-DateTime-Format-Mail-1:0.403-4.fc27.noarch
@@ -3355,6 +3370,7 @@ perl-Devel-Caller-2.06-14.fc27.ppc64le
 perl-Devel-CheckBin-0.04-6.fc27.noarch
 perl-Devel-CheckCompiler-0.07-4.fc27.noarch
 perl-Devel-CheckLib-1.11-3.fc27.noarch
+perl-Devel-Cover-1.26-1.fc27.ppc64le
 perl-Devel-Cycle-1.12-8.fc27.noarch
 perl-Devel-Declare-0.006019-5.fc27.ppc64le
 perl-Devel-EnforceEncapsulation-0.51-10.fc27.noarch
@@ -3428,6 +3444,7 @@ perl-File-Find-Rule-0.34-7.fc27.noarch
 perl-File-Find-Rule-Perl-1.15-9.fc27.noarch
 perl-File-Flat-1.04-27.fc27.noarch
 perl-File-HomeDir-1.002-3.fc27.noarch
+perl-File-Inplace-0.20-18.fc27.noarch
 perl-File-Listing-6.04-16.fc27.noarch
 perl-File-MimeInfo-0.28-6.fc27.noarch
 perl-File-Path-2.15-1.fc27.noarch
@@ -3454,6 +3471,7 @@ perl-Function-Parameters-2.1.1-3.fc27.ppc64le
 perl-Future-0.35-2.fc27.noarch
 perl-GD-2.66-4.fc27.ppc64le
 perl-GD-Barcode-1.15-26.fc27.noarch
+perl-GTop-0.18-20.fc27.ppc64le
 perl-Getopt-ArgvFile-1.11-24.fc27.noarch
 perl-Getopt-Long-1:2.50-3.fc27.noarch
 perl-Getopt-Long-Descriptive-0.100-4.fc27.noarch
@@ -3463,11 +3481,16 @@ perl-Graph-0.97.04-6.fc27.noarch
 perl-GraphViz-2.24-4.fc27.noarch
 perl-Guard-1.023-10.fc27.ppc64le
 perl-HTML-Element-Extended-1.18-12.fc27.noarch
+perl-HTML-FormatText-WithLinks-0.15-8.fc27.noarch
+perl-HTML-FormatText-WithLinks-AndTables-0.07-4.fc27.noarch
 perl-HTML-Formatter-2.16-4.fc27.noarch
 perl-HTML-Parser-3.72-9.fc27.ppc64le
 perl-HTML-TableExtract-2.13-6.fc27.noarch
 perl-HTML-Tagset-3.20-31.fc27.noarch
+perl-HTML-Template-2.97-3.fc27.noarch
 perl-HTML-Tree-1:5.07-1.fc27.noarch
+perl-HTML-WikiConverter-0.68-23.fc27.noarch
+perl-HTML-WikiConverter-Markdown-0.06-8.fc27.noarch
 perl-HTTP-Cookies-6.04-1.fc27.noarch
 perl-HTTP-Daemon-6.01-17.fc27.noarch
 perl-HTTP-Date-6.02-17.fc27.noarch
@@ -3499,6 +3522,8 @@ perl-IO-stringy-2.111-8.fc27.noarch
 perl-IPC-Cmd-2:0.98-4.fc27.noarch
 perl-IPC-Run-0.96-3.fc27.noarch
 perl-IPC-Run3-0.048-11.fc27.noarch
+perl-IPC-ShareLite-0.17-24.fc27.ppc64le
+perl-IPC-SharedCache-1.3-33.fc27.noarch
 perl-IPC-SysV-2.07-396.fc27.ppc64le
 perl-IPC-System-Simple-1.25-16.fc27.noarch
 perl-Ima-DBI-0.35-27.fc27.noarch
@@ -3521,12 +3546,19 @@ perl-Jcode-2.07-23.fc27.noarch
 perl-LWP-MediaTypes-6.02-13.fc27.noarch
 perl-Lexical-SealRequireHints-0.011-3.fc27.ppc64le
 perl-Lexical-Var-0.009-13.fc27.ppc64le
+perl-Lingua-EN-Fathom-1.19-4.fc27.noarch
 perl-Lingua-EN-Inflect-1.902-3.fc27.noarch
+perl-Lingua-EN-Sentence-0.30-4.fc27.noarch
+perl-Lingua-EN-Syllable-1:0.30-5.fc27.noarch
 perl-List-MoreUtils-0.423-1.fc28.noarch
 perl-List-MoreUtils-XS-0.423-1.fc28.ppc64le
 perl-Locale-Codes-3.54-1.fc27.noarch
 perl-Locale-Maketext-1.28-395.fc27.noarch
+perl-Locale-Maketext-Gettext-1.28-8.fc27.noarch
+perl-Locale-Maketext-Lexicon-1.00-12.fc27.noarch
 perl-Locale-Maketext-Simple-1:0.21-399.fc28.noarch
+perl-Locale-Msgfmt-0.15-19.fc27.noarch
+perl-Locale-PO-0.27-8.fc27.noarch
 perl-Locale-US-3.04-6.fc27.noarch
 perl-Locale-gettext-1.07-8.fc27.ppc64le
 perl-Log-Message-1:0.08-13.fc27.noarch
@@ -3629,6 +3661,7 @@ perl-PHP-Serialization-0.34-19.fc27.noarch
 perl-POE-1.367-12.fc27.noarch
 perl-POE-Test-Loops-1.360-8.fc27.noarch
 perl-PPI-1.236-2.fc27.noarch
+perl-PPI-HTML-1.08-14.fc27.noarch
 perl-PPIx-Regexp-0.051-4.fc27.noarch
 perl-PPIx-Utilities-1.001000-26.fc27.noarch
 perl-Package-Anon-0.05-18.fc27.ppc64le
@@ -3641,6 +3674,7 @@ perl-Package-Variant-1.003002-6.fc27.noarch
 perl-PadWalker-2.2-7.fc27.ppc64le
 perl-Paper-Specs-0.10-15.fc27.noarch
 perl-Parallel-ForkManager-1.19-4.fc27.noarch
+perl-Parallel-Iterator-1.00-18.fc27.noarch
 perl-Params-Check-1:0.38-394.fc27.noarch
 perl-Params-Classify-0.015-1.fc27.ppc64le
 perl-Params-Coerce-0.14-27.fc27.noarch
@@ -3732,6 +3766,7 @@ perl-Statistics-Basic-1.6611-8.fc27.noarch
 perl-Storable-1:2.62-395.fc27.ppc64le
 perl-String-Format-1.17-8.fc27.noarch
 perl-String-RewritePrefix-0.007-8.fc27.noarch
+perl-String-Similarity-1.04-21.fc27.ppc64le
 perl-Struct-Dumb-0.09-5.fc27.noarch
 perl-Sub-Exporter-0.987-13.fc27.noarch
 perl-Sub-Exporter-ForMethods-0.100052-6.fc27.noarch
@@ -3745,6 +3780,7 @@ perl-Sub-Quote-2.004000-2.fc27.noarch
 perl-Sub-Uplevel-1:0.2800-3.fc27.noarch
 perl-Switch-2.17-9.fc27.noarch
 perl-Symbol-Util-0.0203-15.fc27.noarch
+perl-Syntax-Highlight-Engine-Kate-0.10-6.fc27.noarch
 perl-Syntax-Keyword-Junction-0.003008-9.fc27.noarch
 perl-Sys-Syslog-0.35-396.fc27.ppc64le
 perl-TAP-Formatter-HTML-0.11-13.fc27.noarch
@@ -3802,6 +3838,7 @@ perl-Test-Manifest-2.02-8.fc27.noarch
 perl-Test-Memory-Cycle-1.06-6.fc27.noarch
 perl-Test-MinimumVersion-0.101082-7.fc27.noarch
 perl-Test-MockModule-0.12-2.fc27.noarch
+perl-Test-MockObject-1.20161202-4.fc27.noarch
 perl-Test-Mojibake-1.3-4.fc27.noarch
 perl-Test-Moose-2.2006-3.fc27.ppc64le
 perl-Test-Needs-0.002005-4.fc27.noarch
@@ -3857,6 +3894,7 @@ perl-Text-CSV_XS-1.32-1.fc27.ppc64le
 perl-Text-CharWidth-0.04-31.fc27.ppc64le
 perl-Text-Diff-1.45-1.fc28.noarch
 perl-Text-Glob-0.11-3.fc27.noarch
+perl-Text-Haml-0.990118-4.fc27.noarch
 perl-Text-Iconv-1.7-30.fc27.ppc64le
 perl-Text-ParseWords-3.30-394.fc27.noarch
 perl-Text-RecordParser-1.6.5-9.fc27.noarch
@@ -3884,6 +3922,8 @@ perl-Type-Tie-0.009-5.fc27.noarch
 perl-Type-Tiny-1.002001-2.fc27.noarch
 perl-Types-Path-Tiny-0.005-3.fc27.noarch
 perl-Types-Serialiser-1.0-11.fc27.noarch
+perl-UNIVERSAL-can-1.20140328-8.fc27.noarch
+perl-UNIVERSAL-isa-1.20150614-6.fc27.noarch
 perl-UNIVERSAL-moniker-0.08-31.fc27.noarch
 perl-UNIVERSAL-require-0.18-10.fc27.noarch
 perl-URI-1.72-1.fc27.noarch
@@ -3900,16 +3940,20 @@ perl-Unicode-UTF8-0.62-4.fc27.ppc64le
 perl-Validation-Class-7.900057-4.fc27.noarch
 perl-Variable-Magic-0.61-4.fc27.ppc64le
 perl-WWW-RobotRules-6.02-17.fc27.noarch
+perl-XML-Catalog-1.03-10.fc27.noarch
 perl-XML-Dumper-0.81-29.fc27.noarch
 perl-XML-Filter-BufferText-1.01-28.fc27.noarch
 perl-XML-Handler-YAWriter-0.23-29.fc27.noarch
 perl-XML-LibXML-1:2.0129-8.fc27.ppc64le
+perl-XML-LibXSLT-1.95-7.fc28.ppc64le
 perl-XML-NamespaceSupport-1.12-3.fc27.noarch
 perl-XML-Parser-2.44-9.fc27.ppc64le
 perl-XML-SAX-0.99-20.fc27.noarch
 perl-XML-SAX-Base-1.09-3.fc27.noarch
 perl-XML-SAX-Writer-0.57-1.fc27.noarch
 perl-XML-Simple-2.24-3.fc27.noarch
+perl-XML-TokeParser-0.05-24.fc27.noarch
+perl-XML-TreeBuilder-5.4-9.fc27.noarch
 perl-XML-Twig-3.52-5.fc27.noarch
 perl-XML-Writer-0.625-9.fc27.noarch
 perl-XML-XPath-1.42-1.fc27.noarch
@@ -4106,6 +4150,7 @@ pstoedit-3.70-8.fc27.ppc64le
 pstoedit-devel-3.70-8.fc27.ppc64le
 psutils-1.23-12.fc27.ppc64le
 psutils-perl-1.23-12.fc27.noarch
+publican-4.3.2-7.fc27.noarch
 publicsuffix-list-20170828-1.fc28.noarch
 publicsuffix-list-dafsa-20170828-1.fc28.noarch
 pulseaudio-libs-10.99.1-5.fc28.ppc64le
@@ -4367,10 +4412,12 @@ python3-dnf-2.7.3-1.module_56cc991a.modularity.2.7493ec8.noarch
 python3-docker-2.5.1-1.fc28.noarch
 python3-docker-pycreds-0.2.1-5.fc27.noarch
 python3-docutils-0.13.1-7.fc28.noarch
+python3-enchant-1.6.10-2.fc27.noarch
 python3-extras-1.0.0-1.fc28.noarch
 python3-firewall-0.4.4.5-3.fc27.noarch
 python3-fixtures-3.0.0-7.fc28.noarch
 python3-flake8-3.4.1-2.fc28.noarch
+python3-flake8-import-order-0.13-1.fc27.noarch
 python3-flask-1:0.11.1-6.fc27.noarch
 python3-funcsigs-1.0.2-7.fc28.noarch
 python3-gflags-2.0-11.fc28.noarch
@@ -4411,6 +4458,7 @@ python3-libxml2-2.9.5-1.fc28.ppc64le
 python3-linecache2-1.0.0-12.fc28.noarch
 python3-lit-0.5.0-2.fc27.noarch
 python3-lxml-4.0.0-1.fc27.ppc64le
+python3-magic-5.32-1.fc28.noarch
 python3-mallard-ducktype-0.2-8.fc27.noarch
 python3-markupsafe-0.23-16.fc27.ppc64le
 python3-mccabe-0.6.1-4.fc27.noarch
@@ -4575,11 +4623,11 @@ qt5-doctools-5.9.1-1.fc27.ppc64le
 qt5-linguist-5.9.1-1.fc27.ppc64le
 qt5-qt3d-5.9.1-1.fc27.ppc64le
 qt5-qt3d-devel-5.9.1-1.fc27.ppc64le
-qt5-qtbase-5.9.1-5.fc27.ppc64le
-qt5-qtbase-common-5.9.1-5.fc27.noarch
-qt5-qtbase-devel-5.9.1-5.fc27.ppc64le
-qt5-qtbase-gui-5.9.1-5.fc27.ppc64le
-qt5-qtbase-static-5.9.1-5.fc27.ppc64le
+qt5-qtbase-5.9.1-9.fc27.ppc64le
+qt5-qtbase-common-5.9.1-9.fc27.noarch
+qt5-qtbase-devel-5.9.1-9.fc27.ppc64le
+qt5-qtbase-gui-5.9.1-9.fc27.ppc64le
+qt5-qtbase-static-5.9.1-9.fc27.ppc64le
 qt5-qtconnectivity-5.9.1-1.fc27.ppc64le
 qt5-qtconnectivity-devel-5.9.1-1.fc27.ppc64le
 qt5-qtdeclarative-5.9.1-1.fc27.ppc64le
@@ -4694,6 +4742,7 @@ rpm-ostree-2017.8-2.fc28.ppc64le
 rpm-ostree-libs-2017.8-2.fc28.ppc64le
 rpm-plugin-selinux-4.14.0-2.fc28.ppc64le
 rpmdevtools-8.10-3.fc27.noarch
+rpmlint-1.9-12.fc27.noarch
 rrdtool-1.7.0-6.fc28.ppc64le
 rrdtool-devel-1.7.0-6.fc28.ppc64le
 rsh-0.17-84.fc27.ppc64le
@@ -6471,9 +6520,9 @@ vsftpd-3.0.3-7.fc27.ppc64le
 vte-profile-0.48.3-1.fc27.ppc64le
 vte291-0.48.3-1.fc27.ppc64le
 vte291-devel-0.48.3-1.fc27.ppc64le
-vulkan-1.0.57.0-1.fc27.ppc64le
-vulkan-devel-1.0.57.0-1.fc27.ppc64le
-vulkan-filesystem-1.0.57.0-1.fc27.noarch
+vulkan-1.0.61.1-1.fc27.ppc64le
+vulkan-devel-1.0.61.1-1.fc27.ppc64le
+vulkan-filesystem-1.0.61.1-1.fc27.noarch
 w3m-0.5.3-34.git20170102.fc27.ppc64le
 wavpack-5.1.0-4.fc27.ppc64le
 wavpack-devel-5.1.0-4.fc27.ppc64le

@@ -172,7 +172,7 @@ libsemanage-2.7-3.fc28.src
 libsepol-2.7-1.fc27.src
 libsigsegv-2.11-3.fc27.src
 libsolv-0.6.28-8.fc27.src
-libsoup-2.59.90.1-2.fc27.src
+libsoup-2.60.1-1.fc27.src
 libssh-0.7.5-3.fc27.src
 libssh2-1.8.0-4.fc27.src
 libstemmer-0-7.585svn.fc27.src

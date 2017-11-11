@@ -342,6 +342,8 @@ axiom
 axis
 b43-openfwwf
 b43-tools
+baekmuk-ttf-batang-fonts
+baekmuk-ttf-fonts-common
 bakefile
 base64coder
 basesystem
@@ -496,6 +498,7 @@ chkconfig
 chrpath
 cifs-utils
 cifs-utils-devel
+cjkuni-uming-fonts
 clang
 clang-devel
 clang-libs
@@ -1210,7 +1213,6 @@ gtkspell3-devel
 gts
 gts-devel
 guava
-guava-testlib
 guice-extensions
 guice-parent
 guice-servlet
@@ -1319,6 +1321,8 @@ initscripts
 inkscape
 intltool
 invokebinder
+ipa-gothic-fonts
+ipa-pgothic-fonts
 ipcalc
 iproute
 ipset
@@ -2013,6 +2017,8 @@ libgpg-error
 libgpg-error-devel
 libgphoto2
 libgphoto2-devel
+libgtop2
+libgtop2-devel
 libgudev
 libgudev-devel
 libgusb
@@ -2362,6 +2368,7 @@ liquibase
 lirc-core
 lirc-devel
 lirc-libs
+lklug-fonts
 lksctp-tools
 lksctp-tools-devel
 lldpad
@@ -2914,6 +2921,7 @@ nodejs-monocle
 nodejs-ms
 nodejs-multimatch
 nodejs-nan
+nodejs-nan0
 nodejs-next-tick
 nodejs-node-uuid
 nodejs-nomnom
@@ -3134,6 +3142,7 @@ os-prober
 osgi-annotation
 osgi-compendium
 osgi-core
+overpass-fonts
 p11-kit
 p11-kit-devel
 p11-kit-trust
@@ -3216,10 +3225,12 @@ perl-BDB
 perl-BSD-Resource
 perl-Bencode
 perl-Bit-Vector
+perl-Browser-Open
 perl-Business-ISBN
 perl-Business-ISBN-Data
 perl-CBOR-XS
 perl-CGI
+perl-CGI-Application
 perl-CPAN
 perl-CPAN-Changes
 perl-CPAN-DistnameInfo
@@ -3228,6 +3239,8 @@ perl-CPAN-Meta-Check
 perl-CPAN-Meta-Requirements
 perl-CPAN-Meta-YAML
 perl-CPANPLUS
+perl-CSS
+perl-CSS-Tiny
 perl-Canary-Stability
 perl-Capture-Tiny
 perl-Carp
@@ -3263,6 +3276,7 @@ perl-Config-Any
 perl-Config-AutoConf
 perl-Config-General
 perl-Config-Perl-V
+perl-Config-Simple
 perl-Config-Tiny
 perl-Const-Fast
 perl-Context-Preserve
@@ -3312,6 +3326,7 @@ perl-Date-Simple
 perl-DateTime
 perl-DateTime-Calendar-Mayan
 perl-DateTime-Format-Builder
+perl-DateTime-Format-DateParse
 perl-DateTime-Format-HTTP
 perl-DateTime-Format-IBeat
 perl-DateTime-Format-Mail
@@ -3331,6 +3346,7 @@ perl-Devel-Caller
 perl-Devel-CheckBin
 perl-Devel-CheckCompiler
 perl-Devel-CheckLib
+perl-Devel-Cover
 perl-Devel-Cycle
 perl-Devel-Declare
 perl-Devel-EnforceEncapsulation
@@ -3404,6 +3420,7 @@ perl-File-Find-Rule
 perl-File-Find-Rule-Perl
 perl-File-Flat
 perl-File-HomeDir
+perl-File-Inplace
 perl-File-Listing
 perl-File-MimeInfo
 perl-File-Path
@@ -3430,6 +3447,7 @@ perl-Function-Parameters
 perl-Future
 perl-GD
 perl-GD-Barcode
+perl-GTop
 perl-Getopt-ArgvFile
 perl-Getopt-Long
 perl-Getopt-Long-Descriptive
@@ -3439,11 +3457,16 @@ perl-Graph
 perl-GraphViz
 perl-Guard
 perl-HTML-Element-Extended
+perl-HTML-FormatText-WithLinks
+perl-HTML-FormatText-WithLinks-AndTables
 perl-HTML-Formatter
 perl-HTML-Parser
 perl-HTML-TableExtract
 perl-HTML-Tagset
+perl-HTML-Template
 perl-HTML-Tree
+perl-HTML-WikiConverter
+perl-HTML-WikiConverter-Markdown
 perl-HTTP-Cookies
 perl-HTTP-Daemon
 perl-HTTP-Date
@@ -3475,6 +3498,8 @@ perl-IO-stringy
 perl-IPC-Cmd
 perl-IPC-Run
 perl-IPC-Run3
+perl-IPC-ShareLite
+perl-IPC-SharedCache
 perl-IPC-SysV
 perl-IPC-System-Simple
 perl-Ima-DBI
@@ -3497,12 +3522,19 @@ perl-Jcode
 perl-LWP-MediaTypes
 perl-Lexical-SealRequireHints
 perl-Lexical-Var
+perl-Lingua-EN-Fathom
 perl-Lingua-EN-Inflect
+perl-Lingua-EN-Sentence
+perl-Lingua-EN-Syllable
 perl-List-MoreUtils
 perl-List-MoreUtils-XS
 perl-Locale-Codes
 perl-Locale-Maketext
+perl-Locale-Maketext-Gettext
+perl-Locale-Maketext-Lexicon
 perl-Locale-Maketext-Simple
+perl-Locale-Msgfmt
+perl-Locale-PO
 perl-Locale-US
 perl-Locale-gettext
 perl-Log-Message
@@ -3605,6 +3637,7 @@ perl-PHP-Serialization
 perl-POE
 perl-POE-Test-Loops
 perl-PPI
+perl-PPI-HTML
 perl-PPIx-Regexp
 perl-PPIx-Utilities
 perl-Package-Anon
@@ -3617,6 +3650,7 @@ perl-Package-Variant
 perl-PadWalker
 perl-Paper-Specs
 perl-Parallel-ForkManager
+perl-Parallel-Iterator
 perl-Params-Check
 perl-Params-Classify
 perl-Params-Coerce
@@ -3708,6 +3742,7 @@ perl-Statistics-Basic
 perl-Storable
 perl-String-Format
 perl-String-RewritePrefix
+perl-String-Similarity
 perl-Struct-Dumb
 perl-Sub-Exporter
 perl-Sub-Exporter-ForMethods
@@ -3721,6 +3756,7 @@ perl-Sub-Quote
 perl-Sub-Uplevel
 perl-Switch
 perl-Symbol-Util
+perl-Syntax-Highlight-Engine-Kate
 perl-Syntax-Keyword-Junction
 perl-Sys-Syslog
 perl-TAP-Formatter-HTML
@@ -3778,6 +3814,7 @@ perl-Test-Manifest
 perl-Test-Memory-Cycle
 perl-Test-MinimumVersion
 perl-Test-MockModule
+perl-Test-MockObject
 perl-Test-Mojibake
 perl-Test-Moose
 perl-Test-Needs
@@ -3833,6 +3870,7 @@ perl-Text-CSV_XS
 perl-Text-CharWidth
 perl-Text-Diff
 perl-Text-Glob
+perl-Text-Haml
 perl-Text-Iconv
 perl-Text-ParseWords
 perl-Text-RecordParser
@@ -3860,6 +3898,8 @@ perl-Type-Tie
 perl-Type-Tiny
 perl-Types-Path-Tiny
 perl-Types-Serialiser
+perl-UNIVERSAL-can
+perl-UNIVERSAL-isa
 perl-UNIVERSAL-moniker
 perl-UNIVERSAL-require
 perl-URI
@@ -3876,16 +3916,20 @@ perl-Unicode-UTF8
 perl-Validation-Class
 perl-Variable-Magic
 perl-WWW-RobotRules
+perl-XML-Catalog
 perl-XML-Dumper
 perl-XML-Filter-BufferText
 perl-XML-Handler-YAWriter
 perl-XML-LibXML
+perl-XML-LibXSLT
 perl-XML-NamespaceSupport
 perl-XML-Parser
 perl-XML-SAX
 perl-XML-SAX-Base
 perl-XML-SAX-Writer
 perl-XML-Simple
+perl-XML-TokeParser
+perl-XML-TreeBuilder
 perl-XML-Twig
 perl-XML-Writer
 perl-XML-XPath
@@ -4085,6 +4129,7 @@ pstoedit
 pstoedit-devel
 psutils
 psutils-perl
+publican
 publicsuffix-list
 publicsuffix-list-dafsa
 pulseaudio-libs
@@ -4135,6 +4180,7 @@ python2-cffi
 python2-chardet
 python2-cliapp
 python2-click
+python2-configparser
 python2-construct
 python2-contextlib2
 python2-coverage
@@ -4155,6 +4201,7 @@ python2-empy
 python2-enum34
 python2-extras
 python2-fixtures
+python2-flake8
 python2-flask
 python2-fonttools
 python2-funcsigs
@@ -4191,6 +4238,7 @@ python2-lxml
 python2-mako
 python2-markdown
 python2-markupsafe
+python2-mccabe
 python2-mimeparse
 python2-mock
 python2-modulemd
@@ -4217,6 +4265,7 @@ python2-py
 python2-pyOpenSSL
 python2-pyasn1
 python2-pyasn1-modules
+python2-pycodestyle
 python2-pycparser
 python2-pycurl
 python2-pygments
@@ -4325,9 +4374,12 @@ python3-decorator
 python3-devel
 python3-dnf
 python3-docutils
+python3-enchant
 python3-extras
 python3-firewall
 python3-fixtures
+python3-flake8
+python3-flake8-import-order
 python3-flask
 python3-funcsigs
 python3-gflags
@@ -4363,8 +4415,10 @@ python3-libvirt
 python3-linecache2
 python3-lit
 python3-lxml
+python3-magic
 python3-mallard-ducktype
 python3-markupsafe
+python3-mccabe
 python3-mimeparse
 python3-mock
 python3-modulemd
@@ -4387,6 +4441,7 @@ python3-pyOpenSSL
 python3-pyasn1
 python3-pyasn1-modules
 python3-pybeam
+python3-pycodestyle
 python3-pycparser
 python3-pycurl
 python3-pyelftools
@@ -4637,6 +4692,7 @@ rpm-libs
 rpm-mpi-hooks
 rpm-plugin-selinux
 rpmdevtools
+rpmlint
 rrdtool
 rrdtool-devel
 rsh

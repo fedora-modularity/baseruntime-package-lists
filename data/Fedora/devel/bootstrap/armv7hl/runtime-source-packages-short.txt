@@ -1134,7 +1134,6 @@ libmspub
 libmtp
 libmusicbrainz5
 libmwaw
-libmx
 libndp
 libnet
 libnetfilter_conntrack
@@ -2096,6 +2095,7 @@ python-service-identity
 python-setproctitle
 python-setuptools
 python-simplejson
+python-simpleline
 python-six
 python-slip
 python-smartcols

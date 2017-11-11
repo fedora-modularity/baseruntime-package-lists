@@ -2192,7 +2192,6 @@ libmspub
 libmtp
 libmusicbrainz5
 libmwaw
-libmx
 libndp
 libndp-devel
 libnet
@@ -3960,6 +3959,7 @@ python3-scipy
 python3-setools
 python3-setproctitle
 python3-setuptools
+python3-simpleline
 python3-sip
 python3-six
 python3-slip

@@ -96,7 +96,7 @@ apacheds-2.0.0-0.5.M21.fc27.src
 apacheds-jdbm-2.0.0-0.7.M3.fc27.src
 apacheds-ldap-api-1.0.0-0.4.M33.fc27.src
 apiviz-1.3.2-13.fc26.src
-appstream-0.11.2-4.fc27.src
+appstream-0.11.6-1.fc27.src
 appstream-data-27-4.fc27.src
 apr-1.6.2-3.fc27.src
 apr-util-1.6.0-1.fc28.src
@@ -155,6 +155,7 @@ b43-openfwwf-5.2-16.fc27.src
 b43-tools-017-11.fc28.src
 babel-2.3.4-6.fc27.src
 babeltrace-1.5.3-1.fc27.src
+baekmuk-ttf-fonts-2.2-43.fc27.src
 bakefile-0.2.10-4.fc27.src
 base64coder-20101219-19.fc27.src
 basesystem-11-4.fc27.src
@@ -217,6 +218,7 @@ chkconfig-1.10-3.fc27.src
 chromaprint-1.2-8.fc27.src
 chrpath-0.16-6.fc27.src
 cifs-utils-6.7-3.fc27.src
+cjkuni-uming-fonts-0.2.20080216.1-59.fc27.src
 clang-4.0.1-7.fc27.src
 classloader-leak-test-framework-1.1.1-3.fc27.src
 classmate-1.3.1-3.fc27.src
@@ -371,7 +373,7 @@ erlang-getopt-0.8.2-7.fc27.src
 erlang-gettext-2.1.0-0.15.20140318gitcb4654d.fc27.src
 erlang-hamcrest-0.1.0-7.fc27.src
 erlang-lfe-1.3-3.fc27.src
-erlang-meck-0.8.4-5.fc26.src
+erlang-meck-0.8.8-2.fc27.src
 erlang-mustache-0.1.1-7.fc27.src
 erlang-neotoma-1.7.4-4.fc27.src
 erlang-proper-1.2-6.fc27.src
@@ -649,6 +651,8 @@ initscripts-9.77-1.fc27.src
 inkscape-0.92.1-12.20170713bzr15740.fc28.src
 intltool-0.51.0-10.fc27.src
 invokebinder-1.2-7.fc27.src
+ipa-gothic-fonts-003.03-11.fc27.src
+ipa-pgothic-fonts-003.03-10.fc27.src
 ipcalc-0.2.0-3.fc27.src
 iproute-4.12.0-3.fc27.src
 ipset-6.32-1.fc27.src
@@ -777,7 +781,7 @@ jcip-annotations-1-21.20060626.fc27.src
 jcodings-1.0.9-12.fc27.src
 jcommon-1.0.23-6.fc27.src
 jcsp-1.1-0.7.rc5.fc27.src
-jctools-2.0.2-1.fc27.src
+jctools-2.0.2-2.fc27.src
 jdbi-2.63.1-4.fc27.src
 jdeparser-2.0.0-3.fc27.src
 jdeparser1-1.0.0-4.fc27.src
@@ -1009,6 +1013,7 @@ libgnomecanvas-2.30.3-14.fc27.src
 libgnomeui-2.24.5-16.fc27.src
 libgpg-error-1.27-3.fc27.src
 libgphoto2-2.5.14-3.fc27.src
+libgtop2-2.37.90-1.fc27.src
 libgudev-232-1.fc27.src
 libgusb-0.2.11-3.fc27.src
 libibmad-1.3.13-5.fc28.src
@@ -1088,7 +1093,7 @@ libsigsegv-2.11-3.fc27.src
 libsmi-0.4.8-20.fc27.src
 libsndfile-1.0.28-6.fc28.src
 libsolv-0.6.28-8.fc27.src
-libsoup-2.59.90.1-2.fc27.src
+libsoup-2.60.1-1.fc27.src
 libspectre-0.2.8-4.fc27.src
 libspiro-20150131-6.fc27.src
 libsrtp-1.5.4-6.fc27.src
@@ -1149,6 +1154,7 @@ linuxconsoletools-1.4.9-5.fc27.src
 linuxdoc-tools-0.9.72-3.fc27.src
 liquibase-3.5.1-1.fc25.src
 lirc-0.10.0-3.fc28.src
+lklug-fonts-0.6-16.20090803cvs.fc27.src
 lksctp-tools-1.0.16-8.fc27.src
 lldpad-1.0.1-8.git036e314.fc27.src
 llvm-4.0.1-4.fc28.src
@@ -1191,7 +1197,7 @@ malaga-suomi-voikko-1.19-4.fc27.src
 mallard-rng-1.0.2-3.fc27.src
 man-db-2.7.6.1-5.fc27.src
 man2html-1.6-20.g.fc27.src
-mariadb-3:10.2.7-8.fc27.src
+mariadb-3:10.2.9-3.fc27.src
 mariadb-connector-c-3.0.2-16.fc28.src
 maven-1:3.5.0-6.fc27.src
 maven-antrun-plugin-1.8-5.fc27.src
@@ -1544,6 +1550,7 @@ nodejs-monocle-1.1.51-9.fc26.src
 nodejs-ms-2.0.0-2.fc27.src
 nodejs-multimatch-2.1.0-4.fc27.src
 nodejs-nan-2.6.2-2.fc27.src
+nodejs-nan0-0.8.0-7.fc27.src
 nodejs-next-tick-0.2.2-5.fc27.src
 nodejs-node-uuid-1.4.7-4.fc27.src
 nodejs-nomnom-1.8.1-7.fc27.src
@@ -1702,6 +1709,7 @@ os-prober-1.74-3.fc27.src
 osgi-annotation-6.0.0-6.fc27.src
 osgi-compendium-6.0.0-4.fc27.src
 osgi-core-6.0.0-5.fc27.src
+overpass-fonts-3.0.2-2.fc27.src
 p11-kit-0.23.8-2.fc28.src
 p7zip-16.02-5.fc27.src
 pacemaker-1.1.17-1.fc27.2.src
@@ -1750,10 +1758,12 @@ perl-BDB-1.91-9.fc27.src
 perl-BSD-Resource-1.291.100-4.fc27.src
 perl-Bencode-1.402-8.fc27.src
 perl-Bit-Vector-7.4-9.fc27.src
+perl-Browser-Open-0.04-17.fc27.src
 perl-Business-ISBN-3.004-3.fc27.src
 perl-Business-ISBN-Data-20140910.003-6.fc27.src
 perl-CBOR-XS-1.7-3.fc27.src
 perl-CGI-4.36-4.fc27.src
+perl-CGI-Application-4.50-18.fc27.src
 perl-CPAN-2.18-395.fc27.src
 perl-CPAN-Changes-0.400002-6.fc27.src
 perl-CPAN-DistnameInfo-0.12-10.fc27.src
@@ -1762,6 +1772,8 @@ perl-CPAN-Meta-Check-0.014-4.fc27.src
 perl-CPAN-Meta-Requirements-2.140-395.fc27.src
 perl-CPAN-Meta-YAML-0.018-395.fc27.src
 perl-CPANPLUS-0.916.800-4.fc27.src
+perl-CSS-1.09-11.fc27.src
+perl-CSS-Tiny-1.20-5.fc27.src
 perl-Canary-Stability-2012-4.fc27.src
 perl-Capture-Tiny-0.46-3.fc27.src
 perl-Carp-1.42-394.fc27.src
@@ -1797,6 +1809,7 @@ perl-Config-Any-0.32-3.fc27.src
 perl-Config-AutoConf-0.315-1.fc27.src
 perl-Config-General-2.63-4.fc27.src
 perl-Config-Perl-V-0.28-395.fc27.src
+perl-Config-Simple-4.59-26.fc27.src
 perl-Config-Tiny-2.23-8.fc27.src
 perl-Const-Fast-0.014-12.fc27.src
 perl-Context-Preserve-0.02-3.fc27.src
@@ -1846,6 +1859,7 @@ perl-Date-Simple-3.03-27.fc27.src
 perl-DateTime-2:1.44-1.fc28.src
 perl-DateTime-Calendar-Mayan-0.0601-24.fc27.src
 perl-DateTime-Format-Builder-0.8100-13.fc27.src
+perl-DateTime-Format-DateParse-0.05-15.fc27.src
 perl-DateTime-Format-HTTP-0.42-8.fc27.src
 perl-DateTime-Format-IBeat-0.161-29.fc27.src
 perl-DateTime-Format-Mail-1:0.403-4.fc27.src
@@ -1865,6 +1879,7 @@ perl-Devel-Caller-2.06-14.fc27.src
 perl-Devel-CheckBin-0.04-6.fc27.src
 perl-Devel-CheckCompiler-0.07-4.fc27.src
 perl-Devel-CheckLib-1.11-3.fc27.src
+perl-Devel-Cover-1.26-1.fc27.src
 perl-Devel-Cycle-1.12-8.fc27.src
 perl-Devel-Declare-0.006019-5.fc27.src
 perl-Devel-EnforceEncapsulation-0.51-10.fc27.src
@@ -1930,6 +1945,7 @@ perl-File-Find-Rule-0.34-7.fc27.src
 perl-File-Find-Rule-Perl-1.15-9.fc27.src
 perl-File-Flat-1.04-27.fc27.src
 perl-File-HomeDir-1.002-3.fc27.src
+perl-File-Inplace-0.20-18.fc27.src
 perl-File-Listing-6.04-16.fc27.src
 perl-File-MimeInfo-0.28-6.fc27.src
 perl-File-Path-2.15-1.fc27.src
@@ -1956,6 +1972,7 @@ perl-Function-Parameters-2.1.1-3.fc27.src
 perl-Future-0.35-2.fc27.src
 perl-GD-2.66-4.fc27.src
 perl-GD-Barcode-1.15-26.fc27.src
+perl-GTop-0.18-20.fc27.src
 perl-Getopt-ArgvFile-1.11-24.fc27.src
 perl-Getopt-Long-1:2.50-3.fc27.src
 perl-Getopt-Long-Descriptive-0.100-4.fc27.src
@@ -1965,10 +1982,15 @@ perl-GraphViz-2.24-4.fc27.src
 perl-Guard-1.023-10.fc27.src
 perl-HTML-Element-Extended-1.18-12.fc27.src
 perl-HTML-Format-2.16-4.fc27.src
+perl-HTML-FormatText-WithLinks-0.15-8.fc27.src
+perl-HTML-FormatText-WithLinks-AndTables-0.07-4.fc27.src
 perl-HTML-Parser-3.72-9.fc27.src
 perl-HTML-TableExtract-2.13-6.fc27.src
 perl-HTML-Tagset-3.20-31.fc27.src
+perl-HTML-Template-2.97-3.fc27.src
 perl-HTML-Tree-1:5.07-1.fc27.src
+perl-HTML-WikiConverter-0.68-23.fc27.src
+perl-HTML-WikiConverter-Markdown-0.06-8.fc27.src
 perl-HTTP-Cookies-6.04-1.fc27.src
 perl-HTTP-Daemon-6.01-17.fc27.src
 perl-HTTP-Date-6.02-17.fc27.src
@@ -1998,6 +2020,8 @@ perl-IO-stringy-2.111-8.fc27.src
 perl-IPC-Cmd-2:0.98-4.fc27.src
 perl-IPC-Run-0.96-3.fc27.src
 perl-IPC-Run3-0.048-11.fc27.src
+perl-IPC-ShareLite-0.17-24.fc27.src
+perl-IPC-SharedCache-1.3-33.fc27.src
 perl-IPC-SysV-2.07-396.fc27.src
 perl-IPC-System-Simple-1.25-16.fc27.src
 perl-Ima-DBI-0.35-27.fc27.src
@@ -2020,11 +2044,18 @@ perl-Jcode-2.07-23.fc27.src
 perl-LWP-MediaTypes-6.02-13.fc27.src
 perl-Lexical-SealRequireHints-0.011-3.fc27.src
 perl-Lexical-Var-0.009-13.fc27.src
+perl-Lingua-EN-Fathom-1.19-4.fc27.src
 perl-Lingua-EN-Inflect-1.902-3.fc27.src
+perl-Lingua-EN-Sentence-0.30-4.fc27.src
+perl-Lingua-EN-Syllable-1:0.30-5.fc27.src
 perl-List-MoreUtils-0.423-1.fc28.src
 perl-List-MoreUtils-XS-0.423-1.fc28.src
 perl-Locale-Codes-3.54-1.fc27.src
 perl-Locale-Maketext-1.28-395.fc27.src
+perl-Locale-Maketext-Gettext-1.28-8.fc27.src
+perl-Locale-Maketext-Lexicon-1.00-12.fc27.src
+perl-Locale-Msgfmt-0.15-19.fc27.src
+perl-Locale-PO-0.27-8.fc27.src
 perl-Locale-US-3.04-6.fc27.src
 perl-Log-Message-1:0.08-13.fc27.src
 perl-Log-Message-Simple-0.10-301.fc27.src
@@ -2120,6 +2151,7 @@ perl-PHP-Serialization-0.34-19.fc27.src
 perl-POE-1.367-12.fc27.src
 perl-POE-Test-Loops-1.360-8.fc27.src
 perl-PPI-1.236-2.fc27.src
+perl-PPI-HTML-1.08-14.fc27.src
 perl-PPIx-Regexp-0.051-4.fc27.src
 perl-PPIx-Utilities-1.001000-26.fc27.src
 perl-Package-Anon-0.05-18.fc27.src
@@ -2132,6 +2164,7 @@ perl-Package-Variant-1.003002-6.fc27.src
 perl-PadWalker-2.2-7.fc27.src
 perl-Paper-Specs-0.10-15.fc27.src
 perl-Parallel-ForkManager-1.19-4.fc27.src
+perl-Parallel-Iterator-1.00-18.fc27.src
 perl-Params-Check-1:0.38-394.fc27.src
 perl-Params-Classify-0.015-1.fc27.src
 perl-Params-Coerce-0.14-27.fc27.src
@@ -2221,6 +2254,7 @@ perl-Statistics-Basic-1.6611-8.fc27.src
 perl-Storable-1:2.62-395.fc27.src
 perl-String-Format-1.17-8.fc27.src
 perl-String-RewritePrefix-0.007-8.fc27.src
+perl-String-Similarity-1.04-21.fc27.src
 perl-Struct-Dumb-0.09-5.fc27.src
 perl-Sub-Exporter-0.987-13.fc27.src
 perl-Sub-Exporter-ForMethods-0.100052-6.fc27.src
@@ -2234,6 +2268,7 @@ perl-Sub-Quote-2.004000-2.fc27.src
 perl-Sub-Uplevel-1:0.2800-3.fc27.src
 perl-Switch-2.17-9.fc27.src
 perl-Symbol-Util-0.0203-15.fc27.src
+perl-Syntax-Highlight-Engine-Kate-0.10-6.fc27.src
 perl-Syntax-Keyword-Junction-0.003008-9.fc27.src
 perl-Sys-Syslog-0.35-396.fc27.src
 perl-TAP-Formatter-HTML-0.11-13.fc27.src
@@ -2290,6 +2325,7 @@ perl-Test-Manifest-2.02-8.fc27.src
 perl-Test-Memory-Cycle-1.06-6.fc27.src
 perl-Test-MinimumVersion-0.101082-7.fc27.src
 perl-Test-MockModule-0.12-2.fc27.src
+perl-Test-MockObject-1.20161202-4.fc27.src
 perl-Test-Mojibake-1.3-4.fc27.src
 perl-Test-Needs-0.002005-4.fc27.src
 perl-Test-NoBreakpoints-0.15-16.fc27.src
@@ -2343,6 +2379,7 @@ perl-Text-CSV_XS-1.32-1.fc27.src
 perl-Text-CharWidth-0.04-31.fc27.src
 perl-Text-Diff-1.45-1.fc28.src
 perl-Text-Glob-0.11-3.fc27.src
+perl-Text-Haml-0.990118-4.fc27.src
 perl-Text-Iconv-1.7-30.fc27.src
 perl-Text-ParseWords-3.30-394.fc27.src
 perl-Text-RecordParser-1.6.5-9.fc27.src
@@ -2369,6 +2406,8 @@ perl-Type-Tie-0.009-5.fc27.src
 perl-Type-Tiny-1.002001-2.fc27.src
 perl-Types-Path-Tiny-0.005-3.fc27.src
 perl-Types-Serialiser-1.0-11.fc27.src
+perl-UNIVERSAL-can-1.20140328-8.fc27.src
+perl-UNIVERSAL-isa-1.20150614-6.fc27.src
 perl-UNIVERSAL-moniker-0.08-31.fc27.src
 perl-UNIVERSAL-require-0.18-10.fc27.src
 perl-URI-1.72-1.fc27.src
@@ -2385,16 +2424,20 @@ perl-Unicode-UTF8-0.62-4.fc27.src
 perl-Validation-Class-7.900057-4.fc27.src
 perl-Variable-Magic-0.61-4.fc27.src
 perl-WWW-RobotRules-6.02-17.fc27.src
+perl-XML-Catalog-1.03-10.fc27.src
 perl-XML-Dumper-0.81-29.fc27.src
 perl-XML-Filter-BufferText-1.01-28.fc27.src
 perl-XML-Handler-YAWriter-0.23-29.fc27.src
 perl-XML-LibXML-1:2.0129-8.fc27.src
+perl-XML-LibXSLT-1.95-7.fc28.src
 perl-XML-NamespaceSupport-1.12-3.fc27.src
 perl-XML-Parser-2.44-9.fc27.src
 perl-XML-SAX-0.99-20.fc27.src
 perl-XML-SAX-Base-1.09-3.fc27.src
 perl-XML-SAX-Writer-0.57-1.fc27.src
 perl-XML-Simple-2.24-3.fc27.src
+perl-XML-TokeParser-0.05-24.fc27.src
+perl-XML-TreeBuilder-5.4-9.fc27.src
 perl-XML-Twig-3.52-5.fc27.src
 perl-XML-Writer-0.625-9.fc27.src
 perl-XML-XPath-1.42-1.fc27.src
@@ -2511,6 +2554,7 @@ proxytoys-1.0-10.fc27.src
 psmisc-23.1-2.fc27.src
 pstoedit-3.70-8.fc27.src
 psutils-1.23-12.fc27.src
+publican-4.3.2-7.fc27.src
 publicsuffix-list-20170828-1.fc28.src
 pulseaudio-10.99.1-5.fc28.src
 pyOpenSSL-17.3.0-2.fc28.src
@@ -2542,6 +2586,7 @@ python-cffi-1.11.0-2.fc28.src
 python-chardet-3.0.4-3.fc28.src
 python-cliapp-1.20160724-6.fc28.src
 python-click-6.7-5.fc28.src
+python-configparser-3.5.0b2-7.fc28.src
 python-construct-2.5.1-12.fc28.src
 python-contextlib2-0.5.5-4.fc28.src
 python-coverage-4.4.1-4.fc28.src
@@ -2558,9 +2603,12 @@ python-dns-1.15.0-5.fc28.src
 python-docutils-0.13.1-7.fc28.src
 python-dtopt-0.1-25.fc28.src
 python-empy-3.3.2-13.fc27.src
+python-enchant-1.6.10-2.fc27.src
 python-enum34-1.1.6-3.fc28.src
 python-extras-1.0.0-1.fc28.src
 python-fixtures-3.0.0-7.fc28.src
+python-flake8-3.4.1-2.fc28.src
+python-flake8-import-order-0.13-1.fc27.src
 python-flask-1:0.11.1-6.fc27.src
 python-funcsigs-1.0.2-7.fc28.src
 python-gflags-2.0-11.fc28.src
@@ -2589,6 +2637,7 @@ python-lxml-4.0.0-1.fc27.src
 python-mako-1.0.6-6.fc28.src
 python-markdown-2.6.9-2.fc27.src
 python-markupsafe-0.23-16.fc27.src
+python-mccabe-0.6.1-4.fc27.src
 python-mimeparse-1.6.0-4.fc28.src
 python-mock-2.0.0-6.fc28.src
 python-mox-0.5.3-14.fc28.src
@@ -2612,6 +2661,7 @@ python-ptyprocess-0.5.2-2.fc27.src
 python-py-1.4.34-5.fc28.src
 python-pyasn1-0.3.4-2.fc28.src
 python-pybeam-0.3.2-7.fc28.src
+python-pycodestyle-2.3.1-1.fc28.src
 python-pycparser-2.14-12.fc28.src
 python-pycurl-7.43.0-9.fc27.src
 python-pygments-2.2.0-9.fc28.src
@@ -2696,7 +2746,7 @@ qt-mobility-1.2.2-0.29.20140317git169da60c.fc28.src
 qt3-3.3.8b-71.fc27.src
 qt5-5.9.1-2.fc27.src
 qt5-qt3d-5.9.1-1.fc27.src
-qt5-qtbase-5.9.1-5.fc27.src
+qt5-qtbase-5.9.1-9.fc27.src
 qt5-qtconnectivity-5.9.1-1.fc27.src
 qt5-qtdeclarative-5.9.1-1.fc27.src
 qt5-qtenginio-1:1.6.2-8.fc27.src
@@ -2758,6 +2808,7 @@ rpcbind-0.2.4-7.rc2.fc27.2.src
 rpm-4.14.0-2.fc28.src
 rpm-mpi-hooks-5-2.fc27.src
 rpmdevtools-8.10-3.fc27.src
+rpmlint-1.9-12.fc27.src
 rrdtool-1.7.0-6.fc28.src
 rsh-0.17-84.fc27.src
 rsync-3.1.2-7.fc27.src
@@ -3103,7 +3154,7 @@ uthash-2.0.2-3.fc27.src
 util-linux-2.30.2-1.fc28.src
 uuid-1.6.2-39.fc27.src
 uw-imap-2007f-17.fc27.src
-v4l-utils-1.12.5-4.fc27.src
+v4l-utils-1.12.5-5.fc27.src
 vala-0.37.90-1.fc28.src
 valgrind-1:3.13.0-7.fc28.src
 vboot-utils-20170302-3.gita1c5f7c.fc27.src
@@ -3115,7 +3166,7 @@ volume_key-0.3.9-16.fc28.src
 vorbis-java-0.8-3.fc27.src
 vsftpd-3.0.3-7.fc27.src
 vte291-0.48.3-1.fc27.src
-vulkan-1.0.57.0-1.fc27.src
+vulkan-1.0.61.1-1.fc27.src
 w3m-0.5.3-34.git20170102.fc27.src
 wavpack-5.1.0-4.fc27.src
 wayland-1.14.0-1.fc27.src

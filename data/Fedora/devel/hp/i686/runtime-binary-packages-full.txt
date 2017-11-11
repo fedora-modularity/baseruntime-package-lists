@@ -269,7 +269,7 @@ libsepol-2.7-1.fc27.i686
 libsigsegv-2.11-3.fc27.i686
 libsmartcols-2.30.2-1.fc28.i686
 libsolv-0.6.28-8.fc27.i686
-libsoup-2.59.90.1-2.fc27.i686
+libsoup-2.60.1-1.fc27.i686
 libss-1.43.6-1.fc28.i686
 libssh-0.7.5-3.fc27.i686
 libssh2-1.8.0-4.fc27.i686
