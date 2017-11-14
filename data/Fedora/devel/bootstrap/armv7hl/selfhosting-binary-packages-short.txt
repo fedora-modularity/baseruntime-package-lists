@@ -3145,6 +3145,7 @@ jvnet-parent
 jwnl
 jython
 jzlib
+kabi-dw
 kacst-art-fonts
 kacst-book-fonts
 kacst-decorative-fonts

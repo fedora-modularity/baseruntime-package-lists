@@ -1574,6 +1574,7 @@ jvnet-parent
 jwnl
 jython
 jzlib
+kabi-dw
 kacst-fonts
 kate4
 kbd

@@ -926,6 +926,7 @@ jss-4.4.2-4.fc27.src
 julietaula-montserrat-fonts-1:6.002-3.fc27.src
 junit-1:4.12-7.fc27.src
 jzlib-1.1.3-6.fc27.src
+kabi-dw-0-0.2.20171018gite6af311.fc27.src
 kacst-fonts-2.0-18.fc27.src
 kate4-4.14.3-19.fc27.src
 kbd-2.0.4-4.fc27.src

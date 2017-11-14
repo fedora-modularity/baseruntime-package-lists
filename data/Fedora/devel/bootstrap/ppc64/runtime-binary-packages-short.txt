@@ -1641,6 +1641,7 @@ jss
 julietaula-montserrat-fonts
 junit
 jzlib
+kabi-dw
 kacst-art-fonts
 kacst-book-fonts
 kacst-decorative-fonts
@@ -1790,6 +1791,7 @@ libappstream-glib-devel
 libarchive
 libarchive-devel
 libart_lgpl
+libasan
 libassuan
 libasyncns
 libatasmart
