@@ -1794,8 +1794,8 @@ ghc-resourcet-1.1.9-3.fc27.s390x
 ghc-resourcet-devel-1.1.9-3.fc27.s390x
 ghc-rfc5051-0.1.0.3-10.fc27.s390x
 ghc-rfc5051-devel-0.1.0.3-10.fc27.s390x
-ghc-rpm-macros-1.6.50-1.fc27.noarch
-ghc-rpm-macros-extra-1.6.50-1.fc27.noarch
+ghc-rpm-macros-1.6.50-8.fc27.noarch
+ghc-rpm-macros-extra-1.6.50-8.fc27.noarch
 ghc-scientific-0.3.4.10-3.fc27.s390x
 ghc-scientific-devel-0.3.4.10-3.fc27.s390x
 ghc-semigroups-0.18.2-3.fc27.s390x

@@ -1844,8 +1844,8 @@ ghc-resourcet-1.1.9-3.fc27.x86_64
 ghc-resourcet-devel-1.1.9-3.fc27.x86_64
 ghc-rfc5051-0.1.0.3-10.fc27.x86_64
 ghc-rfc5051-devel-0.1.0.3-10.fc27.x86_64
-ghc-rpm-macros-1.6.50-1.fc27.noarch
-ghc-rpm-macros-extra-1.6.50-1.fc27.noarch
+ghc-rpm-macros-1.6.50-8.fc27.noarch
+ghc-rpm-macros-extra-1.6.50-8.fc27.noarch
 ghc-scientific-0.3.4.10-3.fc27.x86_64
 ghc-scientific-devel-0.3.4.10-3.fc27.x86_64
 ghc-semigroups-0.18.2-3.fc27.x86_64
