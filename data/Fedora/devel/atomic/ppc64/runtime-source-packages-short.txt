@@ -19,7 +19,6 @@ chrony
 cloud-init
 cloud-utils
 cockpit
-compat-openssl10
 coreutils
 cpio
 cracklib

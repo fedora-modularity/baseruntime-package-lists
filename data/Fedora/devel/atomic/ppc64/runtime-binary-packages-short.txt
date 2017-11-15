@@ -27,7 +27,6 @@ cockpit-bridge
 cockpit-networkmanager
 cockpit-ostree
 cockpit-system
-compat-openssl10
 coreutils
 coreutils-common
 cpio

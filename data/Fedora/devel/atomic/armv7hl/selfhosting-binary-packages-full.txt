@@ -3148,9 +3148,9 @@ os-maven-plugin-1.2.3-8.fc27.noarch
 osgi-annotation-6.0.0-6.fc27.noarch
 osgi-compendium-6.0.0-4.fc27.noarch
 osgi-core-6.0.0-5.fc27.noarch
-ostree-2017.10-2.fc28.armv7hl
-ostree-devel-2017.10-2.fc28.armv7hl
-ostree-libs-2017.10-2.fc28.armv7hl
+ostree-2017.12-2.fc28.armv7hl
+ostree-devel-2017.12-2.fc28.armv7hl
+ostree-libs-2017.12-2.fc28.armv7hl
 overpass-fonts-3.0.2-2.fc27.noarch
 p11-kit-0.23.8-2.fc28.armv7hl
 p11-kit-devel-0.23.8-2.fc28.armv7hl

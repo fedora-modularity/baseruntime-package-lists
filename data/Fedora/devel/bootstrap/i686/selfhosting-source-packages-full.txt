@@ -2723,7 +2723,7 @@ osgi-compendium-6.0.0-4.fc27.src
 osgi-core-6.0.0-5.fc27.src
 osinfo-db-20170813-1.fc27.src
 osinfo-db-tools-1.1.0-4.fc27.src
-ostree-2017.10-2.fc28.src
+ostree-2017.12-2.fc28.src
 overpass-fonts-3.0.2-2.fc27.src
 p11-kit-0.23.8-2.fc28.src
 p7zip-16.02-5.fc27.src
