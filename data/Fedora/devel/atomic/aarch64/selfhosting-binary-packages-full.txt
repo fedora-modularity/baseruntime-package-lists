@@ -6554,9 +6554,9 @@ vsftpd-3.0.3-7.fc27.aarch64
 vte-profile-0.48.3-1.fc27.aarch64
 vte291-0.48.3-1.fc27.aarch64
 vte291-devel-0.48.3-1.fc27.aarch64
-vulkan-1.0.61.1-1.fc27.aarch64
-vulkan-devel-1.0.61.1-1.fc27.aarch64
-vulkan-filesystem-1.0.61.1-1.fc27.noarch
+vulkan-1.0.61.1-6.fc28.aarch64
+vulkan-devel-1.0.61.1-6.fc28.aarch64
+vulkan-filesystem-1.0.61.1-6.fc28.noarch
 w3m-0.5.3-34.git20170102.fc27.aarch64
 wavpack-5.1.0-4.fc27.aarch64
 wavpack-devel-5.1.0-4.fc27.aarch64

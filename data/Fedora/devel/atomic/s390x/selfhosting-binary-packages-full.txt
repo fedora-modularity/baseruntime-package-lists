@@ -6467,9 +6467,9 @@ vsftpd-3.0.3-7.fc27.s390x
 vte-profile-0.48.3-1.fc27.s390x
 vte291-0.48.3-1.fc27.s390x
 vte291-devel-0.48.3-1.fc27.s390x
-vulkan-1.0.61.1-1.fc27.s390x
-vulkan-devel-1.0.61.1-1.fc27.s390x
-vulkan-filesystem-1.0.61.1-1.fc27.noarch
+vulkan-1.0.61.1-6.fc28.s390x
+vulkan-devel-1.0.61.1-6.fc28.s390x
+vulkan-filesystem-1.0.61.1-6.fc28.noarch
 w3m-0.5.3-34.git20170102.fc27.s390x
 wavpack-5.1.0-4.fc27.s390x
 wavpack-devel-5.1.0-4.fc27.s390x

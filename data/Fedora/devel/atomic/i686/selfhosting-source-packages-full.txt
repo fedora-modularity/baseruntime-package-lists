@@ -3223,7 +3223,7 @@ volume_key-0.3.9-16.fc28.src
 vorbis-java-0.8-3.fc27.src
 vsftpd-3.0.3-7.fc27.src
 vte291-0.48.3-1.fc27.src
-vulkan-1.0.61.1-1.fc27.src
+vulkan-1.0.61.1-6.fc28.src
 w3m-0.5.3-34.git20170102.fc27.src
 wavpack-5.1.0-4.fc27.src
 wayland-1.14.0-1.fc27.src
