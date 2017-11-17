@@ -24,7 +24,7 @@ checksec-1.7.4-5.fc28.src
 chkconfig-1.10-3.fc27.src
 chrpath-0.16-6.fc27.src
 cmake-3.9.1-2.fc28.src
-cockpit-149-1.fc28.src
+cockpit-151-2.fc27.src
 compat-openssl10-1:1.0.2j-9.fc28.src
 comps-extras-24-2.fc27.src
 coreutils-8.28-1.fc28.src
@@ -79,7 +79,7 @@ gcc-7.2.1-2.fc27.src
 gdb-8.0.1-27.fc28.src
 gdbm-1.13-3.fc27.src
 gdisk-1.0.3-4.fc27.src
-gdk-pixbuf2-2.36.9-1.fc28.src
+gdk-pixbuf2-2.36.11-1.fc27.src
 gettext-0.19.8.1-11.fc27.src
 ghc-srpm-macros-1.4.2-6.fc27.src
 glib-networking-2.53.90-1.fc27.src
@@ -195,7 +195,7 @@ libusbx-1.0.21-4.fc27.src
 libuser-0.62-11.fc28.src
 libutempter-1.1.6-11.fc27.src
 libverto-0.3.0-1.fc28.src
-libxml2-2.9.5-1.fc28.src
+libxml2-2.9.5-2.fc27.src
 libxslt-1.1.30-2.fc28.src
 libyaml-0.1.7-4.fc27.src
 linux-firmware-20170622-75.gita3a26af2.fc27.src

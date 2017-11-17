@@ -29,9 +29,9 @@ checksec-1.7.4-5.fc28.noarch
 chkconfig-1.10-3.fc27.aarch64
 chrpath-0.16-6.fc27.aarch64
 cmake-filesystem-3.9.1-2.fc28.aarch64
-cockpit-bridge-149-1.fc28.aarch64
-cockpit-system-149-1.fc28.noarch
-cockpit-ws-149-1.fc28.aarch64
+cockpit-bridge-151-2.fc27.aarch64
+cockpit-system-151-2.fc27.noarch
+cockpit-ws-151-2.fc27.aarch64
 compat-openssl10-1:1.0.2j-9.fc28.aarch64
 comps-extras-24-2.fc27.noarch
 coreutils-8.28-1.fc28.aarch64
@@ -114,7 +114,7 @@ gcc-c++-7.2.1-2.fc27.aarch64
 gdb-headless-8.0.1-27.fc28.aarch64
 gdbm-1.13-3.fc27.aarch64
 gdisk-1.0.3-4.fc27.aarch64
-gdk-pixbuf2-2.36.9-1.fc28.aarch64
+gdk-pixbuf2-2.36.11-1.fc27.aarch64
 gettext-0.19.8.1-11.fc27.aarch64
 gettext-libs-0.19.8.1-11.fc27.aarch64
 ghc-srpm-macros-1.4.2-6.fc27.noarch
@@ -289,7 +289,7 @@ libutempter-1.1.6-11.fc27.aarch64
 libuuid-2.30.2-1.fc28.aarch64
 libverto-0.3.0-1.fc28.aarch64
 libverto-libev-0.3.0-1.fc28.aarch64
-libxml2-2.9.5-1.fc28.aarch64
+libxml2-2.9.5-2.fc27.aarch64
 libxslt-1.1.30-2.fc28.aarch64
 libyaml-0.1.7-4.fc27.aarch64
 libzstd-1.3.1-1.fc28.aarch64

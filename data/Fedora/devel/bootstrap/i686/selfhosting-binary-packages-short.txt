@@ -611,6 +611,7 @@ boost-math
 boost-numpy
 boost-numpy3
 boost-program-options
+boost-python
 boost-python3
 boost-python3-devel
 boost-random
@@ -6743,6 +6744,7 @@ python-docker-py
 python-keyczar
 python-ldb-devel-common
 python-libcomps-doc
+python-libxml2
 python-matplotlib-data
 python-matplotlib-data-fonts
 python-pep8
@@ -6792,7 +6794,6 @@ python2-beautifulsoup
 python2-beautifulsoup4
 python2-behave
 python2-blinker
-python2-boost
 python2-boto3
 python2-botocore
 python2-bottle
@@ -6938,7 +6939,6 @@ python2-libstoragemgmt
 python2-libstoragemgmt-clibs
 python2-libvirt
 python2-libvoikko
-python2-libxml2
 python2-linecache2
 python2-linux-procfs
 python2-lvm-deprecated

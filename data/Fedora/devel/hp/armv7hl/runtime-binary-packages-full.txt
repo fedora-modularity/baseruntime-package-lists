@@ -29,9 +29,9 @@ checksec-1.7.4-5.fc28.noarch
 chkconfig-1.10-3.fc27.armv7hl
 chrpath-0.16-6.fc27.armv7hl
 cmake-filesystem-3.9.1-2.fc28.armv7hl
-cockpit-bridge-149-1.fc28.armv7hl
-cockpit-system-149-1.fc28.noarch
-cockpit-ws-149-1.fc28.armv7hl
+cockpit-bridge-151-2.fc27.armv7hl
+cockpit-system-151-2.fc27.noarch
+cockpit-ws-151-2.fc27.armv7hl
 compat-openssl10-1:1.0.2j-9.fc28.armv7hl
 comps-extras-24-2.fc27.noarch
 coreutils-8.28-1.fc28.armv7hl
@@ -109,7 +109,7 @@ gcc-c++-7.2.1-2.fc27.armv7hl
 gdb-headless-8.0.1-27.fc28.armv7hl
 gdbm-1.13-3.fc27.armv7hl
 gdisk-1.0.3-4.fc27.armv7hl
-gdk-pixbuf2-2.36.9-1.fc28.armv7hl
+gdk-pixbuf2-2.36.11-1.fc27.armv7hl
 ghc-srpm-macros-1.4.2-6.fc27.noarch
 glib-networking-2.53.90-1.fc27.armv7hl
 glib2-2.53.6-1.fc28.armv7hl
@@ -277,7 +277,7 @@ libutempter-1.1.6-11.fc27.armv7hl
 libuuid-2.30.2-1.fc28.armv7hl
 libverto-0.3.0-1.fc28.armv7hl
 libverto-libev-0.3.0-1.fc28.armv7hl
-libxml2-2.9.5-1.fc28.armv7hl
+libxml2-2.9.5-2.fc27.armv7hl
 libxslt-1.1.30-2.fc28.armv7hl
 libyaml-0.1.7-4.fc27.armv7hl
 libzstd-1.3.1-1.fc28.armv7hl

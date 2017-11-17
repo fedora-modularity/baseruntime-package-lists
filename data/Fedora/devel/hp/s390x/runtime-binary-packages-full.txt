@@ -29,9 +29,9 @@ checksec-1.7.4-5.fc28.noarch
 chkconfig-1.10-3.fc27.s390x
 chrpath-0.16-6.fc27.s390x
 cmake-filesystem-3.9.1-2.fc28.s390x
-cockpit-bridge-149-1.fc28.s390x
-cockpit-system-149-1.fc28.noarch
-cockpit-ws-149-1.fc28.s390x
+cockpit-bridge-151-2.fc27.s390x
+cockpit-system-151-2.fc27.noarch
+cockpit-ws-151-2.fc27.s390x
 compat-openssl10-1:1.0.2j-9.fc28.s390x
 comps-extras-24-2.fc27.noarch
 coreutils-8.28-1.fc28.s390x
@@ -107,7 +107,7 @@ gcc-c++-7.2.1-2.fc27.s390x
 gdb-headless-8.0.1-27.fc28.s390x
 gdbm-1.13-3.fc27.s390x
 gdisk-1.0.3-4.fc27.s390x
-gdk-pixbuf2-2.36.9-1.fc28.s390x
+gdk-pixbuf2-2.36.11-1.fc27.s390x
 ghc-srpm-macros-1.4.2-6.fc27.noarch
 glib-networking-2.53.90-1.fc27.s390x
 glib2-2.53.6-1.fc28.s390x
@@ -268,7 +268,7 @@ libutempter-1.1.6-11.fc27.s390x
 libuuid-2.30.2-1.fc28.s390x
 libverto-0.3.0-1.fc28.s390x
 libverto-libev-0.3.0-1.fc28.s390x
-libxml2-2.9.5-1.fc28.s390x
+libxml2-2.9.5-2.fc27.s390x
 libxslt-1.1.30-2.fc28.s390x
 libyaml-0.1.7-4.fc27.s390x
 libzstd-1.3.1-1.fc28.s390x

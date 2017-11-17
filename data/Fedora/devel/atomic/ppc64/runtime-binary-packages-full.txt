@@ -23,10 +23,10 @@ chkconfig-1.10-3.fc27.ppc64
 chrony-3.2-0.3.pre1.fc27.ppc64
 cloud-init-0.7.9-8.fc27.noarch
 cloud-utils-growpart-0.27-18.fc27.noarch
-cockpit-bridge-149-1.fc28.ppc64
-cockpit-networkmanager-149-1.fc28.noarch
-cockpit-ostree-149-1.fc28.ppc64
-cockpit-system-149-1.fc28.noarch
+cockpit-bridge-151-2.fc27.ppc64
+cockpit-networkmanager-151-2.fc27.noarch
+cockpit-ostree-151-2.fc27.ppc64
+cockpit-system-151-2.fc27.noarch
 coreutils-8.28-1.fc28.ppc64
 coreutils-common-8.28-1.fc28.ppc64
 cpio-2.12-6.fc27.ppc64
@@ -193,7 +193,7 @@ libutempter-1.1.6-11.fc27.ppc64
 libuuid-2.30.2-1.fc28.ppc64
 libverto-0.3.0-1.fc28.ppc64
 libverto-libev-0.3.0-1.fc28.ppc64
-libxml2-2.9.5-1.fc28.ppc64
+libxml2-2.9.5-2.fc27.ppc64
 libyaml-0.1.7-4.fc27.ppc64
 libzstd-1.3.1-1.fc28.ppc64
 linux-firmware-20170622-75.gita3a26af2.fc27.noarch
@@ -295,7 +295,7 @@ python3-jwt-1.5.3-1.fc27.noarch
 python3-libs-3.6.2-13.fc27.ppc64
 python3-libselinux-2.7-4.fc28.ppc64
 python3-libsemanage-2.7-3.fc28.ppc64
-python3-libxml2-2.9.5-1.fc28.ppc64
+python3-libxml2-2.9.5-2.fc27.ppc64
 python3-markupsafe-0.23-16.fc27.ppc64
 python3-oauthlib-2.0.1-5.fc28.noarch
 python3-pip-9.0.1-11.fc27.noarch

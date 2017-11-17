@@ -427,6 +427,7 @@ boost-math
 boost-numpy
 boost-numpy3
 boost-program-options
+boost-python
 boost-python3
 boost-python3-devel
 boost-random
@@ -4157,6 +4158,7 @@ python-backports-ssl_match_hostname
 python-docker-py
 python-keyczar
 python-ldb-devel-common
+python-libxml2
 python-pep8
 python-qt5
 python-qt5-base
@@ -4183,7 +4185,6 @@ python2-beaker
 python2-beautifulsoup
 python2-beautifulsoup4
 python2-blinker
-python2-boost
 python2-bottle
 python2-cairo
 python2-cairo-devel
@@ -4249,7 +4250,6 @@ python2-librepo
 python2-libs
 python2-libselinux
 python2-libsemanage
-python2-libxml2
 python2-linecache2
 python2-lxml
 python2-mako
