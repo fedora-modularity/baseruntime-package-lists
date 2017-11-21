@@ -114,6 +114,7 @@ bash-completion
 bc
 bcache-tools
 bea-stax
+beakerlib
 bean-validation-api
 bfa-firmware
 bind
@@ -1588,6 +1589,7 @@ ocaml-srpm-macros
 oci-register-machine
 oci-systemd-hook
 oci-umount
+ocl-icd
 oddjob
 ogdi
 ohc
@@ -1602,6 +1604,7 @@ openblas-srpm-macros
 openbox
 opencc
 openchange
+opencl-headers
 opencryptoki
 opencv
 opendnssec

@@ -213,6 +213,7 @@ bcache-tools
 bcel
 bcm283x-firmware
 bea-stax
+beakerlib
 bean-validation-api
 beust-jcommander
 bfa-firmware
@@ -2640,6 +2641,7 @@ ocaml-xml-light
 oci-register-machine
 oci-systemd-hook
 oci-umount
+ocl-icd
 octave
 oddjob
 ogdi

@@ -116,6 +116,7 @@ bc-1.07.1-3.fc27.src
 bcache-tools-1.0.8-10.fc27.src
 bcm283x-firmware-20170703-3.5f54395.fc27.src
 bea-stax-1.2.0-15.fc27.src
+beakerlib-1.17-4.fc27.src
 bean-validation-api-1.1.0-8.fc27.src
 bfa-firmware-3.2.21.1-8.fc27.src
 bind-32:9.11.1-6.P3.fc27.src
@@ -1591,6 +1592,7 @@ ocaml-srpm-macros-5-2.fc27.src
 oci-register-machine-0-5.10.gitcbf1b8f.fc27.src
 oci-systemd-hook-1:0.1.13-1.gitafe4b4a.fc27.src
 oci-umount-2:2.0.0-2.gitf90b64c.fc28.src
+ocl-icd-2.2.11-4.fc27.src
 oddjob-0.34.4-3.fc27.src
 ogdi-3.2.0-3.fc27.src
 ohc-0.6.1-1.fc27.src
@@ -1604,6 +1606,7 @@ openblas-srpm-macros-2-2.fc27.src
 openbox-3.6.1-5.fc27.src
 opencc-1.0.3-5.fc27.src
 openchange-2.3-16.fc27.src
+opencl-headers-2.1-3.fc27.src
 opencryptoki-3.7.0-3.fc27.src
 opencv-3.2.0-9.fc28.src
 opendnssec-1.4.9-7.fc27.src

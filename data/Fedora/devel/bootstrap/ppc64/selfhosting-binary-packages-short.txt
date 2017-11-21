@@ -513,6 +513,7 @@ bcel
 bcel-javadoc
 bea-stax
 bea-stax-api
+beakerlib
 bean-validation-api
 beust-jcommander
 bfa-firmware
@@ -5147,6 +5148,8 @@ ocaml-runtime
 ocaml-srpm-macros
 ocaml-xml-light
 ocaml-xml-light-devel
+ocl-icd
+ocl-icd-devel
 octave
 octave-devel
 oddjob

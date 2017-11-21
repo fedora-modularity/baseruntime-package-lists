@@ -513,6 +513,7 @@ bcel-6.0-0.7.20140406svn1592769.fc27.noarch
 bcel-javadoc-6.0-0.7.20140406svn1592769.fc27.noarch
 bea-stax-1.2.0-15.fc27.noarch
 bea-stax-api-1.2.0-15.fc27.noarch
+beakerlib-1.17-4.fc27.noarch
 bean-validation-api-1.1.0-8.fc27.noarch
 beust-jcommander-1.71-2.fc27.noarch
 bfa-firmware-3.2.21.1-8.fc27.noarch
@@ -5147,6 +5148,8 @@ ocaml-runtime-4.05.0-2.fc27.ppc64
 ocaml-srpm-macros-5-2.fc27.noarch
 ocaml-xml-light-2.3-0.26.svn234.fc27.ppc64
 ocaml-xml-light-devel-2.3-0.26.svn234.fc27.ppc64
+ocl-icd-2.2.11-4.fc27.ppc64
+ocl-icd-devel-2.2.11-4.fc27.ppc64
 octave-6:4.2.1-4.fc27.2.ppc64
 octave-devel-6:4.2.1-4.fc27.2.ppc64
 oddjob-0.34.4-3.fc27.ppc64

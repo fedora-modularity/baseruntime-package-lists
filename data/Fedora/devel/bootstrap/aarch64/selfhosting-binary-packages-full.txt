@@ -512,6 +512,7 @@ bcel-javadoc-6.0-0.7.20140406svn1592769.fc27.noarch
 bcm283x-firmware-20170703-3.5f54395.fc27.aarch64
 bea-stax-1.2.0-15.fc27.noarch
 bea-stax-api-1.2.0-15.fc27.noarch
+beakerlib-1.17-4.fc27.noarch
 bean-validation-api-1.1.0-8.fc27.noarch
 beust-jcommander-1.71-2.fc27.noarch
 bfa-firmware-3.2.21.1-8.fc27.noarch
@@ -5308,6 +5309,8 @@ ocaml-xml-light-devel-2.3-0.26.svn234.fc27.aarch64
 oci-register-machine-0-5.10.gitcbf1b8f.fc27.aarch64
 oci-systemd-hook-1:0.1.13-1.gitafe4b4a.fc27.aarch64
 oci-umount-2:2.0.0-2.gitf90b64c.fc28.aarch64
+ocl-icd-2.2.11-4.fc27.aarch64
+ocl-icd-devel-2.2.11-4.fc27.aarch64
 octave-6:4.2.1-4.fc27.2.aarch64
 octave-devel-6:4.2.1-4.fc27.2.aarch64
 oddjob-0.34.4-3.fc27.aarch64

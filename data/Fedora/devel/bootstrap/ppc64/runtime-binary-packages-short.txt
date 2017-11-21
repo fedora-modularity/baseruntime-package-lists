@@ -236,6 +236,7 @@ bash-doc
 bc
 bcache-tools
 bea-stax-api
+beakerlib
 bean-validation-api
 bfa-firmware
 bind
@@ -2846,6 +2847,8 @@ ocaml-libvirt
 ocaml-libvirt-devel
 ocaml-runtime
 ocaml-srpm-macros
+ocl-icd
+ocl-icd-devel
 oddjob
 oddjob-mkhomedir
 ogdi
@@ -2864,6 +2867,7 @@ openbox
 openbox-libs
 opencc
 openchange
+opencl-headers
 opencryptoki
 opencryptoki-devel
 opencryptoki-icsftok

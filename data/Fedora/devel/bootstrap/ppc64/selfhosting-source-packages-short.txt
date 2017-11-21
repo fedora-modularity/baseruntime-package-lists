@@ -210,6 +210,7 @@ bc
 bcache-tools
 bcel
 bea-stax
+beakerlib
 bean-validation-api
 beust-jcommander
 bfa-firmware
@@ -2533,6 +2534,7 @@ ocaml-ocamlbuild
 ocaml-ounit
 ocaml-srpm-macros
 ocaml-xml-light
+ocl-icd
 octave
 oddjob
 ogdi

@@ -124,6 +124,7 @@ bash-completion
 bash-doc
 bc
 bcm283x-firmware
+beakerlib
 bfa-firmware
 bind
 bind-chroot
@@ -1609,6 +1610,8 @@ ocaml-libvirt
 ocaml-libvirt-devel
 oci-register-machine
 oci-systemd-hook
+ocl-icd
+ocl-icd-devel
 oddjob-mkhomedir
 omping
 opencryptoki
