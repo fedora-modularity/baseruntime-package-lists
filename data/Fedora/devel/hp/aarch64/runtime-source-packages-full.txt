@@ -258,6 +258,7 @@ python-IPy-0.81-20.fc27.src
 python-dateutil-1:2.6.0-4.fc27.src
 python-iniparse-0.4-26.fc28.src
 python-pip-9.0.1-11.fc27.src
+python-rpm-generators-4.13.0.1-4.fc28.src
 python-rpm-macros-3-22.fc27.src
 python-setuptools-36.2.0-7.fc28.src
 python-six-1.10.0-11.fc28.src

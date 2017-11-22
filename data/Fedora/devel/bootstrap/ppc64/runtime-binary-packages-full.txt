@@ -236,7 +236,6 @@ bash-doc-4.4.12-10.fc28.ppc64
 bc-1.07.1-3.fc27.ppc64
 bcache-tools-1.0.8-10.fc27.ppc64
 bea-stax-api-1.2.0-15.fc27.noarch
-beakerlib-1.17-4.fc27.noarch
 bean-validation-api-1.1.0-8.fc27.noarch
 bfa-firmware-3.2.21.1-8.fc27.noarch
 bind-32:9.11.1-6.P3.fc27.ppc64
@@ -1644,7 +1643,6 @@ jss-4.4.2-4.fc27.ppc64
 julietaula-montserrat-fonts-1:6.002-3.fc27.noarch
 junit-1:4.12-7.fc27.noarch
 jzlib-1.1.3-6.fc27.noarch
-kabi-dw-0-0.2.20171018gite6af311.fc27.ppc64
 kacst-art-fonts-2.0-18.fc27.noarch
 kacst-book-fonts-2.0-18.fc27.noarch
 kacst-decorative-fonts-2.0-18.fc27.noarch
@@ -1797,7 +1795,6 @@ libappstream-glib-devel-0.7.2-1.fc28.ppc64
 libarchive-3.3.1-3.fc27.ppc64
 libarchive-devel-3.3.1-3.fc27.ppc64
 libart_lgpl-2.3.21-18.fc27.ppc64
-libasan-7.2.1-2.fc27.ppc64
 libassuan-2.4.3-6.fc27.ppc64
 libasyncns-0.8-13.fc27.ppc64
 libatasmart-0.19-12.fc27.ppc64
@@ -2851,8 +2848,6 @@ ocaml-libvirt-0.6.1.4-21.fc27.ppc64
 ocaml-libvirt-devel-0.6.1.4-21.fc27.ppc64
 ocaml-runtime-4.05.0-2.fc27.ppc64
 ocaml-srpm-macros-5-2.fc27.noarch
-ocl-icd-2.2.11-4.fc27.ppc64
-ocl-icd-devel-2.2.11-4.fc27.ppc64
 oddjob-0.34.4-3.fc27.ppc64
 oddjob-mkhomedir-0.34.4-3.fc27.ppc64
 ogdi-3.2.0-3.fc27.ppc64
@@ -2871,7 +2866,6 @@ openbox-3.6.1-5.fc27.ppc64
 openbox-libs-3.6.1-5.fc27.ppc64
 opencc-1.0.3-5.fc27.ppc64
 openchange-2.3-16.fc27.ppc64
-opencl-headers-2.1-3.fc27.noarch
 opencryptoki-3.7.0-3.fc27.ppc64
 opencryptoki-devel-3.7.0-3.fc27.ppc64
 opencryptoki-icsftok-3.7.0-3.fc27.ppc64

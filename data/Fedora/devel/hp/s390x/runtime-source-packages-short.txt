@@ -246,6 +246,7 @@ python-IPy
 python-dateutil
 python-iniparse
 python-pip
+python-rpm-generators
 python-rpm-macros
 python-setuptools
 python-six

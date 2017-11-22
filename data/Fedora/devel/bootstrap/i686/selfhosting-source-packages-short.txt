@@ -213,7 +213,6 @@ bc
 bcache-tools
 bcel
 bea-stax
-beakerlib
 bean-validation-api
 beust-jcommander
 bfa-firmware
@@ -1566,7 +1565,6 @@ jvnet-parent
 jwnl
 jython
 jzlib
-kabi-dw
 kacst-fonts
 kate4
 kbd
@@ -2665,7 +2663,6 @@ ocaml-xml-light
 oci-register-machine
 oci-systemd-hook
 oci-umount
-ocl-icd
 octave
 oddjob
 ogdi
