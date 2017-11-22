@@ -112,7 +112,6 @@ bash-completion
 bc
 bcache-tools
 bea-stax
-beakerlib
 bean-validation-api
 bfa-firmware
 bind
@@ -828,7 +827,6 @@ jss
 julietaula-montserrat-fonts
 junit
 jzlib
-kabi-dw
 kacst-fonts
 kate4
 kbd
@@ -1488,7 +1486,6 @@ objectweb-asm3
 ocaml
 ocaml-libvirt
 ocaml-srpm-macros
-ocl-icd
 oddjob
 ogdi
 ohc
@@ -1502,7 +1499,6 @@ openblas-srpm-macros
 openbox
 opencc
 openchange
-opencl-headers
 opencryptoki
 opencv
 opendnssec

@@ -234,7 +234,6 @@ bash-doc
 bc
 bcache-tools
 bea-stax-api
-beakerlib
 bean-validation-api
 bfa-firmware
 bind
@@ -1768,7 +1767,6 @@ jss
 julietaula-montserrat-fonts
 junit
 jzlib
-kabi-dw
 kacst-art-fonts
 kacst-book-fonts
 kacst-decorative-fonts
@@ -2985,8 +2983,6 @@ ocaml-srpm-macros
 oci-register-machine
 oci-systemd-hook
 oci-umount
-ocl-icd
-ocl-icd-devel
 oddjob
 oddjob-mkhomedir
 ogdi
@@ -3007,7 +3003,6 @@ openbox
 openbox-libs
 opencc
 openchange
-opencl-headers
 opencryptoki
 opencryptoki-devel
 opencryptoki-icsftok

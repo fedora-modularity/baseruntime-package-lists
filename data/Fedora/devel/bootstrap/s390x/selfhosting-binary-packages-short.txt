@@ -515,7 +515,6 @@ bcel
 bcel-javadoc
 bea-stax
 bea-stax-api
-beakerlib
 bean-validation-api
 beust-jcommander
 bfa-firmware
@@ -3124,7 +3123,6 @@ jvnet-parent
 jwnl
 jython
 jzlib
-kabi-dw
 kacst-art-fonts
 kacst-book-fonts
 kacst-decorative-fonts
@@ -5215,8 +5213,6 @@ ocaml-xml-light-devel
 oci-register-machine
 oci-systemd-hook
 oci-umount
-ocl-icd
-ocl-icd-devel
 octave
 octave-devel
 oddjob
