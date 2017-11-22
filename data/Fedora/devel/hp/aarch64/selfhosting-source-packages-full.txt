@@ -1302,7 +1302,7 @@ mozilla-filesystem-1.9-17.fc27.src
 mozjs17-17.0.0-21.fc27.src
 mozjs38-38.8.0-7.fc28.src
 mpfr-3.1.5-5.fc27.src
-mpich-3.2-10.fc27.src
+mpich-3.2.1-2.fc27.src
 msv-1:2013.6.1-10.fc27.src
 mtdev-1.1.5-9.fc27.src
 mtools-4.0.18-13.fc27.src

@@ -2600,8 +2600,8 @@ mozjs38-38.8.0-7.fc28.s390x
 mozjs38-devel-38.8.0-7.fc28.s390x
 mpfr-3.1.5-5.fc27.s390x
 mpfr-devel-3.1.5-5.fc27.s390x
-mpich-3.2-10.fc27.s390x
-mpich-devel-3.2-10.fc27.s390x
+mpich-3.2.1-2.fc27.s390x
+mpich-devel-3.2.1-2.fc27.s390x
 msv-msv-1:2013.6.1-10.fc27.noarch
 msv-rngconv-1:2013.6.1-10.fc27.noarch
 msv-xsdlib-1:2013.6.1-10.fc27.noarch

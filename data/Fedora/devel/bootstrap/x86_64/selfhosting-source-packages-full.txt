@@ -2228,7 +2228,7 @@ mozjs38-38.8.0-7.fc28.src
 mozvoikko-2.1-5.fc27.src
 mpfr-3.1.5-5.fc27.src
 mpg123-1.25.6-1.fc27.src
-mpich-3.2-10.fc27.src
+mpich-3.2.1-2.fc27.src
 mrtg-2.17.4-21.fc27.src
 mstflint-4.6.0-2.fc26.src
 msv-1:2013.6.1-10.fc27.src

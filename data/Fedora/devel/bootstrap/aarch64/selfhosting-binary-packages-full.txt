@@ -4753,8 +4753,8 @@ mpg123-libs-1.25.6-1.fc27.aarch64
 mpg123-plugins-jack-1.25.6-1.fc27.aarch64
 mpg123-plugins-portaudio-1.25.6-1.fc27.aarch64
 mpg123-plugins-pulseaudio-1.25.6-1.fc27.aarch64
-mpich-3.2-10.fc27.aarch64
-mpich-devel-3.2-10.fc27.aarch64
+mpich-3.2.1-2.fc27.aarch64
+mpich-devel-3.2.1-2.fc27.aarch64
 mrtg-2.17.4-21.fc27.aarch64
 mstflint-4.6.0-2.fc26.aarch64
 msv-msv-1:2013.6.1-10.fc27.noarch

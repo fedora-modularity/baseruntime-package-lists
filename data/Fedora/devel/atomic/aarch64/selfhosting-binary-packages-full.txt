@@ -2677,8 +2677,8 @@ mozjs38-38.8.0-7.fc28.aarch64
 mozjs38-devel-38.8.0-7.fc28.aarch64
 mpfr-3.1.5-5.fc27.aarch64
 mpfr-devel-3.1.5-5.fc27.aarch64
-mpich-3.2-10.fc27.aarch64
-mpich-devel-3.2-10.fc27.aarch64
+mpich-3.2.1-2.fc27.aarch64
+mpich-devel-3.2.1-2.fc27.aarch64
 msv-msv-1:2013.6.1-10.fc27.noarch
 msv-rngconv-1:2013.6.1-10.fc27.noarch
 msv-xsdlib-1:2013.6.1-10.fc27.noarch
