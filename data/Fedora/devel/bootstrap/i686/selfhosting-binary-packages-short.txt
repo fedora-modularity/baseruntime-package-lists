@@ -3247,6 +3247,8 @@ khmeros-fonts-common
 kmod
 kmod-devel
 kmod-libs
+kobo
+kobo-rpmlib
 kohsuke-pom
 koji
 kpartx
@@ -6723,6 +6725,7 @@ pulseaudio-libs
 pulseaudio-libs-devel
 pulseaudio-libs-glib2
 pulseaudio-module-bluetooth
+pungi
 purple-sipe
 pycryptopp
 pyflakes
@@ -6750,6 +6753,7 @@ python-libcomps-doc
 python-libxml2
 python-matplotlib-data
 python-matplotlib-data-fonts
+python-multilib-conf
 python-pep8
 python-perf
 python-psycopg2-doc
@@ -6918,6 +6922,8 @@ python2-kerberos
 python2-keycloak-httpd-client-install
 python2-keyring
 python2-kickstart
+python2-kid
+python2-kitchen
 python2-kmod
 python2-koji
 python2-krbv
@@ -6944,6 +6950,7 @@ python2-libvirt
 python2-libvoikko
 python2-linecache2
 python2-linux-procfs
+python2-lockfile
 python2-lvm-deprecated
 python2-lxml
 python2-magic
@@ -6959,6 +6966,7 @@ python2-mistune
 python2-mock
 python2-modulemd
 python2-mox
+python2-multilib
 python2-mutagen
 python2-nbformat
 python2-ndg_httpsclient
@@ -7007,6 +7015,7 @@ python2-powerpc-utils
 python2-pretend
 python2-prettytable
 python2-process-tests
+python2-productmd
 python2-prompt_toolkit
 python2-psutil
 python2-psycopg2
@@ -7288,6 +7297,7 @@ python3-keyring
 python3-kickstart
 python3-kmod
 python3-koji
+python3-koji-cli-plugins
 python3-latexcodec
 python3-lazy-object-proxy
 python3-ldb
@@ -7793,6 +7803,7 @@ relaxngDatatype-javadoc
 relaxngcc
 remotetea
 replacer
+repoview
 resource-agents
 rest
 rest-devel
@@ -10048,7 +10059,6 @@ xfig
 xfsdump
 xfsprogs
 xfsprogs-devel
-xhtml1-dtds
 xinetd
 xkeyboard-config
 xkeyboard-config-devel
@@ -10177,6 +10187,7 @@ ypbind
 ypserv
 yum
 yum-metadata-parser
+yum-utils
 zbar
 zbar-devel
 zd1211-firmware

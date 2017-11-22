@@ -1596,6 +1596,7 @@ kf5-kdoctools
 kf5-ki18n
 khmeros-fonts
 kmod
+kobo
 kohsuke-pom
 koji
 krb5
@@ -3771,6 +3772,7 @@ ptouch-driver
 publican
 publicsuffix-list
 pulseaudio
+pungi
 pyOpenSSL
 pyatspi
 pycairo
@@ -3904,6 +3906,8 @@ python-kdcproxy
 python-kerberos
 python-keyczar
 python-keyring
+python-kid
+python-kitchen
 python-kmod
 python-krbV
 python-latexcodec
@@ -3913,6 +3917,7 @@ python-lesscpy
 python-linecache2
 python-linux-procfs
 python-lit
+python-lockfile
 python-lxml
 python-mako
 python-markdown
@@ -3924,6 +3929,7 @@ python-mimeparse
 python-mistune
 python-mock
 python-mox
+python-multilib
 python-mutagen
 python-nbformat
 python-ndg_httpsclient
@@ -3968,6 +3974,7 @@ python-polib
 python-pretend
 python-prettytable
 python-process-tests
+python-productmd
 python-prompt_toolkit
 python-psutil
 python-psycopg2
@@ -4177,6 +4184,7 @@ relaxngDatatype
 relaxngcc
 remotetea
 replacer
+repoview
 resource-agents
 rest
 resteasy
@@ -4748,7 +4756,6 @@ xerces-j2
 xfig
 xfsdump
 xfsprogs
-xhtml1-dtds
 xinetd
 xkeyboard-config
 xml-commons-apis
@@ -4825,6 +4832,7 @@ ypbind
 ypserv
 yum
 yum-metadata-parser
+yum-utils
 zaf
 zbar
 zd1211-firmware

@@ -3235,7 +3235,6 @@ xemacs-packages-extra
 xerces-j2
 xfig
 xfsprogs
-xhtml1-dtds
 xkeyboard-config
 xml-commons-apis
 xml-commons-resolver

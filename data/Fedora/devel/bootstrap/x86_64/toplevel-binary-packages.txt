@@ -1980,6 +1980,7 @@ psmisc
 ptouch-driver
 publicsuffix-list
 publicsuffix-list-dafsa
+pungi
 purple-sipe
 python2
 python2-abrt

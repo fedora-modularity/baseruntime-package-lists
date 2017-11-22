@@ -458,6 +458,7 @@ cracklib
 cracklib-dicts
 crda
 crda-devel
+createrepo
 createrepo_c
 createrepo_c-devel
 createrepo_c-libs
@@ -1791,6 +1792,9 @@ khmeros-base-fonts
 khmeros-fonts-common
 kmod
 kmod-libs
+kobo
+kobo-rpmlib
+koji
 kpartx
 krb5-devel
 krb5-libs
@@ -3489,6 +3493,7 @@ pulseaudio-libs
 pulseaudio-libs-devel
 pulseaudio-libs-glib2
 pulseaudio-module-bluetooth
+pungi
 purple-sipe
 pycryptopp
 pygobject2
@@ -3505,6 +3510,7 @@ python-libcomps-doc
 python-libxml2
 python-matplotlib-data
 python-matplotlib-data-fonts
+python-multilib-conf
 python-perf
 python-psycopg2-doc
 python-pwquality
@@ -3601,12 +3607,18 @@ python2-ipatests
 python2-iscsi-initiator-utils
 python2-jinja2
 python2-jmespath
+python2-jsonschema
 python2-jwcrypto
 python2-jwt
 python2-kdcproxy
+python2-kerberos
 python2-keycloak-httpd-client-install
 python2-kickstart
+python2-kid
+python2-kitchen
 python2-kmod
+python2-koji
+python2-krbv
 python2-ldap
 python2-ldb
 python2-libcomps
@@ -3623,6 +3635,7 @@ python2-libstoragemgmt-clibs
 python2-libvirt
 python2-libvoikko
 python2-linux-procfs
+python2-lockfile
 python2-lvm-deprecated
 python2-lxml
 python2-magic
@@ -3631,6 +3644,7 @@ python2-markupsafe
 python2-matplotlib
 python2-matplotlib-tk
 python2-modulemd
+python2-multilib
 python2-netaddr
 python2-netifaces
 python2-newt
@@ -3653,6 +3667,7 @@ python2-ply
 python2-polib
 python2-policycoreutils
 python2-powerpc-utils
+python2-productmd
 python2-protobuf
 python2-psutil
 python2-psycopg2
@@ -3680,7 +3695,9 @@ python2-pywbem
 python2-pyxdg
 python2-pyyaml
 python2-reportlab
+python2-repoze-lru
 python2-requests
+python2-requests-kerberos
 python2-requests-oauthlib
 python2-rhnlib
 python2-rpm
@@ -3804,9 +3821,12 @@ python3-jsonpointer
 python3-jwcrypto
 python3-jwt
 python3-kdcproxy
+python3-kerberos
 python3-keycloak-httpd-client-install
 python3-kickstart
 python3-kmod
+python3-koji
+python3-koji-cli-plugins
 python3-ldb
 python3-libcomps
 python3-libguestfs
@@ -3894,6 +3914,7 @@ python3-reportlab
 python3-requests
 python3-requests-file
 python3-requests-ftp
+python3-requests-kerberos
 python3-requests-oauthlib
 python3-rhnlib
 python3-rpm
@@ -4146,6 +4167,7 @@ redis
 redland
 reiserfs-utils
 relaxngDatatype
+repoview
 resource-agents
 rest
 rest-devel
@@ -4925,6 +4947,7 @@ ypbind
 ypserv
 yum
 yum-metadata-parser
+yum-utils
 zd1211-firmware
 zeitgeist
 zeitgeist-libs

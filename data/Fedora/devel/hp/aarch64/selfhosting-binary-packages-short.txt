@@ -6594,7 +6594,6 @@ xerces-j2-javadoc
 xfig
 xfsprogs
 xfsprogs-devel
-xhtml1-dtds
 xkeyboard-config
 xkeyboard-config-devel
 xml-common

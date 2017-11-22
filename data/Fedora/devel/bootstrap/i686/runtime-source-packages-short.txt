@@ -208,6 +208,7 @@ cpphs
 cpuid
 cracklib
 crda
+createrepo
 createrepo_c
 cronie
 crontabs
@@ -949,6 +950,8 @@ keycloak-httpd-client-install
 keyutils
 khmeros-fonts
 kmod
+kobo
+koji
 krb5
 ksh
 kurdit-unikurd-web-fonts
@@ -1988,6 +1991,7 @@ psutils
 ptouch-driver
 publicsuffix-list
 pulseaudio
+pungi
 pyOpenSSL
 pyatspi
 pycairo
@@ -2057,18 +2061,25 @@ python-jinja2
 python-jmespath
 python-jsonpatch
 python-jsonpointer
+python-jsonschema
 python-jwcrypto
 python-jwt
 python-kdcproxy
+python-kerberos
 python-keyczar
+python-kid
+python-kitchen
 python-kmod
+python-krbV
 python-ldap
 python-linux-procfs
+python-lockfile
 python-lxml
 python-mako
 python-markupsafe
 python-matplotlib
 python-meh
+python-multilib
 python-netaddr
 python-netifaces
 python-networkx
@@ -2089,6 +2100,7 @@ python-pip
 python-ply
 python-polib
 python-prettytable
+python-productmd
 python-psutil
 python-psycopg2
 python-ptyprocess
@@ -2108,9 +2120,11 @@ python-pyudev
 python-qrcode
 python-qt5
 python-reportlab
+python-repoze-lru
 python-requests
 python-requests-file
 python-requests-ftp
+python-requests-kerberos
 python-requests-oauthlib
 python-rhsm
 python-rpm-generators
@@ -2209,6 +2223,7 @@ redis
 redland
 reiserfs-utils
 relaxngDatatype
+repoview
 resource-agents
 rest
 resteasy
@@ -2539,6 +2554,7 @@ ypbind
 ypserv
 yum
 yum-metadata-parser
+yum-utils
 zaf
 zd1211-firmware
 zeitgeist
