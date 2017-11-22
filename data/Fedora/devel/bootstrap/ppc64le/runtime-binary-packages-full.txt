@@ -426,8 +426,8 @@ cockpit-networkmanager-151-2.fc27.noarch
 cockpit-ostree-151-2.fc27.ppc64le
 cockpit-system-151-2.fc27.noarch
 cockpit-ws-151-2.fc27.ppc64le
-cogl-1.22.2-3.fc26.ppc64le
-cogl-devel-1.22.2-3.fc26.ppc64le
+cogl-1.22.2-8.fc27.ppc64le
+cogl-devel-1.22.2-8.fc27.ppc64le
 color-filesystem-1-19.fc27.noarch
 colord-1.4.1-2.fc27.ppc64le
 colord-gtk-0.1.26-6.fc27.ppc64le

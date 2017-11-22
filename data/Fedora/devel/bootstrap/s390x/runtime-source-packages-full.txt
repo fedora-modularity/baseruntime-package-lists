@@ -180,7 +180,7 @@ clutter-gtk-1.8.4-1.fc27.src
 cmake-3.9.1-2.fc28.src
 cmpi-bindings-0.9.5-14.fc27.src
 cockpit-151-2.fc27.src
-cogl-1.22.2-3.fc26.src
+cogl-1.22.2-8.fc27.src
 color-filesystem-1-19.fc27.src
 colord-1.4.1-2.fc27.src
 colord-gtk-0.1.26-6.fc27.src
