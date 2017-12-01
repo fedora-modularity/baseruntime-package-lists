@@ -6697,7 +6697,7 @@ python2-click-6.7-5.fc28.noarch
 python2-clufter-0.76.0-3.fc27.noarch
 python2-configobj-5.0.6-9.fc27.noarch
 python2-configparser-3.5.0b2-7.fc28.noarch
-python2-configshell-1:1.1.fb23-4.fc28.noarch
+python2-configshell-1:1.1.fb23-5.fc28.noarch
 python2-construct-2.5.1-12.fc28.noarch
 python2-contextlib2-0.5.5-4.fc28.noarch
 python2-cov-core-1.15.0-7.fc27.noarch
@@ -6936,7 +6936,7 @@ python2-pytest-xdist-1.20.0-1.fc28.noarch
 python2-python-etcd-0.4.5-7.fc27.noarch
 python2-pytz-2017.2-4.fc28.noarch
 python2-pyudev-0.21.0-4.fc27.noarch
-python2-pyusb-1.0.0-6.fc28.noarch
+python2-pyusb-1.0.0-7.fc28.noarch
 python2-pywbem-0.10.0-3.fc28.noarch
 python2-pyxdg-0.25-13.fc27.noarch
 python2-pyyaml-3.12-8.fc28.s390x
@@ -7058,7 +7058,7 @@ python3-blinker-1.3-12.fc28.noarch
 python3-blist-1.3.6-12.fc27.s390x
 python3-blivet-1:2.1.11-3.fc27.noarch
 python3-blockdev-2.12-3.fc28.s390x
-python3-boto-2.45.0-5.fc27.noarch
+python3-boto-2.45.0-6.fc28.noarch
 python3-boto3-1.4.6-1.fc27.noarch
 python3-botocore-1.6.0-1.fc27.noarch
 python3-bottle-0.12.9-5.fc26.noarch
@@ -7074,7 +7074,7 @@ python3-chardet-3.0.4-3.fc28.noarch
 python3-click-6.7-5.fc28.noarch
 python3-clufter-0.76.0-3.fc27.noarch
 python3-configobj-5.0.6-9.fc27.noarch
-python3-configshell-1:1.1.fb23-4.fc28.noarch
+python3-configshell-1:1.1.fb23-5.fc28.noarch
 python3-construct-2.5.1-12.fc28.noarch
 python3-contextlib2-0.5.5-4.fc28.noarch
 python3-cov-core-1.15.0-7.fc27.noarch
@@ -7304,7 +7304,7 @@ python3-python-etcd-0.4.5-7.fc27.noarch
 python3-pytoml-0.1.14-2.git7dea353.fc27.noarch
 python3-pytz-2017.2-4.fc28.noarch
 python3-pyudev-0.21.0-4.fc27.noarch
-python3-pyusb-1.0.0-6.fc28.noarch
+python3-pyusb-1.0.0-7.fc28.noarch
 python3-pywbem-0.10.0-3.fc28.noarch
 python3-pyxattr-0.5.3-12.fc27.s390x
 python3-pyxdg-0.25-13.fc27.noarch

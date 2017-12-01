@@ -3471,7 +3471,7 @@ python2-chardet-3.0.4-3.fc28.noarch
 python2-clufter-0.76.0-3.fc27.noarch
 python2-configobj-5.0.6-9.fc27.noarch
 python2-configparser-3.5.0b2-7.fc28.noarch
-python2-configshell-1:1.1.fb23-4.fc28.noarch
+python2-configshell-1:1.1.fb23-5.fc28.noarch
 python2-coverage-4.4.1-4.fc28.ppc64
 python2-cpio-0.1-26.fc28.noarch
 python2-createrepo_c-0.10.0-14.fc27.ppc64
@@ -3610,7 +3610,7 @@ python2-pytest-sourceorder-0.5-8.fc28.noarch
 python2-python-etcd-0.4.5-7.fc27.noarch
 python2-pytz-2017.2-4.fc28.noarch
 python2-pyudev-0.21.0-4.fc27.noarch
-python2-pyusb-1.0.0-6.fc28.noarch
+python2-pyusb-1.0.0-7.fc28.noarch
 python2-pywbem-0.10.0-3.fc28.noarch
 python2-pyxdg-0.25-13.fc27.noarch
 python2-pyyaml-3.12-8.fc28.ppc64
@@ -3675,7 +3675,7 @@ python3-beautifulsoup4-4.6.0-4.fc28.noarch
 python3-bind-32:9.11.1-6.P3.fc27.noarch
 python3-blivet-1:2.1.11-3.fc27.noarch
 python3-blockdev-2.12-3.fc28.ppc64
-python3-boto-2.45.0-5.fc27.noarch
+python3-boto-2.45.0-6.fc28.noarch
 python3-brlapi-0.6.6-9.fc28.ppc64
 python3-bytesize-1.0-1.fc28.ppc64
 python3-cairo-1.15.3-1.fc28.ppc64
@@ -3684,7 +3684,7 @@ python3-cffi-1.11.0-2.fc28.ppc64
 python3-chardet-3.0.4-3.fc28.noarch
 python3-clufter-0.76.0-3.fc27.noarch
 python3-configobj-5.0.6-9.fc27.noarch
-python3-configshell-1:1.1.fb23-4.fc28.noarch
+python3-configshell-1:1.1.fb23-5.fc28.noarch
 python3-coverage-4.4.1-4.fc28.ppc64
 python3-createrepo_c-0.10.0-14.fc27.ppc64
 python3-crypto-2.6.1-19.fc28.ppc64
@@ -3821,7 +3821,7 @@ python3-pytest-sourceorder-0.5-8.fc28.noarch
 python3-python-etcd-0.4.5-7.fc27.noarch
 python3-pytz-2017.2-4.fc28.noarch
 python3-pyudev-0.21.0-4.fc27.noarch
-python3-pyusb-1.0.0-6.fc28.noarch
+python3-pyusb-1.0.0-7.fc28.noarch
 python3-pywbem-0.10.0-3.fc28.noarch
 python3-pyxdg-0.25-13.fc27.noarch
 python3-qrcode-core-5.1-8.fc28.noarch

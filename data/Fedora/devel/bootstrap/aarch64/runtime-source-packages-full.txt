@@ -2009,13 +2009,13 @@ python-beautifulsoup4-4.6.0-4.fc28.src
 python-behave-1.2.5-21.fc27.src
 python-blist-1.3.6-12.fc27.src
 python-blivet-1:2.1.11-3.fc27.src
-python-boto-2.45.0-5.fc27.src
+python-boto-2.45.0-6.fc28.src
 python-cassandra-driver-3.11.0-2.fc27.src
 python-cffi-1.11.0-2.fc28.src
 python-chardet-3.0.4-3.fc28.src
 python-configobj-5.0.6-9.fc27.src
 python-configparser-3.5.0b2-7.fc28.src
-python-configshell-1:1.1.fb23-4.fc28.src
+python-configshell-1:1.1.fb23-5.fc28.src
 python-coverage-4.4.1-4.fc28.src
 python-cpio-0.1-26.fc28.src
 python-crypto-2.6.1-19.fc28.src
@@ -2149,7 +2149,7 @@ python2-2.7.13-17.fc27.src
 python2-typing-3.6.1-2.fc27.src
 python3-3.6.2-13.fc27.src
 pytz-2017.2-4.fc28.src
-pyusb-1.0.0-6.fc28.src
+pyusb-1.0.0-7.fc28.src
 pywbem-0.10.0-3.fc28.src
 pyxattr-0.5.3-12.fc27.src
 pyxdg-0.25-13.fc27.src

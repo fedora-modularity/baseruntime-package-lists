@@ -3814,7 +3814,7 @@ python-behave-1.2.5-21.fc27.src
 python-blinker-1.3-12.fc28.src
 python-blist-1.3.6-12.fc27.src
 python-blivet-1:2.1.11-3.fc27.src
-python-boto-2.45.0-5.fc27.src
+python-boto-2.45.0-6.fc28.src
 python-boto3-1.4.6-1.fc27.src
 python-botocore-1.6.0-1.fc27.src
 python-bottle-0.12.9-5.fc26.src
@@ -3826,7 +3826,7 @@ python-cliapp-1.20160724-6.fc28.src
 python-click-6.7-5.fc28.src
 python-configobj-5.0.6-9.fc27.src
 python-configparser-3.5.0b2-7.fc28.src
-python-configshell-1:1.1.fb23-4.fc28.src
+python-configshell-1:1.1.fb23-5.fc28.src
 python-construct-2.5.1-12.fc28.src
 python-contextlib2-0.5.5-4.fc28.src
 python-cov-core-1.15.0-7.fc27.src
@@ -4095,7 +4095,7 @@ python2-typing-3.6.1-2.fc27.src
 python3-3.6.2-13.fc27.src
 python3-mallard-ducktype-0.2-8.fc27.src
 pytz-2017.2-4.fc28.src
-pyusb-1.0.0-6.fc28.src
+pyusb-1.0.0-7.fc28.src
 pywbem-0.10.0-3.fc28.src
 pyxattr-0.5.3-12.fc27.src
 pyxdg-0.25-13.fc27.src
