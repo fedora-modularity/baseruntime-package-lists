@@ -2147,6 +2147,7 @@ golang-github-coreos-pkg-devel
 golang-github-cpuguy83-go-md2man
 golang-github-cpuguy83-go-md2man-devel
 golang-github-davecgh-go-spew-devel
+golang-github-dgrijalva-jwt-go-devel
 golang-github-docker-go-units-devel
 golang-github-dustin-go-humanize-devel
 golang-github-fsnotify-fsnotify-devel
@@ -2156,6 +2157,7 @@ golang-github-godbus-dbus-devel
 golang-github-gogo-protobuf-devel
 golang-github-golang-appengine-devel
 golang-github-golang-glog-devel
+golang-github-golang-groupcache-devel
 golang-github-golang-sys-devel
 golang-github-golang-time-devel
 golang-github-google-btree-devel

@@ -1269,9 +1269,9 @@ esound-devel-1:0.2.41-18.fc27.aarch64
 esound-libs-1:0.2.41-18.fc27.aarch64
 espeak-1.48.04-12.fc27.aarch64
 espeak-devel-1.48.04-12.fc27.aarch64
-etcd-3.1.9-3.fc27.aarch64
-etcd-devel-3.1.9-3.fc27.noarch
-etcd-unit-test-3.1.9-3.fc27.aarch64
+etcd-3.2.7-3.fc28.aarch64
+etcd-devel-3.2.7-3.fc28.noarch
+etcd-unit-test-3.2.7-3.fc28.aarch64
 ethtool-2:4.11-2.fc27.aarch64
 evemu-2.7.0-1.fc27.aarch64
 evemu-devel-2.7.0-1.fc27.aarch64
@@ -2166,6 +2166,7 @@ golang-github-coreos-pkg-devel-0-0.14.git3ac0863.fc27.noarch
 golang-github-cpuguy83-go-md2man-1.0.4-9.fc27.aarch64
 golang-github-cpuguy83-go-md2man-devel-1.0.4-9.fc27.noarch
 golang-github-davecgh-go-spew-devel-0-0.14.git6d21280.fc27.noarch
+golang-github-dgrijalva-jwt-go-devel-2.2.0-8.fc27.noarch
 golang-github-docker-go-units-devel-0.2.0-7.fc28.noarch
 golang-github-dustin-go-humanize-devel-0-0.6.git8929fe9.fc27.noarch
 golang-github-fsnotify-fsnotify-devel-1.4.2-3.fc27.noarch
@@ -2175,12 +2176,13 @@ golang-github-godbus-dbus-devel-3-0.9.git3725288.fc27.noarch
 golang-github-gogo-protobuf-devel-0.4-0.3.gitf6b4bb7.fc27.noarch
 golang-github-golang-appengine-devel-0-0.12.git6a43653.fc27.noarch
 golang-github-golang-glog-devel-0-0.16.gitfca8c88.fc27.noarch
+golang-github-golang-groupcache-devel-0-0.11.git02826c3.fc27.noarch
 golang-github-golang-sys-devel-0-0.13.git478fcf5.fc27.noarch
 golang-github-golang-time-devel-0-0.2.gita4bde12.fc26.noarch
 golang-github-google-btree-devel-0-0.11.git925471a.fc27.noarch
 golang-github-google-go-genproto-devel-0-0.2.git411e09b.fc27.noarch
 golang-github-gorilla-context-devel-0-0.37.git215affd.fc27.noarch
-golang-github-gorilla-mux-devel-0-0.25.git8096f47.fc27.noarch
+golang-github-gorilla-mux-devel-0-0.26.gitbcd8bc7.fc27.noarch
 golang-github-grpc-ecosystem-go-grpc-prometheus-devel-1.1-0.3.git6b7015e.fc27.noarch
 golang-github-grpc-ecosystem-grpc-gateway-devel-1.0.0-0.6.git84398b9.fc27.noarch
 golang-github-grpc-grpc-go-devel-1.0.0-0.6.git777daa1.fc27.noarch
@@ -2188,7 +2190,7 @@ golang-github-hashicorp-hcl-devel-0-0.13.gitef8133d.fc27.noarch
 golang-github-jmespath-go-jmespath-devel-0.2.2-0.4.gitbd40a43.fc27.noarch
 golang-github-jonboulle-clockwork-devel-0-0.12.git2eee05e.fc27.noarch
 golang-github-jtolds-gls-devel-0-0.10.git9a4a02d.fc27.noarch
-golang-github-julienschmidt-httprouter-devel-1.1-8.fc27.noarch
+golang-github-julienschmidt-httprouter-devel-1.1-9.fc27.noarch
 golang-github-karlseguin-ccache-devel-2.0.2-0.3.gita2d6215.fc27.noarch
 golang-github-karlseguin-expect-devel-0-0.3.git5c2eadb.fc27.noarch
 golang-github-kr-fs-devel-0-0.11.git2788f0d.fc27.noarch
@@ -2198,7 +2200,7 @@ golang-github-kr-text-devel-0-0.13.git6807e77.fc27.noarch
 golang-github-lsegal-gucumber-devel-0-0.8.git71608e2.fc27.noarch
 golang-github-magiconair-properties-devel-1.7.0-4.fc27.noarch
 golang-github-mattn-go-runewidth-devel-0-0.7.git737072b.fc27.noarch
-golang-github-matttproud-golang_protobuf_extensions-devel-0-0.14.gitc12348c.fc27.noarch
+golang-github-matttproud-golang_protobuf_extensions-devel-0-0.15.gitc12348c.fc27.noarch
 golang-github-mitchellh-mapstructure-devel-0-0.17.gitd0303fe.fc27.noarch
 golang-github-olekukonko-tablewriter-devel-0-0.7.gitcca8bbc.fc27.noarch
 golang-github-olekukonko-ts-devel-0-0.6.gitecf753e.fc27.noarch
@@ -2211,7 +2213,7 @@ golang-github-pkg-errors-devel-0.7.1-0.5.gita887431.fc27.noarch
 golang-github-pkg-sftp-devel-0-0.5.git4d0e916.fc27.noarch
 golang-github-pmezard-go-difflib-devel-0-0.8.gitd8ed262.fc27.noarch
 golang-github-prometheus-client_golang-devel-0.7.0-9.fc27.noarch
-golang-github-prometheus-client_model-devel-0-0.11.gitfa8ad6f.fc27.noarch
+golang-github-prometheus-client_model-devel-0-0.12.git6f38060.fc27.noarch
 golang-github-prometheus-common-devel-0-0.9.git195bde7.fc27.noarch
 golang-github-prometheus-procfs-devel-0-0.19.gitfcdb11c.fc27.noarch
 golang-github-russross-blackfriday-devel-1.2-20.fc27.noarch

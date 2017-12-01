@@ -27,7 +27,6 @@ data:
                 - coreutils
                 - cpio
                 - diffutils
-                - fedora-modular-release
                 - findutils
                 - gawk
                 - gcc

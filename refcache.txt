@@ -1025,6 +1025,7 @@ esound-0.2.41-18.fc27:f55e3a7a03e3319654afdf7a7418f820d1ac3145
 espeak-1.48.04-10.fc26:82d3497ad1946b75e5e127d4d8b9ab32e1f4c28a
 espeak-1.48.04-12.fc27:3947b8132021caba139f95c98fb59ee7274fed69
 etcd-3.1.9-3.fc27:1ba1e2c9e10e032f12b6d4138c40bdfe0be49b5b
+etcd-3.2.7-3.fc28:90cbf417fb2615f610fdae666473f6b255695782
 ethtool-4.11-2.fc27:8f7d8c26433ff11e59c4c2fdb0475373d6025cfa
 ethtool-4.8-2.fc26:f33686fcb0eec063e0558d4b52dcb377a2008ab7
 evemu-2.6.0-3.fc27:360c8a7e7816a90df743264569ee5e5b9dea489b
@@ -1610,6 +1611,7 @@ golang-github-cpuguy83-go-md2man-1.0.4-7.fc27:1f3457187536b922195fe3cf359972bf79
 golang-github-cpuguy83-go-md2man-1.0.4-9.fc27:448ea7eebf172f8a37f69306a6b5cf347ca24f24
 golang-github-davecgh-go-spew-0-0.12.git6d21280.fc26:29a999c8f27e298d2df6adefcba177a2acc7b39a
 golang-github-davecgh-go-spew-0-0.14.git6d21280.fc27:8f0db0175aae678af6f163bdeae967731511340c
+golang-github-dgrijalva-jwt-go-2.2.0-8.fc27:26a328cd310d42fd22a34feeda2ad866d7f88fd1
 golang-github-docker-go-units-0.2.0-4.fc26:80048736a5da30516fd40ad8650882d3d0020974
 golang-github-docker-go-units-0.2.0-6.fc27:6a4069939cc8451db78b486a80c339fe6f348b4e
 golang-github-docker-go-units-0.2.0-7.fc28:53d8b1a0861fd5b23e4aa8e30f157a3dafcf45f1
@@ -1621,12 +1623,14 @@ golang-github-godbus-dbus-3-0.7.git3725288.fc27:a2c3d6120d9fb51d2f0e9046c9d450e8
 golang-github-godbus-dbus-3-0.9.git3725288.fc27:1923dacf93b01ed79d6a795e9051873183b773e7
 golang-github-golang-appengine-0-0.12.git6a43653.fc27:40d7707a110aad37f3b70cf2af0ada1df1d96403
 golang-github-golang-glog-0-0.16.gitfca8c88.fc27:9c17c5c2a7c2fbdd71e7190928397aefebecd1bd
+golang-github-golang-groupcache-0-0.11.git02826c3.fc27:93e5ad416c8fcaff4352682d836feed9b5f6e531
 golang-github-golang-sys-0-0.13.git478fcf5.fc27:32ce0f3255befcbef69b0c20026002b50fd25b5d
 golang-github-golang-time-0-0.2.gita4bde12.fc26:2618925013d852bce467ada289a3d6c78747a6de
 golang-github-google-btree-0-0.11.git925471a.fc27:5484560b16d6bce0dec619573ce95f5868e891c8
 golang-github-google-go-genproto-0-0.2.git411e09b.fc27:1c37226464b5e47e3e25a459b1ebceec68086060
 golang-github-gorilla-context-0-0.37.git215affd.fc27:403c733ee711dd58f24a12c4e294cb4a1f7f42c1
 golang-github-gorilla-mux-0-0.25.git8096f47.fc27:13fcfa6548575a02ba243d477ca0eed2616d871f
+golang-github-gorilla-mux-0-0.26.gitbcd8bc7.fc27:6530b6669d7c5856e6c0058c4e5d071a370d7881
 golang-github-grpc-ecosystem-go-grpc-prometheus-1.1-0.3.git6b7015e.fc27:e325f4e1cbfe6fc235ed8cf682b79b306241dffd
 golang-github-grpc-ecosystem-grpc-gateway-1.0.0-0.6.git84398b9.fc27:88b217d2a10bf23eb2016f89f7055ba52f7e968e
 golang-github-grpc-grpc-go-1.0.0-0.6.git777daa1.fc27:355dc5353ca08b456b37aeae1f3b13d8e743a70f
@@ -1635,6 +1639,7 @@ golang-github-jmespath-go-jmespath-0.2.2-0.4.gitbd40a43.fc27:9315b444ded30237c10
 golang-github-jonboulle-clockwork-0-0.12.git2eee05e.fc27:35dd98c53ed8fa3880ca23edc88dc1dcac4ebef7
 golang-github-jtolds-gls-0-0.10.git9a4a02d.fc27:eee242d472b6d50d76f48f90036c0bbd416e1417
 golang-github-julienschmidt-httprouter-1.1-8.fc27:5dd79e83b5264dab60d79ebe19ef8952e05b6829
+golang-github-julienschmidt-httprouter-1.1-9.fc27:53e6c836319bfb41ef32bc32fec00b9090413a2f
 golang-github-karlseguin-ccache-2.0.2-0.3.gita2d6215.fc27:d98134f01fba65529f3cf80d3ca3431d9da38d19
 golang-github-karlseguin-expect-0-0.3.git5c2eadb.fc27:bf186df41cf3e045dd1dd491643ad773b06a89f7
 golang-github-kr-fs-0-0.11.git2788f0d.fc27:a5c2fb4a1a0fcd71d82346f78c9f78893105889a
@@ -1649,6 +1654,7 @@ golang-github-lsegal-gucumber-0-0.8.git71608e2.fc27:182f6e2b2ce7e0118423dc1d087c
 golang-github-magiconair-properties-1.7.0-4.fc27:e6cd560c3449091625289bf045164c41262a670d
 golang-github-mattn-go-runewidth-0-0.7.git737072b.fc27:c69880b87b33ec6f990b379edd6e189a1fc67f1c
 golang-github-matttproud-golang_protobuf_extensions-0-0.14.gitc12348c.fc27:e90832b81b8bb27adcabb546d94b9aaac4722fe7
+golang-github-matttproud-golang_protobuf_extensions-0-0.15.gitc12348c.fc27:40522914219cab69f72ba12ea3f7b89cf871954d
 golang-github-mitchellh-mapstructure-0-0.17.gitd0303fe.fc27:84aa4ac6482356d6dbcf391049b71f19b4dc292a
 golang-github-olekukonko-tablewriter-0-0.7.gitcca8bbc.fc27:89ae2e211da88e73b15cf4dc0ec2a0282554a3b1
 golang-github-olekukonko-ts-0-0.6.gitecf753e.fc27:2ac2cf308339257ea1d417e2a3762aa98a91438a
@@ -1665,6 +1671,7 @@ golang-github-pmezard-go-difflib-0-0.6.gitd8ed262.fc27:5c4df1321988701a17ebbc5fe
 golang-github-pmezard-go-difflib-0-0.8.gitd8ed262.fc27:892ed3abd994ba5da355c5f04e8fdfbe6926c0ce
 golang-github-prometheus-client_golang-0.7.0-9.fc27:30e615a948a7ec2aaa954ef0e92734f97d6b9bca
 golang-github-prometheus-client_model-0-0.11.gitfa8ad6f.fc27:df14818455c76923933bb09f0ef4f49200615791
+golang-github-prometheus-client_model-0-0.12.git6f38060.fc27:53c2906b3b78e0550a6a56c25b3e2d9ebb88371e
 golang-github-prometheus-common-0-0.9.git195bde7.fc27:e1b710066736940996f41926b819b039dbf81032
 golang-github-prometheus-procfs-0-0.19.gitfcdb11c.fc27:fd35d7375ddb9ba089c4480bad718c60c269325c
 golang-github-russross-blackfriday-1.2-17.fc27:a5d89017b1ed1bf006b01efdf97089f9c863ddf8

@@ -885,6 +885,7 @@ golang-github-coreos-go-systemd
 golang-github-coreos-pkg
 golang-github-cpuguy83-go-md2man
 golang-github-davecgh-go-spew
+golang-github-dgrijalva-jwt-go
 golang-github-docker-go-units
 golang-github-dustin-go-humanize
 golang-github-fsnotify-fsnotify
@@ -893,6 +894,7 @@ golang-github-go-ini-ini
 golang-github-godbus-dbus
 golang-github-golang-appengine
 golang-github-golang-glog
+golang-github-golang-groupcache
 golang-github-golang-sys
 golang-github-golang-time
 golang-github-google-btree
