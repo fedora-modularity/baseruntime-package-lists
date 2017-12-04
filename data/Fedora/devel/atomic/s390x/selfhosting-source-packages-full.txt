@@ -1081,7 +1081,7 @@ libpwquality-1.4.0-3.fc27.src
 libqb-1.0.2-7.fc28.src
 libqmi-1.18.0-2.fc27.src
 librepo-1.8.0-1.fc28.src
-libreport-2.9.2-2.fc28.src
+libreport-2.9.3-1.fc27.src
 librevenge-0.0.4-9.fc27.src
 librsvg2-2.40.18-3.fc27.src
 libsamplerate-0.1.8-13.fc27.src
@@ -2975,7 +2975,7 @@ sac-1.3-26.fc27.src
 samba-2:4.7.0-0.9.rc3.fc27.src
 sanlock-3.5.0-6.fc28.src
 sat4j-2.3.5-11.fc27.src
-satyr-0.24-1.fc28.src
+satyr-0.24-2.fc28.src
 saxon-9.4.0.9-6.fc27.src
 saxpath-1.0-15.fc27.src
 sbc-1.3-7.fc27.src
