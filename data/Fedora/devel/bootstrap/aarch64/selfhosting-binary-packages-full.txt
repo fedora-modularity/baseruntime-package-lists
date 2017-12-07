@@ -2104,8 +2104,8 @@ gnome-software-devel-3.26.1-3.fc27.aarch64
 gnome-software-editor-3.26.1-3.fc27.aarch64
 gnome-software-snap-3.26.1-3.fc27.aarch64
 gnome-system-monitor-3.26.0-1.fc27.aarch64
-gnome-terminal-3.24.2-3.fc27.aarch64
-gnome-terminal-nautilus-3.24.2-3.fc27.aarch64
+gnome-terminal-3.26.1-1.fc27.aarch64
+gnome-terminal-nautilus-3.26.1-1.fc27.aarch64
 gnome-themes-standard-3.22.3-4.fc27.aarch64
 gnome-tweak-tool-3.26.2.1-1.fc27.noarch
 gnome-user-docs-3.26.1-1.fc27.noarch
@@ -9920,9 +9920,9 @@ vorbis-java-0.8-3.fc27.noarch
 vorbis-java-tika-0.8-3.fc27.noarch
 vorbis-tools-1:1.4.0-26.fc27.aarch64
 vsftpd-3.0.3-7.fc27.aarch64
-vte-profile-0.48.3-1.fc27.aarch64
-vte291-0.48.3-1.fc27.aarch64
-vte291-devel-0.48.3-1.fc27.aarch64
+vte-profile-0.50.2-2.fc28.aarch64
+vte291-0.50.2-2.fc28.aarch64
+vte291-devel-0.50.2-2.fc28.aarch64
 vulkan-1.0.61.1-6.fc28.aarch64
 vulkan-devel-1.0.61.1-6.fc28.aarch64
 vulkan-filesystem-1.0.61.1-6.fc28.noarch

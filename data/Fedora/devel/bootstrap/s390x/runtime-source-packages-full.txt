@@ -463,7 +463,7 @@ gnome-shell-3.25.91-1.fc28.src
 gnome-shell-extensions-3.25.91-1.fc28.src
 gnome-software-3.26.1-3.fc27.src
 gnome-system-monitor-3.26.0-1.fc27.src
-gnome-terminal-3.24.2-3.fc27.src
+gnome-terminal-3.26.1-1.fc27.src
 gnome-themes-standard-3.22.3-4.fc27.src
 gnome-tweak-tool-3.26.2.1-1.fc27.src
 gnome-user-docs-3.26.1-1.fc27.src
@@ -2404,7 +2404,7 @@ vlgothic-fonts-20141206-8.fc27.src
 volume_key-0.3.9-16.fc28.src
 vorbis-tools-1:1.4.0-26.fc27.src
 vsftpd-3.0.3-7.fc27.src
-vte291-0.48.3-1.fc27.src
+vte291-0.50.2-2.fc28.src
 watchdog-5.13-18.fc27.src
 wavpack-5.1.0-4.fc27.src
 wayland-1.14.0-1.fc27.src
