@@ -1085,7 +1085,7 @@ gnome-calculator-3.25.91-1.fc28.armv7hl
 gnome-characters-3.26.1-1.fc27.armv7hl
 gnome-classic-session-3.25.91-1.fc28.noarch
 gnome-clocks-3.25.90-1.fc28.armv7hl
-gnome-color-manager-3.25.90-1.fc27.armv7hl
+gnome-color-manager-3.26.0-1.fc28.armv7hl
 gnome-contacts-3.26-1.fc27.armv7hl
 gnome-desktop3-3.26.1-1.fc27.armv7hl
 gnome-devel-docs-3.26.0-1.fc27.noarch

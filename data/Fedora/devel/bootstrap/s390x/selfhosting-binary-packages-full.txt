@@ -2004,7 +2004,7 @@ gnome-calculator-3.25.91-1.fc28.s390x
 gnome-characters-3.26.1-1.fc27.s390x
 gnome-classic-session-3.25.91-1.fc28.noarch
 gnome-clocks-3.25.90-1.fc28.s390x
-gnome-color-manager-3.25.90-1.fc27.s390x
+gnome-color-manager-3.26.0-1.fc28.s390x
 gnome-common-3.18.0-4.fc27.noarch
 gnome-contacts-3.26-1.fc27.s390x
 gnome-desktop3-3.26.1-1.fc27.s390x

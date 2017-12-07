@@ -1093,7 +1093,7 @@ gnome-calculator-3.25.91-1.fc28.i686
 gnome-characters-3.26.1-1.fc27.i686
 gnome-classic-session-3.25.91-1.fc28.noarch
 gnome-clocks-3.25.90-1.fc28.i686
-gnome-color-manager-3.25.90-1.fc27.i686
+gnome-color-manager-3.26.0-1.fc28.i686
 gnome-contacts-3.26-1.fc27.i686
 gnome-desktop3-3.26.1-1.fc27.i686
 gnome-devel-docs-3.26.0-1.fc27.noarch

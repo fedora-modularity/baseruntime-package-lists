@@ -1500,6 +1500,7 @@ gnome-characters-3.24.0-3.fc27:3ec00999d0e5333c03826d3f345d1484de5299e3
 gnome-characters-3.26.1-1.fc27:b1eb52441d06f76391001752d0251430aeb1cc59
 gnome-clocks-3.25.90-1.fc28:34a60bc3e43fec40e8bc39060eb9aedcfef6f2ca
 gnome-color-manager-3.25.90-1.fc27:284ee45c0a7ebb1f0188f52cf9cb5e2e2684fff7
+gnome-color-manager-3.26.0-1.fc28:c38b8dfda1ada20ebe2b87b5a62fe2bd0c9d6999
 gnome-common-3.18.0-3.fc26:d3856fa6f040f2097d297cd6ce4d88a14cf03b40
 gnome-common-3.18.0-4.fc27:3f6084dd9e88be0ec950b4d74192dada16a30803
 gnome-contacts-3.25.4-1.fc27:5006d36c38ee60eb97862f7f6e73aa3c560cea8b
