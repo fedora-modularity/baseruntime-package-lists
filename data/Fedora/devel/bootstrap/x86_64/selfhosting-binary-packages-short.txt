@@ -4832,6 +4832,8 @@ mozjs17
 mozjs17-devel
 mozjs38
 mozjs38-devel
+mozjs52
+mozjs52-devel
 mozvoikko
 mpfr
 mpfr-devel

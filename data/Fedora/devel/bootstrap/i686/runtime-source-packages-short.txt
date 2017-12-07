@@ -1405,8 +1405,8 @@ motif
 mousetweaks
 mozilla-filesystem
 mozjs17
-mozjs38
 mozjs45
+mozjs52
 mozvoikko
 mpfr
 mpg123

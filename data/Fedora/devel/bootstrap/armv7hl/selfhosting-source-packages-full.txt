@@ -780,7 +780,7 @@ ghostscript-fonts-5.50-37.fc27.src
 giflib-4.1.6-19.fc27.src
 gimp-2:2.8.22-2.fc27.2.src
 git-2.14.1-2.fc27.src
-gjs-1.49.3-3.fc27.src
+gjs-1.50.2-1.fc28.src
 gl-manpages-1.1-14.20161227.fc27.src
 gl2ps-1.4.0-3.fc27.src
 glade-3.20.1-1.fc28.src
@@ -862,7 +862,7 @@ gnome-tweak-tool-3.26.2.1-1.fc27.src
 gnome-user-docs-3.26.1-1.fc27.src
 gnome-vfs2-2.24.4-25.fc27.src
 gnome-video-effects-0.4.3-2.fc27.src
-gnome-weather-3.24.0-2.fc27.src
+gnome-weather-3.26.0-2.fc27.src
 gnu-free-fonts-20120503-15.fc27.src
 gnu-getopt-1.0.14-12.fc27.src
 gnulib-0-23.20170217git.fc27.src
@@ -2192,6 +2192,7 @@ mozilla-filesystem-1.9-17.fc27.src
 mozjs17-17.0.0-21.fc27.src
 mozjs38-38.8.0-7.fc28.src
 mozjs45-45.9.0-2.fc27.src
+mozjs52-52.5.0-5.fc28.src
 mozvoikko-2.1-5.fc27.src
 mpfr-3.1.5-5.fc27.src
 mpg123-1.25.6-1.fc27.src
