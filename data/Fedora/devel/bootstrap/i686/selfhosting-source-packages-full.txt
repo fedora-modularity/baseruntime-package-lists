@@ -362,7 +362,7 @@ cpptest-1.1.2-9.fc27.src
 cppunit-1.14.0-3.fc27.src
 cpuid-20170122-5.fc28.src
 cracklib-2.9.6-9.fc28.src
-crash-7.1.9-3.fc27.src
+crash-7.2.0-1.fc28.src
 crda-3.18_2016.02.08-4.fc27.src
 createrepo-0.10.3-12.fc27.src
 createrepo_c-0.10.0-14.fc27.src

@@ -867,8 +867,8 @@ cppunit-devel-1.14.0-3.fc27.armv7hl
 cracklib-2.9.6-9.fc28.armv7hl
 cracklib-devel-2.9.6-9.fc28.armv7hl
 cracklib-dicts-2.9.6-9.fc28.armv7hl
-crash-7.1.9-3.fc27.armv7hl
-crash-devel-7.1.9-3.fc27.armv7hl
+crash-7.2.0-1.fc28.armv7hl
+crash-devel-7.2.0-1.fc28.armv7hl
 crda-3.18_2016.02.08-4.fc27.armv7hl
 crda-devel-3.18_2016.02.08-4.fc27.armv7hl
 createrepo-0.10.3-12.fc27.noarch

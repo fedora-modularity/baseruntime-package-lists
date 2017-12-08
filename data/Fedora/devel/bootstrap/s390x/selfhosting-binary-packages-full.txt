@@ -867,8 +867,8 @@ cppunit-devel-1.14.0-3.fc27.s390x
 cracklib-2.9.6-9.fc28.s390x
 cracklib-devel-2.9.6-9.fc28.s390x
 cracklib-dicts-2.9.6-9.fc28.s390x
-crash-7.1.9-3.fc27.s390x
-crash-devel-7.1.9-3.fc27.s390x
+crash-7.2.0-1.fc28.s390x
+crash-devel-7.2.0-1.fc28.s390x
 crda-3.18_2016.02.08-4.fc27.s390x
 crda-devel-3.18_2016.02.08-4.fc27.s390x
 createrepo-0.10.3-12.fc27.noarch

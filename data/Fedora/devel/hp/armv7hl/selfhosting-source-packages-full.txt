@@ -255,7 +255,7 @@ cpio-2.12-6.fc27.src
 cpptasks-1.0b5-19.fc27.src
 cppunit-1.14.0-3.fc27.src
 cracklib-2.9.6-9.fc28.src
-crash-7.1.9-3.fc27.src
+crash-7.2.0-1.fc28.src
 crda-3.18_2016.02.08-4.fc27.src
 cronie-1.5.1-8.fc27.src
 crontabs-1.11-15.20150630git.fc27.src

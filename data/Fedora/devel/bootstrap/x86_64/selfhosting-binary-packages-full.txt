@@ -876,8 +876,8 @@ cpuid-20170122-5.fc28.x86_64
 cracklib-2.9.6-9.fc28.x86_64
 cracklib-devel-2.9.6-9.fc28.x86_64
 cracklib-dicts-2.9.6-9.fc28.x86_64
-crash-7.1.9-3.fc27.x86_64
-crash-devel-7.1.9-3.fc27.x86_64
+crash-7.2.0-1.fc28.x86_64
+crash-devel-7.2.0-1.fc28.x86_64
 crda-3.18_2016.02.08-4.fc27.x86_64
 crda-devel-3.18_2016.02.08-4.fc27.x86_64
 createrepo-0.10.3-12.fc27.noarch
