@@ -1334,14 +1334,17 @@ ghc-cmdargs-0.10.14-6.fc27:6f7cba44fa79693929f5b991d5fc80393fef07c6
 ghc-conduit-1.2.9-3.fc27:0caa799767c432597e3b410936e98543bcc9b5e0
 ghc-conduit-extra-1.1.15-3.fc27:e33ac9afc6298b5a9a7ff9f3536ba610981fc0a3
 ghc-contravariant-1.4-3.fc27:0f294dd91fbab947f5522359743260c3a6914ff6
+ghc-cryptohash-sha256-0.11.100.1-6.fc27:59409404ef79fbbedc44ffb02d4c9dc04e9ce92b
 ghc-data-default-0.7.1.1-3.fc27:bbdd6216fc1af8620ef3fe9da31df5828ad6a92b
 ghc-data-default-class-0.1.2.0-3.fc27:2197ccf2ba25fd82fb922190cfd8431a6754e678
 ghc-digest-0.0.1.2-11.fc27:6468945f7fd63e824be90bdbc0167bfe5139a5e5
 ghc-dlist-0.8.0.2-3.fc27:7bb6fa6f7eea82207ef454a1f1a5e6f3affdd47c
+ghc-ed25519-0.0.5.0-6.fc27:4b10865ec5b1f4d2ccc00ca9afdb94134ec276a6
 ghc-enclosed-exceptions-1.0.2-7.fc27:391df62bd0c21f8bea69cd4d98f9746e7fc1f8c4
 ghc-exceptions-0.8.3-3.fc27:f5289ceed3c4995ee86ad44649eb442e0dbaa7cc
 ghc-extensible-exceptions-0.1.1.4-22.fc27:70b50313950f6c86c60d34e0c4416fdbfaba7715
 ghc-filemanip-0.3.6.3-6.fc27:504384bce0f6707ccf7a9d7444916bb6589cfb7b
+ghc-hackage-security-0.5.2.2-6.fc27:e56e237629dafac7f725fb3424de85a13c963528
 ghc-haddock-library-1.4.2-3.fc27:55ff52d990c132ad09b0c5549820be953d1ac145
 ghc-hashable-1.2.5.0-3.fc27:7a3838830ad1122e4117f18d366b6d2b65ad0d55
 ghc-haskell-src-exts-1.18.2-3.fc27:d365b17e71d611cd2a57af3292b56bdc59ada8f3
@@ -3105,6 +3108,7 @@ libmbim-1.14.2-1.fc27:0948de8bd42102a6b96c082015203c0f9a95e61e
 libmcrypt-2.5.8-19.fc26:977b511b3a8daeccd14d173bd8cc31b5281294d1
 libmcrypt-2.5.8-21.fc27:e7243c0ca0a1ec0cdb72ce71070e91287ab07866
 libmediaart-1.9.4-1.fc27:72b7a1fac86ea90cd2712f2682c3c9f6ac4e2a8c
+libmediaart-1.9.4-2.fc28:7ef9aa57c83a6d8768bb72be504ce299e2cabf88
 libmemcached-1.0.18-10.fc27:2e1f6b8d23cefd4387731baeecbdf18006f3147b
 libmetalink-0.1.3-4.fc27:324893c95a0b58c86a99583b266b4612d0728138
 libmicrohttpd-0.9.55-1.fc27:1851e10e679c7477c76df734ab321ca2a31f0f39
@@ -3947,6 +3951,7 @@ netty-4.0.42-5.fc27:63f535d4e28be8550bbba12d343a7e59d8a94801
 netty-4.1.13-1.fc27:99ce156e92be8ffabdef23a225b1284bb1fd52aa
 netty-tcnative-1.1.30-6.fc26:881bf2876df23ca0dfbf614404d01b1f02e64ccb
 netty-tcnative-1.1.30-8.fc27:f530a8c226ceeeb70b43b6b0018f1cda0cd541fe
+netty-tcnative-1.1.30-9.fc28:79f7d12629de42c3bfb3762a219532ebb70d3901
 netty3-3.10.6-2.fc26:4b94f3bc6ef5d23c4dcfc38a589c2bdd7312de4c
 netty3-3.10.6-3.fc27:3f9c40cb1878860b269952027938c1d7e4b59a4a
 network-manager-applet-1.8.2-3.fc28:3b6fdafa6ac6f23db69e6099f4175c680b624439

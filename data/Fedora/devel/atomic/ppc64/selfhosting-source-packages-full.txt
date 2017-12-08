@@ -1309,7 +1309,7 @@ netcf-0.2.8-8.fc27.src
 netpbm-10.79.00-3.fc27.src
 nettle-3.3-5.fc27.src
 netty-4.1.13-1.fc27.src
-netty-tcnative-1.1.30-8.fc27.src
+netty-tcnative-1.1.30-9.fc28.src
 netty3-3.10.6-3.fc27.src
 newt-0.52.20-5.fc28.src
 nfs-utils-1:2.1.1-6.rc5.fc27.src

@@ -961,13 +961,13 @@ ghc-compiler-8.0.2-59.fc27.armv7hl
 ghc-containers-0.5.7.1-59.fc27.armv7hl
 ghc-containers-devel-0.5.7.1-59.fc27.armv7hl
 ghc-cpphs-1.20.3-3.fc27.armv7hl
-ghc-cryptohash-sha256-0.11.100.1-5.fc27.armv7hl
+ghc-cryptohash-sha256-0.11.100.1-6.fc27.armv7hl
 ghc-deepseq-1.4.2.0-59.fc27.armv7hl
 ghc-deepseq-devel-1.4.2.0-59.fc27.armv7hl
 ghc-directory-1.3.0.0-59.fc27.armv7hl
 ghc-directory-devel-1.3.0.0-59.fc27.armv7hl
 ghc-doc-index-8.0.2-59.fc27.armv7hl
-ghc-ed25519-0.0.5.0-5.fc27.armv7hl
+ghc-ed25519-0.0.5.0-6.fc27.armv7hl
 ghc-extra-1.5.1-3.fc27.armv7hl
 ghc-filepath-1.4.1.1-59.fc27.armv7hl
 ghc-filepath-devel-1.4.1.1-59.fc27.armv7hl
@@ -979,7 +979,7 @@ ghc-ghc-boot-th-devel-8.0.2-59.fc27.armv7hl
 ghc-ghc-devel-8.0.2-59.fc27.armv7hl
 ghc-ghci-8.0.2-59.fc27.armv7hl
 ghc-ghci-devel-8.0.2-59.fc27.armv7hl
-ghc-hackage-security-0.5.2.2-5.fc27.armv7hl
+ghc-hackage-security-0.5.2.2-6.fc27.armv7hl
 ghc-hashable-1.2.5.0-3.fc27.armv7hl
 ghc-haskeline-0.7.3.0-59.fc27.armv7hl
 ghc-haskeline-devel-0.7.3.0-59.fc27.armv7hl
@@ -2137,7 +2137,7 @@ libmalaga-7.12-23.fc27.armv7hl
 libmbim-1.14.0-4.fc27.armv7hl
 libmbim-utils-1.14.0-4.fc27.armv7hl
 libmcpp-2.7.2-19.fc27.armv7hl
-libmediaart-1.9.4-1.fc27.armv7hl
+libmediaart-1.9.4-2.fc28.armv7hl
 libmetalink-0.1.3-4.fc27.armv7hl
 libmng-2.0.3-6.fc27.armv7hl
 libmnl-1.0.4-4.fc27.armv7hl
@@ -2762,7 +2762,7 @@ netpbm-progs-10.79.00-3.fc27.armv7hl
 nettle-3.3-5.fc27.armv7hl
 nettle-devel-3.3-5.fc27.armv7hl
 netty-4.1.13-1.fc27.armv7hl
-netty-tcnative-1.1.30-8.fc27.armv7hl
+netty-tcnative-1.1.30-9.fc28.armv7hl
 netty3-3.10.6-3.fc27.noarch
 network-manager-applet-1.8.2-3.fc28.armv7hl
 newt-0.52.20-5.fc28.armv7hl

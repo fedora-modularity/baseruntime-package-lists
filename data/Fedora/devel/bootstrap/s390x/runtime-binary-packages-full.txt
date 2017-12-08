@@ -950,13 +950,13 @@ ghc-compiler-8.0.2-59.fc27.s390x
 ghc-containers-0.5.7.1-59.fc27.s390x
 ghc-containers-devel-0.5.7.1-59.fc27.s390x
 ghc-cpphs-1.20.3-3.fc27.s390x
-ghc-cryptohash-sha256-0.11.100.1-5.fc27.s390x
+ghc-cryptohash-sha256-0.11.100.1-6.fc27.s390x
 ghc-deepseq-1.4.2.0-59.fc27.s390x
 ghc-deepseq-devel-1.4.2.0-59.fc27.s390x
 ghc-directory-1.3.0.0-59.fc27.s390x
 ghc-directory-devel-1.3.0.0-59.fc27.s390x
 ghc-doc-index-8.0.2-59.fc27.s390x
-ghc-ed25519-0.0.5.0-5.fc27.s390x
+ghc-ed25519-0.0.5.0-6.fc27.s390x
 ghc-extra-1.5.1-3.fc27.s390x
 ghc-filepath-1.4.1.1-59.fc27.s390x
 ghc-filepath-devel-1.4.1.1-59.fc27.s390x
@@ -968,7 +968,7 @@ ghc-ghc-boot-th-devel-8.0.2-59.fc27.s390x
 ghc-ghc-devel-8.0.2-59.fc27.s390x
 ghc-ghci-8.0.2-59.fc27.s390x
 ghc-ghci-devel-8.0.2-59.fc27.s390x
-ghc-hackage-security-0.5.2.2-5.fc27.s390x
+ghc-hackage-security-0.5.2.2-6.fc27.s390x
 ghc-hashable-1.2.5.0-3.fc27.s390x
 ghc-haskeline-0.7.3.0-59.fc27.s390x
 ghc-haskeline-devel-0.7.3.0-59.fc27.s390x
@@ -2127,7 +2127,7 @@ libmalaga-7.12-23.fc27.s390x
 libmbim-1.14.0-4.fc27.s390x
 libmbim-utils-1.14.0-4.fc27.s390x
 libmcpp-2.7.2-19.fc27.s390x
-libmediaart-1.9.4-1.fc27.s390x
+libmediaart-1.9.4-2.fc28.s390x
 libmetalink-0.1.3-4.fc27.s390x
 libmng-2.0.3-6.fc27.s390x
 libmnl-1.0.4-4.fc27.s390x
@@ -2741,7 +2741,7 @@ netpbm-progs-10.79.00-3.fc27.s390x
 nettle-3.3-5.fc27.s390x
 nettle-devel-3.3-5.fc27.s390x
 netty-4.1.13-1.fc27.s390x
-netty-tcnative-1.1.30-8.fc27.s390x
+netty-tcnative-1.1.30-9.fc28.s390x
 netty3-3.10.6-3.fc27.noarch
 network-manager-applet-1.8.2-3.fc28.s390x
 newt-0.52.20-5.fc28.s390x

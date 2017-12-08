@@ -2757,7 +2757,7 @@ netpbm-progs-10.79.00-3.fc27.i686
 nettle-3.3-5.fc27.i686
 nettle-devel-3.3-5.fc27.i686
 netty-4.1.13-1.fc27.i686
-netty-tcnative-1.1.30-8.fc27.i686
+netty-tcnative-1.1.30-9.fc28.i686
 netty3-3.10.6-3.fc27.noarch
 newt-0.52.20-5.fc28.i686
 newt-devel-0.52.20-5.fc28.i686

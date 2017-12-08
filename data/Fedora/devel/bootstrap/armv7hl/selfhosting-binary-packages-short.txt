@@ -1710,6 +1710,7 @@ ghc-containers-devel
 ghc-cpphs
 ghc-cpphs-devel
 ghc-cryptohash-sha256
+ghc-cryptohash-sha256-devel
 ghc-data-default
 ghc-data-default-class
 ghc-data-default-class-devel
@@ -1732,6 +1733,7 @@ ghc-doc-index
 ghc-doctemplates
 ghc-doctemplates-devel
 ghc-ed25519
+ghc-ed25519-devel
 ghc-enclosed-exceptions
 ghc-enclosed-exceptions-devel
 ghc-exceptions

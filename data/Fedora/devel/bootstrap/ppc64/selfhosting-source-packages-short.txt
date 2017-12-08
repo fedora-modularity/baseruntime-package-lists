@@ -700,14 +700,17 @@ ghc-cmdargs
 ghc-conduit
 ghc-conduit-extra
 ghc-contravariant
+ghc-cryptohash-sha256
 ghc-data-default
 ghc-data-default-class
 ghc-digest
 ghc-dlist
+ghc-ed25519
 ghc-enclosed-exceptions
 ghc-exceptions
 ghc-extensible-exceptions
 ghc-filemanip
+ghc-hackage-security
 ghc-haddock-library
 ghc-hashable
 ghc-haskell-src-exts

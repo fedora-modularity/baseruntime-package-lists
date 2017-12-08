@@ -389,6 +389,9 @@ ghc-async
 ghc-base16-bytestring
 ghc-base64-bytestring
 ghc-cmdargs
+ghc-cryptohash-sha256
+ghc-ed25519
+ghc-hackage-security
 ghc-hashable
 ghc-haskell-src-exts
 ghc-mtl

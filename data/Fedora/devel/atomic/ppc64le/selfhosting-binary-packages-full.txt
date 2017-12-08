@@ -2714,7 +2714,7 @@ netpbm-progs-10.79.00-3.fc27.ppc64le
 nettle-3.3-5.fc27.ppc64le
 nettle-devel-3.3-5.fc27.ppc64le
 netty-4.1.13-1.fc27.ppc64le
-netty-tcnative-1.1.30-8.fc27.ppc64le
+netty-tcnative-1.1.30-9.fc28.ppc64le
 netty3-3.10.6-3.fc27.noarch
 newt-0.52.20-5.fc28.ppc64le
 newt-devel-0.52.20-5.fc28.ppc64le
