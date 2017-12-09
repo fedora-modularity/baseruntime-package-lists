@@ -2001,8 +2001,8 @@ glx-utils-8.3.0-8.fc27.ppc64le
 gmavenplus-plugin-1.5-3.fc27.noarch
 gmetric4j-1.0.10-7.fc27.noarch
 gmetrics-0.7-3.fc27.noarch
-gmime-2.6.23-4.fc27.ppc64le
-gmime-devel-2.6.23-4.fc27.ppc64le
+gmime30-3.0.5-1.fc28.ppc64le
+gmime30-devel-3.0.5-1.fc28.ppc64le
 gmock-1.7.0-5.fc27.noarch
 gmock-devel-1.7.0-5.fc27.noarch
 gmp-1:6.1.2-6.fc27.ppc64le
@@ -2278,7 +2278,7 @@ graphviz-tcl-2.40.1-12.fc28.ppc64le
 grep-3.1-3.fc27.ppc64le
 grilo-0.3.4-1.fc28.ppc64le
 grilo-devel-0.3.4-1.fc28.ppc64le
-grilo-plugins-0.3.5-1.fc28.ppc64le
+grilo-plugins-0.3.5-2.fc27.ppc64le
 grizzly-2.3.24-4.fc27.noarch
 grizzly-npn-1.2-6.fc27.noarch
 grizzly-npn-bootstrap-1.2-6.fc27.noarch
@@ -2351,7 +2351,6 @@ gtk+-devel-1:1.2.10-85.fc27.ppc64le
 gtk-doc-1.25-6.fc27.ppc64le
 gtk-sharp2-2.12.45-3.fc27.ppc64le
 gtk-sharp2-devel-2.12.45-3.fc27.ppc64le
-gtk-sharp2-gapi-2.12.45-3.fc27.ppc64le
 gtk-update-icon-cache-3.22.24-2.fc28.ppc64le
 gtk-vnc2-0.7.1-5.fc28.ppc64le
 gtk-vnc2-devel-0.7.1-5.fc28.ppc64le
@@ -9747,8 +9746,8 @@ totem-1:3.25.90.1-1.fc27.ppc64le
 totem-devel-1:3.25.90.1-1.fc27.ppc64le
 totem-lirc-1:3.25.90.1-1.fc27.ppc64le
 totem-nautilus-1:3.25.90.1-1.fc27.ppc64le
-totem-pl-parser-3.25.90-2.fc27.ppc64le
-totem-pl-parser-devel-3.25.90-2.fc27.ppc64le
+totem-pl-parser-3.26.0-1.fc28.ppc64le
+totem-pl-parser-devel-3.26.0-1.fc28.ppc64le
 tpm-quote-tools-1.0.3-3.fc27.ppc64le
 tpm-tools-1.3.9-3.fc27.ppc64le
 tpm-tools-devel-1.3.9-3.fc27.ppc64le

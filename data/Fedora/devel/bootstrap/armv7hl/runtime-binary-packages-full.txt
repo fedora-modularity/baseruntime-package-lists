@@ -1066,8 +1066,8 @@ glusterfs-client-xlators-3.11.3-2.fc28.armv7hl
 glusterfs-fuse-3.11.3-2.fc28.armv7hl
 glusterfs-libs-3.11.3-2.fc28.armv7hl
 glx-utils-8.3.0-8.fc27.armv7hl
-gmime-2.6.23-4.fc27.armv7hl
-gmime-devel-2.6.23-4.fc27.armv7hl
+gmime30-3.0.5-1.fc28.armv7hl
+gmime30-devel-3.0.5-1.fc28.armv7hl
 gmp-1:6.1.2-6.fc27.armv7hl
 gmp-c++-1:6.1.2-6.fc27.armv7hl
 gmp-devel-1:6.1.2-6.fc27.armv7hl
@@ -1285,7 +1285,7 @@ graphite2-devel-1.3.10-3.fc27.armv7hl
 graphviz-2.40.1-12.fc28.armv7hl
 grep-3.1-3.fc27.armv7hl
 grilo-0.3.4-1.fc28.armv7hl
-grilo-plugins-0.3.5-1.fc28.armv7hl
+grilo-plugins-0.3.5-2.fc27.armv7hl
 groff-base-1.22.3-11.fc27.armv7hl
 groff-perl-1.22.3-11.fc27.armv7hl
 groovy-lib-2.4.8-3.fc27.noarch
@@ -4725,8 +4725,8 @@ totem-1:3.25.90.1-1.fc27.armv7hl
 totem-devel-1:3.25.90.1-1.fc27.armv7hl
 totem-lirc-1:3.25.90.1-1.fc27.armv7hl
 totem-nautilus-1:3.25.90.1-1.fc27.armv7hl
-totem-pl-parser-3.25.90-2.fc27.armv7hl
-totem-pl-parser-devel-3.25.90-2.fc27.armv7hl
+totem-pl-parser-3.26.0-1.fc28.armv7hl
+totem-pl-parser-devel-3.26.0-1.fc28.armv7hl
 tpm-quote-tools-1.0.3-3.fc27.armv7hl
 tpm-tools-1.3.9-3.fc27.armv7hl
 tpm-tools-devel-1.3.9-3.fc27.armv7hl

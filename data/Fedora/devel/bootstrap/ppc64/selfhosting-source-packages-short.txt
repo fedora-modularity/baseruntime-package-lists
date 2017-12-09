@@ -807,7 +807,7 @@ glusterfs
 gmavenplus-plugin
 gmetric4j
 gmetrics
-gmime
+gmime30
 gmock
 gmp
 gnat-srpm-macros

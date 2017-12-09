@@ -1066,8 +1066,8 @@ glusterfs-client-xlators
 glusterfs-fuse
 glusterfs-libs
 glx-utils
-gmime
-gmime-devel
+gmime30
+gmime30-devel
 gmp
 gmp-c++
 gmp-devel

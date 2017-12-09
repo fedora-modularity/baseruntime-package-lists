@@ -441,7 +441,7 @@ glib2
 glibc
 glibmm24
 glusterfs
-gmime
+gmime30
 gmp
 gnat-srpm-macros
 gnome-abrt

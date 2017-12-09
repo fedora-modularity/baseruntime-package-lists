@@ -1082,8 +1082,8 @@ glusterfs-client-xlators-3.11.3-2.fc28.aarch64
 glusterfs-fuse-3.11.3-2.fc28.aarch64
 glusterfs-libs-3.11.3-2.fc28.aarch64
 glx-utils-8.3.0-8.fc27.aarch64
-gmime-2.6.23-4.fc27.aarch64
-gmime-devel-2.6.23-4.fc27.aarch64
+gmime30-3.0.5-1.fc28.aarch64
+gmime30-devel-3.0.5-1.fc28.aarch64
 gmp-1:6.1.2-6.fc27.aarch64
 gmp-c++-1:6.1.2-6.fc27.aarch64
 gmp-devel-1:6.1.2-6.fc27.aarch64
@@ -1305,7 +1305,7 @@ graphviz-2.40.1-12.fc28.aarch64
 graphviz-tcl-2.40.1-12.fc28.aarch64
 grep-3.1-3.fc27.aarch64
 grilo-0.3.4-1.fc28.aarch64
-grilo-plugins-0.3.5-1.fc28.aarch64
+grilo-plugins-0.3.5-2.fc27.aarch64
 groff-base-1.22.3-11.fc27.aarch64
 groff-perl-1.22.3-11.fc27.aarch64
 groovy-lib-2.4.8-3.fc27.noarch
@@ -4788,8 +4788,8 @@ totem-1:3.25.90.1-1.fc27.aarch64
 totem-devel-1:3.25.90.1-1.fc27.aarch64
 totem-lirc-1:3.25.90.1-1.fc27.aarch64
 totem-nautilus-1:3.25.90.1-1.fc27.aarch64
-totem-pl-parser-3.25.90-2.fc27.aarch64
-totem-pl-parser-devel-3.25.90-2.fc27.aarch64
+totem-pl-parser-3.26.0-1.fc28.aarch64
+totem-pl-parser-devel-3.26.0-1.fc28.aarch64
 tpm-quote-tools-1.0.3-3.fc27.aarch64
 tpm-tools-1.3.9-3.fc27.aarch64
 tpm-tools-devel-1.3.9-3.fc27.aarch64

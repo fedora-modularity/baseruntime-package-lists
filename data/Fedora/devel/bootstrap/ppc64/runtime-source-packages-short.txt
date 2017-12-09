@@ -428,7 +428,7 @@ glibc
 glibc32
 glibmm24
 glusterfs
-gmime
+gmime30
 gmp
 gnat-srpm-macros
 gnome-abrt

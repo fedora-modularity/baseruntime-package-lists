@@ -1070,8 +1070,8 @@ glusterfs-client-xlators-3.11.3-2.fc28.ppc64le
 glusterfs-fuse-3.11.3-2.fc28.ppc64le
 glusterfs-libs-3.11.3-2.fc28.ppc64le
 glx-utils-8.3.0-8.fc27.ppc64le
-gmime-2.6.23-4.fc27.ppc64le
-gmime-devel-2.6.23-4.fc27.ppc64le
+gmime30-3.0.5-1.fc28.ppc64le
+gmime30-devel-3.0.5-1.fc28.ppc64le
 gmp-1:6.1.2-6.fc27.ppc64le
 gmp-c++-1:6.1.2-6.fc27.ppc64le
 gmp-devel-1:6.1.2-6.fc27.ppc64le
@@ -1293,7 +1293,7 @@ graphviz-2.40.1-12.fc28.ppc64le
 graphviz-tcl-2.40.1-12.fc28.ppc64le
 grep-3.1-3.fc27.ppc64le
 grilo-0.3.4-1.fc28.ppc64le
-grilo-plugins-0.3.5-1.fc28.ppc64le
+grilo-plugins-0.3.5-2.fc27.ppc64le
 groff-base-1.22.3-11.fc27.ppc64le
 groff-perl-1.22.3-11.fc27.ppc64le
 groovy-lib-2.4.8-3.fc27.noarch
@@ -4791,8 +4791,8 @@ totem-1:3.25.90.1-1.fc27.ppc64le
 totem-devel-1:3.25.90.1-1.fc27.ppc64le
 totem-lirc-1:3.25.90.1-1.fc27.ppc64le
 totem-nautilus-1:3.25.90.1-1.fc27.ppc64le
-totem-pl-parser-3.25.90-2.fc27.ppc64le
-totem-pl-parser-devel-3.25.90-2.fc27.ppc64le
+totem-pl-parser-3.26.0-1.fc28.ppc64le
+totem-pl-parser-devel-3.26.0-1.fc28.ppc64le
 tpm-quote-tools-1.0.3-3.fc27.ppc64le
 tpm-tools-1.3.9-3.fc27.ppc64le
 tpm-tools-devel-1.3.9-3.fc27.ppc64le

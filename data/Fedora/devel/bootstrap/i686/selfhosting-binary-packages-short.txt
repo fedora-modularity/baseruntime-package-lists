@@ -2017,8 +2017,8 @@ glx-utils
 gmavenplus-plugin
 gmetric4j
 gmetrics
-gmime
-gmime-devel
+gmime30
+gmime30-devel
 gmock
 gmock-devel
 gmp
@@ -2368,7 +2368,6 @@ gtk+-devel
 gtk-doc
 gtk-sharp2
 gtk-sharp2-devel
-gtk-sharp2-gapi
 gtk-update-icon-cache
 gtk-vnc2
 gtk-vnc2-devel

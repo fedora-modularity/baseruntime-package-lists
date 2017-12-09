@@ -451,7 +451,7 @@ glibc-2.26.90-9.fc28.src
 glibc32-2.20-7.3.fc28.6.src
 glibmm24-2.52.0-3.fc27.src
 glusterfs-3.11.3-2.fc28.src
-gmime-2.6.23-4.fc27.src
+gmime30-3.0.5-1.fc28.src
 gmp-1:6.1.2-6.fc27.src
 gnat-srpm-macros-4-4.fc27.src
 gnome-abrt-1.2.5-6.fc27.src
@@ -603,7 +603,7 @@ graphite2-1.3.10-3.fc27.src
 graphviz-2.40.1-12.fc28.src
 grep-3.1-3.fc27.src
 grilo-0.3.4-1.fc28.src
-grilo-plugins-0.3.5-1.fc28.src
+grilo-plugins-0.3.5-2.fc27.src
 groff-1.22.3-11.fc27.src
 groovy-2.4.8-3.fc27.src
 grub2-1:2.02-15.fc28.src
@@ -2424,7 +2424,7 @@ tokyocabinet-1.4.48-9.fc27.src
 tomcat-1:8.0.47-2.fc28.src
 tomcatjss-7.2.4-2.fc27.src
 totem-1:3.25.90.1-1.fc27.src
-totem-pl-parser-3.25.90-2.fc27.src
+totem-pl-parser-3.26.0-1.fc28.src
 tpm-quote-tools-1.0.3-3.fc27.src
 tpm-tools-1.3.9-3.fc27.src
 tpm2-tools-2.1.0-5.fc28.src
