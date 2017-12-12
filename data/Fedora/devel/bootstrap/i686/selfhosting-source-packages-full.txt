@@ -1698,7 +1698,6 @@ libconfig-1.5-7.fc27.src
 libconfuse-3.2.1-1.fc28.src
 libcroco-0.6.12-3.fc27.src
 libcryptui-3.12.2-11.fc27.src
-libcue-2.1.0-4.fc27.src
 libdaemon-0.14-13.fc27.src
 libdap-3.18.3-4.fc27.src
 libdatrie-0.2.9-6.fc27.src
@@ -1766,7 +1765,6 @@ libgovirt-0.3.4-4.fc27.src
 libgpg-error-1.27-3.fc27.src
 libgphoto2-2.5.14-3.fc27.src
 libgpod-0.8.3-19.fc27.src
-libgrss-0.7.0-5.fc27.src
 libgsf-1.14.41-4.fc27.src
 libgta-1.0.7-6.fc27.src
 libgtop2-2.37.90-1.fc27.src
@@ -4592,7 +4590,7 @@ tpm2-tss-1.1.0-3.fc28.src
 trace-cmd-2.6.1-3.fc27.src
 tracer-0.6.13-2.fc27.src
 traceroute-3:2.1.0-5.fc27.src
-tracker-1.99.1-2.fc27.src
+tracker-2.0.1-1.fc27.src
 transfig-1:3.2.6-5.fc27.src
 tre-0.8.0-21.20140228gitc2f5d13.fc27.src
 tree-1.7.0-11.fc27.src

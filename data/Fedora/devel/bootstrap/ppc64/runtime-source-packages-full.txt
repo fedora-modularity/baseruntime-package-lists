@@ -275,7 +275,6 @@ egl-wayland-1.0.2-0.4.20170802git1f4b1fd.fc27.src
 elfutils-0.170-1.fc27.src
 emacs-1:25.2-9.fc28.src
 emacs-haskell-mode-16.1-2.fc27.src
-enca-1.18-4.fc27.src
 enchant-1:1.6.0-18.fc27.src
 enscript-1.6.6-12.fc27.src
 environment-modules-3.2.10-23.fc27.src
@@ -931,7 +930,6 @@ libcomps-0.1.8-6.fc28.src
 libconfig-1.5-7.fc27.src
 libcroco-0.6.12-3.fc27.src
 libcryptui-3.12.2-11.fc27.src
-libcue-2.1.0-4.fc27.src
 libcxl-1.5-2.fc27.src
 libdaemon-0.14-13.fc27.src
 libdap-3.18.3-4.fc27.src
@@ -993,8 +991,6 @@ libgovirt-0.3.4-4.fc27.src
 libgpg-error-1.27-3.fc27.src
 libgphoto2-2.5.14-3.fc27.src
 libgpod-0.8.3-19.fc27.src
-libgrss-0.7.0-5.fc27.src
-libgsf-1.14.41-4.fc27.src
 libgta-1.0.7-6.fc27.src
 libgtop2-2.37.90-1.fc27.src
 libgudev-232-1.fc27.src
@@ -1014,7 +1010,6 @@ libieee1284-0.2.11-25.fc28.src
 libimagequant-2.10.2-1.fc27.src
 libimobiledevice-1.2.0-11.fc27.src
 libinput-1.8.1-3.fc27.src
-libiptcdata-1.0.4-20.fc28.src
 libiscsi-1.15.0-5.fc27.src
 libisofs-1.4.6-4.fc27.src
 libjpeg-turbo-1.5.1-4.fc27.src
@@ -2296,7 +2291,7 @@ tpm-tools-1.3.9-3.fc27.src
 trace-cmd-2.6.1-3.fc27.src
 tracer-0.6.13-2.fc27.src
 traceroute-3:2.1.0-5.fc27.src
-tracker-1.99.1-2.fc27.src
+tracker-2.0.1-1.fc27.src
 tree-1.7.0-11.fc27.src
 trousers-0.3.13-9.fc27.src
 ttmkfdir-3.0.9-51.fc27.src

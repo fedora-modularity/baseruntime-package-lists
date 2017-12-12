@@ -291,7 +291,6 @@ egl-wayland
 elfutils
 emacs
 emacs-haskell-mode
-enca
 enchant
 enscript
 environment-modules
@@ -1036,7 +1035,6 @@ libcomps
 libconfig
 libcroco
 libcryptui
-libcue
 libdaemon
 libdap
 libdatrie
@@ -1098,8 +1096,6 @@ libgovirt
 libgpg-error
 libgphoto2
 libgpod
-libgrss
-libgsf
 libgta
 libgtop2
 libgudev
@@ -1120,7 +1116,6 @@ libimagequant
 libimobiledevice
 libinput
 libipt
-libiptcdata
 libiscsi
 libisofs
 libjpeg-turbo

@@ -1708,7 +1708,6 @@ libconfig
 libconfuse
 libcroco
 libcryptui
-libcue
 libdaemon
 libdap
 libdatrie
@@ -1776,7 +1775,6 @@ libgovirt
 libgpg-error
 libgphoto2
 libgpod
-libgrss
 libgsf
 libgta
 libgtop2

@@ -647,7 +647,6 @@ emacs-haskell-mode-16.1-2.fc27.noarch
 emacs-lucid-1:25.2-9.fc28.s390x
 emacs-nox-1:25.2-9.fc28.s390x
 emacs-terminal-1:25.2-9.fc28.noarch
-enca-1.18-4.fc27.s390x
 enchant-1:1.6.0-18.fc27.s390x
 enchant-voikko-1:1.6.0-18.fc27.s390x
 enscript-1.6.6-12.fc27.s390x
@@ -1941,7 +1940,6 @@ libconfig-1.5-7.fc27.s390x
 libcroco-0.6.12-3.fc27.s390x
 libcrypt-2.26.90-9.fc28.s390x
 libcryptui-3.12.2-11.fc27.s390x
-libcue-2.1.0-4.fc27.s390x
 libcurl-devel-7.55.1-3.fc28.s390x
 libcurl-minimal-7.55.1-3.fc28.s390x
 libdaemon-0.14-13.fc27.s390x
@@ -2038,8 +2036,6 @@ libgovirt-devel-0.3.4-4.fc27.s390x
 libgpg-error-1.27-3.fc27.s390x
 libgpg-error-devel-1.27-3.fc27.s390x
 libgphoto2-2.5.14-3.fc27.s390x
-libgrss-0.7.0-5.fc27.s390x
-libgsf-1.14.41-4.fc27.s390x
 libgta-1.0.7-6.fc27.s390x
 libgtop2-2.37.90-1.fc27.s390x
 libgudev-232-1.fc27.s390x
@@ -2097,7 +2093,6 @@ libinput-1.8.1-3.fc27.s390x
 libinput-devel-1.8.1-3.fc27.s390x
 libipa_hbac-1.15.3-2.fc27.s390x
 libipa_hbac-devel-1.15.3-2.fc27.s390x
-libiptcdata-1.0.4-20.fc28.s390x
 libiscsi-1.15.0-5.fc27.s390x
 libisofs-1.4.6-4.fc27.s390x
 libitm-7.2.1-2.fc27.s390x
@@ -4719,7 +4714,7 @@ tpm-tools-pkcs11-1.3.9-3.fc27.s390x
 trace-cmd-2.6.1-3.fc27.s390x
 tracer-common-0.6.13-2.fc27.noarch
 traceroute-3:2.1.0-5.fc27.s390x
-tracker-1.99.1-2.fc27.s390x
+tracker-2.0.1-1.fc27.s390x
 tree-1.7.0-11.fc27.s390x
 trousers-0.3.13-9.fc27.s390x
 trousers-devel-0.3.13-9.fc27.s390x

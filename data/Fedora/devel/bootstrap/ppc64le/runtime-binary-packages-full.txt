@@ -657,7 +657,6 @@ emacs-haskell-mode-16.1-2.fc27.noarch
 emacs-lucid-1:25.2-9.fc28.ppc64le
 emacs-nox-1:25.2-9.fc28.ppc64le
 emacs-terminal-1:25.2-9.fc28.noarch
-enca-1.18-4.fc27.ppc64le
 enchant-1:1.6.0-18.fc27.ppc64le
 enchant-voikko-1:1.6.0-18.fc27.ppc64le
 enscript-1.6.6-12.fc27.ppc64le
@@ -1979,7 +1978,6 @@ libconfig-1.5-7.fc27.ppc64le
 libcroco-0.6.12-3.fc27.ppc64le
 libcrypt-2.26.90-9.fc28.ppc64le
 libcryptui-3.12.2-11.fc27.ppc64le
-libcue-2.1.0-4.fc27.ppc64le
 libcurl-devel-7.55.1-3.fc28.ppc64le
 libcurl-minimal-7.55.1-3.fc28.ppc64le
 libcxl-1.5-2.fc27.ppc64le
@@ -2083,8 +2081,6 @@ libgpg-error-1.27-3.fc27.ppc64le
 libgpg-error-devel-1.27-3.fc27.ppc64le
 libgphoto2-2.5.14-3.fc27.ppc64le
 libgpod-0.8.3-19.fc27.ppc64le
-libgrss-0.7.0-5.fc27.ppc64le
-libgsf-1.14.41-4.fc27.ppc64le
 libgta-1.0.7-6.fc27.ppc64le
 libgtop2-2.37.90-1.fc27.ppc64le
 libgudev-232-1.fc27.ppc64le
@@ -2143,7 +2139,6 @@ libinput-1.8.1-3.fc27.ppc64le
 libinput-devel-1.8.1-3.fc27.ppc64le
 libipa_hbac-1.15.3-2.fc27.ppc64le
 libipa_hbac-devel-1.15.3-2.fc27.ppc64le
-libiptcdata-1.0.4-20.fc28.ppc64le
 libiscsi-1.15.0-5.fc27.ppc64le
 libisofs-1.4.6-4.fc27.ppc64le
 libitm-7.2.1-2.fc27.ppc64le
@@ -4800,7 +4795,7 @@ tpm-tools-pkcs11-1.3.9-3.fc27.ppc64le
 trace-cmd-2.6.1-3.fc27.ppc64le
 tracer-common-0.6.13-2.fc27.noarch
 traceroute-3:2.1.0-5.fc27.ppc64le
-tracker-1.99.1-2.fc27.ppc64le
+tracker-2.0.1-1.fc27.ppc64le
 tree-1.7.0-11.fc27.ppc64le
 trousers-0.3.13-9.fc27.ppc64le
 trousers-devel-0.3.13-9.fc27.ppc64le

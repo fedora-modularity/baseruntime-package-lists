@@ -665,7 +665,6 @@ emacs-haskell-mode
 emacs-lucid
 emacs-nox
 emacs-terminal
-enca
 enchant
 enchant-voikko
 enscript
@@ -1990,7 +1989,6 @@ libconfig
 libcroco
 libcrypt
 libcryptui
-libcue
 libcurl-devel
 libcurl-minimal
 libdaemon
@@ -2092,8 +2090,6 @@ libgpg-error
 libgpg-error-devel
 libgphoto2
 libgpod
-libgrss
-libgsf
 libgta
 libgtop2
 libgudev
@@ -2152,7 +2148,6 @@ libinput
 libinput-devel
 libipa_hbac
 libipa_hbac-devel
-libiptcdata
 libiscsi
 libisofs
 libitm

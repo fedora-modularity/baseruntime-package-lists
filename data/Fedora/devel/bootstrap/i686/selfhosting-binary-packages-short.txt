@@ -3520,8 +3520,6 @@ libcroco-devel
 libcrypt
 libcryptui
 libcryptui-devel
-libcue
-libcue-devel
 libcurl-devel
 libcurl-minimal
 libdaemon
@@ -3686,8 +3684,6 @@ libgphoto2
 libgphoto2-devel
 libgpod
 libgpod-devel
-libgrss
-libgrss-devel
 libgsf
 libgsf-devel
 libgta

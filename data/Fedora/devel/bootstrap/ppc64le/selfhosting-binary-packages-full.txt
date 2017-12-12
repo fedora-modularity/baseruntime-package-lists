@@ -3503,8 +3503,6 @@ libcroco-devel-0.6.12-3.fc27.ppc64le
 libcrypt-2.26.90-9.fc28.ppc64le
 libcryptui-3.12.2-11.fc27.ppc64le
 libcryptui-devel-3.12.2-11.fc27.ppc64le
-libcue-2.1.0-4.fc27.ppc64le
-libcue-devel-2.1.0-4.fc27.ppc64le
 libcurl-devel-7.55.1-3.fc28.ppc64le
 libcurl-minimal-7.55.1-3.fc28.ppc64le
 libcxl-1.5-2.fc27.ppc64le
@@ -3669,8 +3667,6 @@ libgphoto2-2.5.14-3.fc27.ppc64le
 libgphoto2-devel-2.5.14-3.fc27.ppc64le
 libgpod-0.8.3-19.fc27.ppc64le
 libgpod-devel-0.8.3-19.fc27.ppc64le
-libgrss-0.7.0-5.fc27.ppc64le
-libgrss-devel-0.7.0-5.fc27.ppc64le
 libgsf-1.14.41-4.fc27.ppc64le
 libgsf-devel-1.14.41-4.fc27.ppc64le
 libgta-1.0.7-6.fc27.ppc64le
@@ -9755,8 +9751,8 @@ tpm-tools-pkcs11-1.3.9-3.fc27.ppc64le
 trace-cmd-2.6.1-3.fc27.ppc64le
 tracer-common-0.6.13-2.fc27.noarch
 traceroute-3:2.1.0-5.fc27.ppc64le
-tracker-1.99.1-2.fc27.ppc64le
-tracker-devel-1.99.1-2.fc27.ppc64le
+tracker-2.0.1-1.fc27.ppc64le
+tracker-devel-2.0.1-1.fc27.ppc64le
 transfig-1:3.2.6-5.fc27.ppc64le
 tre-0.8.0-21.20140228gitc2f5d13.fc27.ppc64le
 tre-common-0.8.0-21.20140228gitc2f5d13.fc27.noarch

@@ -661,7 +661,6 @@ emacs-haskell-mode-16.1-2.fc27.noarch
 emacs-lucid-1:25.2-9.fc28.i686
 emacs-nox-1:25.2-9.fc28.i686
 emacs-terminal-1:25.2-9.fc28.noarch
-enca-1.18-4.fc27.i686
 enchant-1:1.6.0-18.fc27.i686
 enchant-voikko-1:1.6.0-18.fc27.i686
 enscript-1.6.6-12.fc27.i686
@@ -1979,7 +1978,6 @@ libconfig-1.5-7.fc27.i686
 libcroco-0.6.12-3.fc27.i686
 libcrypt-2.26.90-9.fc28.i686
 libcryptui-3.12.2-11.fc27.i686
-libcue-2.1.0-4.fc27.i686
 libcurl-devel-7.55.1-3.fc28.i686
 libcurl-minimal-7.55.1-3.fc28.i686
 libdaemon-0.14-13.fc27.i686
@@ -2083,8 +2081,6 @@ libgpg-error-1.27-3.fc27.i686
 libgpg-error-devel-1.27-3.fc27.i686
 libgphoto2-2.5.14-3.fc27.i686
 libgpod-0.8.3-19.fc27.i686
-libgrss-0.7.0-5.fc27.i686
-libgsf-1.14.41-4.fc27.i686
 libgta-1.0.7-6.fc27.i686
 libgtop2-2.37.90-1.fc27.i686
 libgudev-232-1.fc27.i686
@@ -2144,7 +2140,6 @@ libinput-devel-1.8.1-3.fc27.i686
 libipa_hbac-1.15.3-2.fc27.i686
 libipa_hbac-devel-1.15.3-2.fc27.i686
 libipt-1.6.1-4.fc27.i686
-libiptcdata-1.0.4-20.fc28.i686
 libiscsi-1.15.0-5.fc27.i686
 libisofs-1.4.6-4.fc27.i686
 libitm-7.2.1-2.fc27.i686
@@ -4812,7 +4807,7 @@ tpm2-tss-devel-1.1.0-3.fc28.i686
 trace-cmd-2.6.1-3.fc27.i686
 tracer-common-0.6.13-2.fc27.noarch
 traceroute-3:2.1.0-5.fc27.i686
-tracker-1.99.1-2.fc27.i686
+tracker-2.0.1-1.fc27.i686
 tree-1.7.0-11.fc27.i686
 trousers-0.3.13-9.fc27.i686
 trousers-devel-0.3.13-9.fc27.i686

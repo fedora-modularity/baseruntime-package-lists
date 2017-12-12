@@ -652,7 +652,6 @@ emacs-haskell-mode-16.1-2.fc27.noarch
 emacs-lucid-1:25.2-9.fc28.armv7hl
 emacs-nox-1:25.2-9.fc28.armv7hl
 emacs-terminal-1:25.2-9.fc28.noarch
-enca-1.18-4.fc27.armv7hl
 enchant-1:1.6.0-18.fc27.armv7hl
 enchant-voikko-1:1.6.0-18.fc27.armv7hl
 enscript-1.6.6-12.fc27.armv7hl
@@ -1949,7 +1948,6 @@ libconfig-1.5-7.fc27.armv7hl
 libcroco-0.6.12-3.fc27.armv7hl
 libcrypt-2.26.90-9.fc28.armv7hl
 libcryptui-3.12.2-11.fc27.armv7hl
-libcue-2.1.0-4.fc27.armv7hl
 libcurl-devel-7.55.1-3.fc28.armv7hl
 libcurl-minimal-7.55.1-3.fc28.armv7hl
 libdaemon-0.14-13.fc27.armv7hl
@@ -2051,8 +2049,6 @@ libgpg-error-1.27-3.fc27.armv7hl
 libgpg-error-devel-1.27-3.fc27.armv7hl
 libgphoto2-2.5.14-3.fc27.armv7hl
 libgpod-0.8.3-19.fc27.armv7hl
-libgrss-0.7.0-5.fc27.armv7hl
-libgsf-1.14.41-4.fc27.armv7hl
 libgta-1.0.7-6.fc27.armv7hl
 libgtop2-2.37.90-1.fc27.armv7hl
 libgudev-232-1.fc27.armv7hl
@@ -2106,7 +2102,6 @@ libinput-1.8.1-3.fc27.armv7hl
 libinput-devel-1.8.1-3.fc27.armv7hl
 libipa_hbac-1.15.3-2.fc27.armv7hl
 libipa_hbac-devel-1.15.3-2.fc27.armv7hl
-libiptcdata-1.0.4-20.fc28.armv7hl
 libiscsi-1.15.0-5.fc27.armv7hl
 libisofs-1.4.6-4.fc27.armv7hl
 libitm-7.2.1-2.fc27.armv7hl
@@ -4734,7 +4729,7 @@ tpm-tools-pkcs11-1.3.9-3.fc27.armv7hl
 trace-cmd-2.6.1-3.fc27.armv7hl
 tracer-common-0.6.13-2.fc27.noarch
 traceroute-3:2.1.0-5.fc27.armv7hl
-tracker-1.99.1-2.fc27.armv7hl
+tracker-2.0.1-1.fc27.armv7hl
 tree-1.7.0-11.fc27.armv7hl
 trousers-0.3.13-9.fc27.armv7hl
 trousers-devel-0.3.13-9.fc27.armv7hl
