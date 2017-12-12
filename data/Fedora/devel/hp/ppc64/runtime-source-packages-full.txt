@@ -162,7 +162,7 @@ libnfsidmap-0.27-3.fc27.src
 libnl3-3.3.0-4.fc28.src
 libpcap-14:1.8.1-6.fc27.src
 libpciaccess-0.13.4-6.fc27.src
-libpeas-1.21.0-1.fc27.src
+libpeas-1.22.0-2.fc28.src
 libpipeline-1.4.2-3.fc27.src
 libpng-2:1.6.31-1.fc27.src
 libproxy-0.4.15-4.fc27.src

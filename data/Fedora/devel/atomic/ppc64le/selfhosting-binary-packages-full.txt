@@ -1894,8 +1894,8 @@ libblockdev-swap-2.12-3.fc28.ppc64le
 libblockdev-swap-devel-2.12-3.fc28.ppc64le
 libblockdev-utils-2.12-3.fc28.ppc64le
 libblockdev-utils-devel-2.12-3.fc28.ppc64le
-libbluray-1.0.1-1.fc27.ppc64le
-libbluray-devel-1.0.1-1.fc27.ppc64le
+libbluray-1.0.2-2.fc28.ppc64le
+libbluray-devel-1.0.2-2.fc28.ppc64le
 libbonobo-2.32.1-13.fc27.ppc64le
 libbonobo-devel-2.32.1-13.fc27.ppc64le
 libbonoboui-2.24.5-13.fc27.ppc64le
@@ -6436,11 +6436,11 @@ tk-devel-1:8.6.7-2.fc28.ppc64le
 tmux-2.5-4.fc27.ppc64le
 tokyocabinet-1.4.48-9.fc27.ppc64le
 tokyocabinet-devel-1.4.48-9.fc27.ppc64le
-tomcat-1:8.0.47-2.fc28.noarch
-tomcat-el-3.0-api-1:8.0.47-2.fc28.noarch
-tomcat-jsp-2.3-api-1:8.0.47-2.fc28.noarch
-tomcat-lib-1:8.0.47-2.fc28.noarch
-tomcat-servlet-3.1-api-1:8.0.47-2.fc28.noarch
+tomcat-1:8.0.47-3.fc28.noarch
+tomcat-el-3.0-api-1:8.0.47-3.fc28.noarch
+tomcat-jsp-2.3-api-1:8.0.47-3.fc28.noarch
+tomcat-lib-1:8.0.47-3.fc28.noarch
+tomcat-servlet-3.1-api-1:8.0.47-3.fc28.noarch
 tomcat-taglibs-parent-3-6.fc27.noarch
 tomcat-taglibs-standard-1.2.5-4.fc27.noarch
 torque-4.2.10-10.fc25.ppc64le

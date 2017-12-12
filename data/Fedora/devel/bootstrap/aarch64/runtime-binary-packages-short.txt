@@ -3572,7 +3572,6 @@ python-rhsm-certificates
 python-rpm-macros
 python-rtslib-doc
 python-srpm-macros
-python-urwid
 python-websocket-client
 python2
 python2-IPy
@@ -3786,6 +3785,7 @@ python2-typing
 python2-unidecode
 python2-urlgrabber
 python2-urllib3
+python2-urwid
 python2-xpyb
 python2-yubico
 python2-zeitgeist

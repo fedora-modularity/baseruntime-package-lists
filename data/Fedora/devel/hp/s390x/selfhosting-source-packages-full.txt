@@ -942,7 +942,7 @@ libasyncns-0.8-13.fc27.src
 libatasmart-0.19-12.fc27.src
 libatomic_ops-7.4.6-3.fc27.src
 libblockdev-2.12-3.fc28.src
-libbluray-1.0.1-1.fc27.src
+libbluray-1.0.2-2.fc28.src
 libbonobo-2.32.1-13.fc27.src
 libbonoboui-2.24.5-13.fc27.src
 libbs2b-3.1.0-19.fc27.src
@@ -1042,7 +1042,7 @@ libotf-0.9.13-10.fc27.src
 libpaper-1.1.24-16.fc27.src
 libpcap-14:1.8.1-6.fc27.src
 libpciaccess-0.13.4-6.fc27.src
-libpeas-1.21.0-1.fc27.src
+libpeas-1.22.0-2.fc28.src
 libpfm-4.8.0-8.fc28.src
 libpipeline-1.4.2-3.fc27.src
 libplist-2.0.0-5.fc28.src
@@ -3066,7 +3066,7 @@ tix-1:8.4.3-20.fc27.src
 tk-1:8.6.7-2.fc28.src
 tmux-2.5-4.fc27.src
 tokyocabinet-1.4.48-9.fc27.src
-tomcat-1:8.0.47-2.fc28.src
+tomcat-1:8.0.47-3.fc28.src
 tomcat-taglibs-parent-3-6.fc27.src
 tomcat-taglibs-standard-1.2.5-4.fc27.src
 torque-4.2.10-10.fc25.src
