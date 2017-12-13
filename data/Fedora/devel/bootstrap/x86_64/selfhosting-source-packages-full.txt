@@ -1689,7 +1689,7 @@ libbonobo-2.32.1-13.fc27.src
 libbonoboui-2.24.5-13.fc27.src
 libbs2b-3.1.0-19.fc27.src
 libbson-1.8.0-1.fc27.src
-libburn-1.4.6-5.fc28.src
+libburn-1.4.8-2.fc28.src
 libbytesize-1.0-1.fc28.src
 libcacard-3:2.5.3-3.fc27.src
 libcanberra-0.30-15.fc27.src
@@ -1804,7 +1804,7 @@ libinvm-i18n-1.0.0.1020-3.fc27.src
 libipt-1.6.1-4.fc27.src
 libiptcdata-1.0.4-20.fc28.src
 libiscsi-1.15.0-5.fc27.src
-libisofs-1.4.6-4.fc27.src
+libisofs-1.4.8-2.fc28.src
 libixion-0.12.2-7.fc27.src
 libjpeg-turbo-1.5.1-4.fc27.src
 libkate-0.4.1-11.fc27.src
@@ -3878,7 +3878,7 @@ python-http-parser-0.8.3-13.fc28.src
 python-httpbin-0.5.0-7.fc27.src
 python-httplib2-0.9.2-7.fc28.src
 python-httpretty-0.8.14-6.20161011git70af1f8.fc28.src
-python-humanize-0.5.1-9.fc28.src
+python-humanize-0.5.1-10.fc28.src
 python-hwdata-2.3.5-1.fc27.src
 python-hypothesis-3.12.0-4.fc28.src
 python-idna-2.5-2.fc27.src
