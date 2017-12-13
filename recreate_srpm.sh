@@ -24,7 +24,8 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-DIST_GIT_REPO=${PKG_AND_GIT[0]}
+# trim any .git suffix that koji may have mysteriously appended
+DIST_GIT_REPO=${PKG_AND_GIT[0]%.git}
 if [ "x$DIST_GIT_REPO" = "x" ]; then
     echo "Invalid NVR"
     exit 1
