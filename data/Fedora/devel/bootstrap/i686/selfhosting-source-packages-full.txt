@@ -2066,7 +2066,7 @@ man-pages-ru-4.08-2.20170321.fc27.src
 man-pages-zh-CN-1.6.2.1-1.fc27.src
 man2html-1.6-20.g.fc27.src
 mariadb-3:10.2.9-3.fc27.src
-mariadb-connector-c-3.0.2-16.fc28.src
+mariadb-connector-c-3.0.2-21.fc28.src
 marisa-0.2.4-26.fc28.src
 maven-1:3.5.0-6.fc27.src
 maven-antrun-plugin-1.8-5.fc27.src
@@ -3920,7 +3920,7 @@ python-nbformat-4.4.0-1.fc27.src
 python-ndg_httpsclient-0.4.0-8.fc27.src
 python-netaddr-0.7.19-5.fc28.src
 python-netifaces-0.10.6-1.fc27.src
-python-networkx-1.11-7.fc27.src
+python-networkx-1.11-8.fc28.src
 python-nose-1.3.7-16.fc28.src
 python-nose-cov-1.6-10.fc27.src
 python-nose-exclude-0.4.1-9.fc28.src
@@ -4017,7 +4017,7 @@ python-scales-1.0.5-12.fc28.src
 python-schedutils-0.5-5.fc28.src
 python-scour-0.35-5.fc27.src
 python-service-identity-16.0.0-8.fc27.src
-python-setproctitle-1.1.10-4.fc28.src
+python-setproctitle-1.1.10-6.fc28.src
 python-setuptools-36.2.0-7.fc28.src
 python-setuptools_scm-1.15.6-5.fc28.src
 python-simplegeneric-0.8.1-7.fc27.src
@@ -4038,7 +4038,7 @@ python-sphinxcontrib-cheeseshop-0.2-6.fc27.src
 python-sphinxcontrib-websupport-1.0.1-4.20171013git.fc28.src
 python-sqlalchemy-1.1.13-2.fc28.src
 python-subprocess32-3.2.6-9.fc28.src
-python-suds-0.7-0.5.94664ddd46a6.fc27.src
+python-suds-0.7-0.6.94664ddd46a6.fc28.src
 python-sure-1.4.0-4.fc28.src
 python-systemd-234-3.fc27.src
 python-tables-3.3.0-6.fc27.src
@@ -4425,7 +4425,7 @@ sil-scheherazade-fonts-2.100-4.fc27.src
 simple-6.0.1-6.fc27.src
 simple-jndi-0.11.4.1-12.fc27.src
 simple-xml-2.7.1-9.fc26.src
-sip-4.19.3-4.fc27.src
+sip-4.19.6-2.fc28.src
 sisu-1:0.3.3-2.fc27.src
 sisu-mojos-0.3.1-5.fc27.src
 skkdic-20170102-3.T1100.fc27.src
