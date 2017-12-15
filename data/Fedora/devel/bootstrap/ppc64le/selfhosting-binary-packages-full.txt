@@ -2100,10 +2100,10 @@ gnome-vfs2-devel-2.24.4-25.fc27.ppc64le
 gnome-video-effects-0.4.3-2.fc27.noarch
 gnome-weather-3.26.0-2.fc27.noarch
 gnome-weather-tests-3.26.0-2.fc27.noarch
-gnu-free-fonts-common-20120503-15.fc27.noarch
-gnu-free-mono-fonts-20120503-15.fc27.noarch
-gnu-free-sans-fonts-20120503-15.fc27.noarch
-gnu-free-serif-fonts-20120503-15.fc27.noarch
+gnu-free-fonts-common-20120503-16.fc28.noarch
+gnu-free-mono-fonts-20120503-16.fc28.noarch
+gnu-free-sans-fonts-20120503-16.fc28.noarch
+gnu-free-serif-fonts-20120503-16.fc28.noarch
 gnu-getopt-1.0.14-12.fc27.noarch
 gnulib-devel-0-23.20170217git.fc27.noarch
 gnupg-1.4.22-3.fc27.ppc64le

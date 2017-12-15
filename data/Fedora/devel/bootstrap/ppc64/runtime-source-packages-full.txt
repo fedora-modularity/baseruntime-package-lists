@@ -469,7 +469,7 @@ gnome-user-docs-3.26.1-1.fc27.src
 gnome-vfs2-2.24.4-25.fc27.src
 gnome-video-effects-0.4.3-2.fc27.src
 gnome-weather-3.26.0-2.fc27.src
-gnu-free-fonts-20120503-15.fc27.src
+gnu-free-fonts-20120503-16.fc28.src
 gnupg-1.4.22-3.fc27.src
 gnupg2-2.2.0-1.fc28.src
 gnuplot-5.0.6-6.fc28.src

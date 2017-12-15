@@ -1154,10 +1154,10 @@ gnome-vfs2-common-2.24.4-25.fc27.noarch
 gnome-video-effects-0.4.3-2.fc27.noarch
 gnome-weather-3.26.0-2.fc27.noarch
 gnome-weather-tests-3.26.0-2.fc27.noarch
-gnu-free-fonts-common-20120503-15.fc27.noarch
-gnu-free-mono-fonts-20120503-15.fc27.noarch
-gnu-free-sans-fonts-20120503-15.fc27.noarch
-gnu-free-serif-fonts-20120503-15.fc27.noarch
+gnu-free-fonts-common-20120503-16.fc28.noarch
+gnu-free-mono-fonts-20120503-16.fc28.noarch
+gnu-free-sans-fonts-20120503-16.fc28.noarch
+gnu-free-serif-fonts-20120503-16.fc28.noarch
 gnupg-1.4.22-3.fc27.armv7hl
 gnupg2-2.2.0-1.fc28.armv7hl
 gnupg2-smime-2.2.0-1.fc28.armv7hl
