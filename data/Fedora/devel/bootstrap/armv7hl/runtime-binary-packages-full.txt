@@ -1587,7 +1587,7 @@ ibus-1.5.16-8.fc27.armv7hl
 ibus-gtk2-1.5.16-8.fc27.armv7hl
 ibus-gtk3-1.5.16-8.fc27.armv7hl
 ibus-hangul-1.5.0-10.fc27.armv7hl
-ibus-kkc-1.5.22-5.fc26.armv7hl
+ibus-kkc-1.5.22-8.fc28.armv7hl
 ibus-libpinyin-1.9.1-1.fc28.armv7hl
 ibus-libs-1.5.16-8.fc27.armv7hl
 ibus-libzhuyin-1.8.0-1.fc28.armv7hl

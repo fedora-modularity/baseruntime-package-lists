@@ -2671,7 +2671,7 @@ ibus-devel-1.5.16-8.fc27.s390x
 ibus-gtk2-1.5.16-8.fc27.s390x
 ibus-gtk3-1.5.16-8.fc27.s390x
 ibus-hangul-1.5.0-10.fc27.s390x
-ibus-kkc-1.5.22-5.fc26.s390x
+ibus-kkc-1.5.22-8.fc28.s390x
 ibus-libpinyin-1.9.1-1.fc28.s390x
 ibus-libs-1.5.16-8.fc27.s390x
 ibus-libzhuyin-1.8.0-1.fc28.s390x
