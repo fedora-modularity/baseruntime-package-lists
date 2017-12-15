@@ -4843,7 +4843,7 @@ mpg123-plugins-pulseaudio-1.25.6-1.fc27.x86_64
 mpich-3.2.1-2.fc27.x86_64
 mpich-devel-3.2.1-2.fc27.x86_64
 mrtg-2.17.4-21.fc27.x86_64
-mstflint-4.6.0-2.fc26.x86_64
+mstflint-4.8.0-3.fc28.x86_64
 msv-msv-1:2013.6.1-10.fc27.noarch
 msv-rngconv-1:2013.6.1-10.fc27.noarch
 msv-xsdlib-1:2013.6.1-10.fc27.noarch

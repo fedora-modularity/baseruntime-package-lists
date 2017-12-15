@@ -1409,7 +1409,7 @@ mozvoikko-2.1-5.fc27.src
 mpfr-3.1.5-5.fc27.src
 mpg123-1.25.6-1.fc27.src
 mrtg-2.17.4-21.fc27.src
-mstflint-4.6.0-2.fc26.src
+mstflint-4.8.0-3.fc28.src
 mt-st-1.1-20.fc27.src
 mtdev-1.1.5-9.fc27.src
 mtools-4.0.18-13.fc27.src

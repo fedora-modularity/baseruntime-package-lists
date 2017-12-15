@@ -2723,7 +2723,7 @@ mpg123-plugins-jack-1.25.6-1.fc27.aarch64
 mpg123-plugins-portaudio-1.25.6-1.fc27.aarch64
 mpg123-plugins-pulseaudio-1.25.6-1.fc27.aarch64
 mrtg-2.17.4-21.fc27.aarch64
-mstflint-4.6.0-2.fc26.aarch64
+mstflint-4.8.0-3.fc28.aarch64
 mt-st-1.1-20.fc27.aarch64
 mtdev-1.1.5-9.fc27.aarch64
 mtools-4.0.18-13.fc27.aarch64
