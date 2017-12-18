@@ -1882,7 +1882,7 @@ libpng-2:1.6.31-1.fc27.src
 libpng12-1.2.57-4.fc27.src
 libproxy-0.4.15-4.fc27.src
 libpsl-0.18.0-1.fc27.src
-libpsm2-10.2.103_1-3.fc27.src
+libpsm2-10.3.8-2.fc28.src
 libpst-0.6.71-6.fc28.src
 libpwquality-1.4.0-3.fc27.src
 libqb-1.0.2-7.fc28.src

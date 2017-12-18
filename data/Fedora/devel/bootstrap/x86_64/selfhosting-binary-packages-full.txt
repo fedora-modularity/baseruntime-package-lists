@@ -4019,8 +4019,9 @@ libproxy-0.4.15-4.fc27.x86_64
 libproxy-devel-0.4.15-4.fc27.x86_64
 libpsl-0.18.0-1.fc27.x86_64
 libpsl-devel-0.18.0-1.fc27.x86_64
-libpsm2-10.2.103_1-3.fc27.x86_64
-libpsm2-devel-10.2.103_1-3.fc27.x86_64
+libpsm2-10.3.8-2.fc28.x86_64
+libpsm2-compat-10.3.8-2.fc28.x86_64
+libpsm2-devel-10.3.8-2.fc28.x86_64
 libpst-devel-0.6.71-6.fc28.x86_64
 libpst-libs-0.6.71-6.fc28.x86_64
 libpurple-2.12.0-3.fc27.x86_64

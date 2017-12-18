@@ -2302,8 +2302,8 @@ libpng-devel-2:1.6.31-1.fc27.x86_64
 libpng12-1.2.57-4.fc27.x86_64
 libproxy-0.4.15-4.fc27.x86_64
 libpsl-0.18.0-1.fc27.x86_64
-libpsm2-10.2.103_1-3.fc27.x86_64
-libpsm2-devel-10.2.103_1-3.fc27.x86_64
+libpsm2-10.3.8-2.fc28.x86_64
+libpsm2-devel-10.3.8-2.fc28.x86_64
 libpurple-2.12.0-3.fc27.x86_64
 libpurple-devel-2.12.0-3.fc27.x86_64
 libpurple-perl-2.12.0-3.fc27.x86_64

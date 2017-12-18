@@ -4020,6 +4020,7 @@ libproxy-devel
 libpsl
 libpsl-devel
 libpsm2
+libpsm2-compat
 libpsm2-devel
 libpst-devel
 libpst-libs
