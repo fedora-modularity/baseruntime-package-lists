@@ -3890,8 +3890,8 @@ libpeas-loader-python3-1.22.0-2.fc28.armv7hl
 libpfm-4.8.0-8.fc28.armv7hl
 libpfm-devel-4.8.0-8.fc28.armv7hl
 libpfm-static-4.8.0-8.fc28.armv7hl
-libphodav-2.1-2.fc26.armv7hl
-libphodav-devel-2.1-2.fc26.armv7hl
+libphodav-2.2-1.fc28.armv7hl
+libphodav-devel-2.2-1.fc28.armv7hl
 libpinyin-2.1.0-1.fc28.armv7hl
 libpinyin-data-2.1.0-1.fc28.armv7hl
 libpinyin-devel-2.1.0-1.fc28.armv7hl

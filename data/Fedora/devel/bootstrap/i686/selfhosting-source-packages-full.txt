@@ -3662,7 +3662,7 @@ perl-utf8-all-0.023-3.fc27.src
 perl-version-6:0.99.18-5.fc27.src
 perltidy-20170521-3.fc27.src
 pesign-0.112-20.fc27.src
-phodav-2.1-2.fc26.src
+phodav-2.2-1.fc28.src
 phonon-4.9.1-5.fc27.src
 phonon-backend-gstreamer-2:4.9.0-4.fc27.src
 php-7.1.9~RC1-1.fc28.src

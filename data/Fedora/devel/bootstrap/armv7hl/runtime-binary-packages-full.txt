@@ -2188,7 +2188,7 @@ libpeas-1.22.0-2.fc28.armv7hl
 libpeas-devel-1.22.0-2.fc28.armv7hl
 libpeas-gtk-1.22.0-2.fc28.armv7hl
 libpeas-loader-python3-1.22.0-2.fc28.armv7hl
-libphodav-2.1-2.fc26.armv7hl
+libphodav-2.2-1.fc28.armv7hl
 libpinyin-2.1.0-1.fc28.armv7hl
 libpinyin-data-2.1.0-1.fc28.armv7hl
 libpipeline-1.4.2-3.fc27.armv7hl

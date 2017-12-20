@@ -3985,8 +3985,8 @@ libpeas-loader-python3-1.22.0-2.fc28.x86_64
 libpfm-4.8.0-8.fc28.x86_64
 libpfm-devel-4.8.0-8.fc28.x86_64
 libpfm-static-4.8.0-8.fc28.x86_64
-libphodav-2.1-2.fc26.x86_64
-libphodav-devel-2.1-2.fc26.x86_64
+libphodav-2.2-1.fc28.x86_64
+libphodav-devel-2.2-1.fc28.x86_64
 libpinyin-2.1.0-1.fc28.x86_64
 libpinyin-data-2.1.0-1.fc28.x86_64
 libpinyin-devel-2.1.0-1.fc28.x86_64

@@ -2225,7 +2225,7 @@ libpeas-devel-1.22.0-2.fc28.ppc64le
 libpeas-gtk-1.22.0-2.fc28.ppc64le
 libpeas-loader-python3-1.22.0-2.fc28.ppc64le
 libpfm-4.8.0-8.fc28.ppc64le
-libphodav-2.1-2.fc26.ppc64le
+libphodav-2.2-1.fc28.ppc64le
 libpinyin-2.1.0-1.fc28.ppc64le
 libpinyin-data-2.1.0-1.fc28.ppc64le
 libpipeline-1.4.2-3.fc27.ppc64le

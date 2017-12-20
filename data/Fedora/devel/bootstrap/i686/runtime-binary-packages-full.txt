@@ -2227,7 +2227,7 @@ libpeas-1.22.0-2.fc28.i686
 libpeas-devel-1.22.0-2.fc28.i686
 libpeas-gtk-1.22.0-2.fc28.i686
 libpeas-loader-python3-1.22.0-2.fc28.i686
-libphodav-2.1-2.fc26.i686
+libphodav-2.2-1.fc28.i686
 libpinyin-2.1.0-1.fc28.i686
 libpinyin-data-2.1.0-1.fc28.i686
 libpipeline-1.4.2-3.fc27.i686

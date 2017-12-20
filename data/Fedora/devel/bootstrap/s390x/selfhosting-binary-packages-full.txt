@@ -3861,8 +3861,8 @@ libpeas-gtk-1.22.0-2.fc28.s390x
 libpeas-loader-python3-1.22.0-2.fc28.s390x
 libpfm-4.8.0-8.fc28.s390x
 libpfm-devel-4.8.0-8.fc28.s390x
-libphodav-2.1-2.fc26.s390x
-libphodav-devel-2.1-2.fc26.s390x
+libphodav-2.2-1.fc28.s390x
+libphodav-devel-2.2-1.fc28.s390x
 libpinyin-2.1.0-1.fc28.s390x
 libpinyin-data-2.1.0-1.fc28.s390x
 libpinyin-devel-2.1.0-1.fc28.s390x
