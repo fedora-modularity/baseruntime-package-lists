@@ -1343,7 +1343,7 @@ gvfs-afc-1.33.90-1.fc27.armv7hl
 gvfs-client-1.33.90-1.fc27.armv7hl
 gvfs-fuse-1.33.90-1.fc27.armv7hl
 gvnc-0.7.1-5.fc28.armv7hl
-gxvattr-1.3-34.fc27.armv7hl
+gxvattr-1.3-35.fc28.armv7hl
 gyp-0.1-0.23.920ee58git.fc27.noarch
 gzip-1.8-4.fc27.armv7hl
 hamcrest-core-1.3-22.fc28.noarch
@@ -1610,7 +1610,7 @@ ibus-table-chinese-wu-1.8.2-8.fc27.noarch
 ibus-table-chinese-wubi-haifeng-1.8.2-8.fc27.noarch
 ibus-table-chinese-wubi-jidian-1.8.2-8.fc27.noarch
 ibus-table-chinese-yong-1.8.2-8.fc27.noarch
-ibus-typing-booster-1.5.32-3.fc27.noarch
+ibus-typing-booster-1.5.34-2.fc28.noarch
 ibus-wayland-1.5.16-8.fc27.armv7hl
 icedax-1.1.11-37.fc27.armv7hl
 icedtea-web-1.7-4.fc28.noarch
@@ -4922,7 +4922,7 @@ xsom-0-17.20110809svn.fc27.noarch
 xstream-1.4.9-6.fc27.noarch
 xterm-330-3.fc27.armv7hl
 xterm-resize-330-3.fc27.armv7hl
-xvattr-1.3-34.fc27.armv7hl
+xvattr-1.3-35.fc28.armv7hl
 xz-5.2.3-4.fc27.armv7hl
 xz-devel-5.2.3-4.fc27.armv7hl
 xz-libs-5.2.3-4.fc27.armv7hl
