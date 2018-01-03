@@ -6974,7 +6974,7 @@ python2-sphinx-testing-0.7.2-2.fc27.noarch
 python2-sphinx-theme-alabaster-0.7.9-4.fc27.noarch
 python2-sphinx_rtd_theme-0.2.4-2.fc27.noarch
 python2-sphinxcontrib-bibtex-0.3.6-1.fc27.noarch
-python2-sphinxcontrib-websupport-1.0.1-4.20171013git.fc28.noarch
+python2-sphinxcontrib-websupport-1.0.1-5.20171013git.fc28.noarch
 python2-sqlalchemy-1.1.13-2.fc28.s390x
 python2-sss-1.15.3-2.fc27.s390x
 python2-sss-murmur-1.15.3-2.fc27.s390x
@@ -7349,7 +7349,7 @@ python3-sphinx-1:1.6.4-2.fc28.noarch
 python3-sphinx-testing-0.7.2-2.fc27.noarch
 python3-sphinx-theme-alabaster-0.7.9-4.fc27.noarch
 python3-sphinx_rtd_theme-0.2.4-2.fc27.noarch
-python3-sphinxcontrib-websupport-1.0.1-4.20171013git.fc28.noarch
+python3-sphinxcontrib-websupport-1.0.1-5.20171013git.fc28.noarch
 python3-sqlalchemy-1.1.13-2.fc28.s390x
 python3-sss-1.15.3-2.fc27.s390x
 python3-sss-murmur-1.15.3-2.fc27.s390x

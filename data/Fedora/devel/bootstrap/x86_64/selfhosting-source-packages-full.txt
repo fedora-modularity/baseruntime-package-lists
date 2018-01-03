@@ -4051,7 +4051,7 @@ python-sphinx-theme-alabaster-0.7.9-4.fc27.src
 python-sphinx_rtd_theme-0.2.4-2.fc27.src
 python-sphinxcontrib-bibtex-0.3.6-1.fc27.src
 python-sphinxcontrib-cheeseshop-0.2-6.fc27.src
-python-sphinxcontrib-websupport-1.0.1-4.20171013git.fc28.src
+python-sphinxcontrib-websupport-1.0.1-5.20171013git.fc28.src
 python-sqlalchemy-1.1.13-2.fc28.src
 python-subprocess32-3.2.6-9.fc28.src
 python-suds-0.7-0.6.94664ddd46a6.fc28.src

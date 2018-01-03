@@ -7157,6 +7157,7 @@ python-sphinxcontrib-bibtex-0.3.6-1.fc27:e782fd7ef914ed14c69d827f5970db9acf5598d
 python-sphinxcontrib-cheeseshop-0.2-6.fc27:29d98f99667736868b79db617841e664d8c1846b
 python-sphinxcontrib-websupport-1.0.1-1.fc27:9d0a7bc2aa8705373621521c355b930e03b845e0
 python-sphinxcontrib-websupport-1.0.1-4.20171013git.fc28:cfdd3a4aa722bfea950ebd2e92e4e44aedc70e98
+python-sphinxcontrib-websupport-1.0.1-5.20171013git.fc28:5a01928f9fd580b760bec6e964b7f66f42efd602
 python-sqlalchemy-1.1.11-1.fc27:498bffaaf036fde14dd14132fd26b63f5588a8d1
 python-sqlalchemy-1.1.13-1.fc27:303d92a6df7529bb63cdff7917e86543d4e48ce7
 python-sqlalchemy-1.1.13-2.fc28:121d2c88235a0530402d4c1c305f20c95536ab68
