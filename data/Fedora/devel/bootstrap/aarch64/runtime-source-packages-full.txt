@@ -208,7 +208,7 @@ cracklib-2.9.6-9.fc28.src
 crda-3.18_2016.02.08-4.fc27.src
 createrepo-0.10.3-12.fc27.src
 createrepo_c-0.10.0-14.fc27.src
-criu-3.3-5.fc28.src
+criu-3.7-2.fc28.src
 cronie-1.5.1-8.fc27.src
 crontabs-1.11-15.20150630git.fc27.src
 crypto-policies-20170823-1.git8d18c27.fc28.src

@@ -876,9 +876,9 @@ createrepo-0.10.3-12.fc27.noarch
 createrepo_c-0.10.0-14.fc27.aarch64
 createrepo_c-devel-0.10.0-14.fc27.aarch64
 createrepo_c-libs-0.10.0-14.fc27.aarch64
-crit-3.3-5.fc28.aarch64
-criu-3.3-5.fc28.aarch64
-criu-devel-3.3-5.fc28.aarch64
+crit-3.7-2.fc28.aarch64
+criu-3.7-2.fc28.aarch64
+criu-devel-3.7-2.fc28.aarch64
 cronie-1.5.1-8.fc27.aarch64
 cronie-anacron-1.5.1-8.fc27.aarch64
 cronie-noanacron-1.5.1-8.fc27.aarch64
@@ -6804,7 +6804,7 @@ python2-coverage-4.4.1-4.fc28.aarch64
 python2-coverage-test-runner-1.11-6.fc28.noarch
 python2-cpio-0.1-26.fc28.noarch
 python2-createrepo_c-0.10.0-14.fc27.aarch64
-python2-criu-3.3-5.fc28.aarch64
+python2-criu-3.7-2.fc28.aarch64
 python2-crypto-2.6.1-19.fc28.aarch64
 python2-cryptography-2.0.2-3.fc28.aarch64
 python2-cryptography-vectors-2.0.2-2.fc28.noarch
