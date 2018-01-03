@@ -2241,8 +2241,8 @@ rubygem-ffi
 rubygem-multi_json
 rubygem-open4
 rubygem-rack
-rubygem-rack-protection
 rubygem-rack-test
+rubygem-tilt
 rubypick
 runc
 rust-srpm-macros

@@ -3093,7 +3093,7 @@ pcre-utf16-8.41-1.fc27.2.ppc64le
 pcre-utf32-8.41-1.fc27.2.ppc64le
 pcre2-10.30-1.fc27.ppc64le
 pcre2-utf16-10.30-1.fc27.ppc64le
-pcs-0.9.159-1.fc27.ppc64le
+pcs-0.9.160-1.fc28.ppc64le
 pcsc-lite-1.8.22-3.fc27.ppc64le
 pcsc-lite-ccid-1.4.27-3.fc27.ppc64le
 pcsc-lite-libs-1.8.22-3.fc27.ppc64le
@@ -4307,11 +4307,11 @@ rubygem-openssl-2.0.5-84.fc28.ppc64le
 rubygem-power_assert-0.4.1-84.fc28.noarch
 rubygem-psych-2.2.2-84.fc28.ppc64le
 rubygem-rack-1:2.0.3-3.fc27.noarch
-rubygem-rack-protection-2.0.0-2.fc27.noarch
 rubygem-rack-test-0.6.3-6.fc27.noarch
 rubygem-rake-12.0.0-84.fc28.noarch
 rubygem-rdoc-5.0.0-84.fc28.noarch
 rubygem-test-unit-3.2.3-84.fc28.noarch
+rubygem-tilt-2.0.8-1.fc27.noarch
 rubygem-xmlrpc-0.2.1-84.fc28.noarch
 rubygems-2.6.13-84.fc28.noarch
 rubygems-devel-2.6.13-84.fc28.noarch

@@ -4307,11 +4307,11 @@ rubygem-openssl
 rubygem-power_assert
 rubygem-psych
 rubygem-rack
-rubygem-rack-protection
 rubygem-rack-test
 rubygem-rake
 rubygem-rdoc
 rubygem-test-unit
+rubygem-tilt
 rubygem-xmlrpc
 rubygems
 rubygems-devel

@@ -2735,7 +2735,7 @@ pcmciautils-018-13.fc27.src
 pcp-3.12.1-3.fc28.src
 pcre-8.41-1.fc27.2.src
 pcre2-10.30-1.fc27.src
-pcs-0.9.159-1.fc27.src
+pcs-0.9.160-1.fc28.src
 pcsc-lite-1.8.22-3.fc27.src
 pcsc-lite-ccid-1.4.27-3.fc27.src
 pdf-renderer-0-0.20.128svn.20110310.fc27.src
@@ -4472,7 +4472,7 @@ staxmate-2.3.0-5.fc27.src
 stix-fonts-1.1.0-11.fc27.src
 strace-4.19-1.fc28.src
 stream-lib-2.6.0-8.fc27.src
-stringtemplate-3.2.1-12.fc24.src
+stringtemplate-3.2.1-16.fc28.src
 stringtemplate4-4.0.8-5.fc27.src
 struts-1.3.10-20.fc27.src
 stunnel-5.42-1.fc28.src
