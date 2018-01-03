@@ -2712,7 +2712,7 @@ pcs-0.9.160-1.fc28.src
 pcsc-lite-1.8.22-3.fc27.src
 pcsc-lite-ccid-1.4.27-3.fc27.src
 pdf-renderer-0-0.20.128svn.20110310.fc27.src
-pdfbox-1.8.13-1.fc26.src
+pdfbox-1.8.13-3.fc28.src
 pegdown-1.4.2-11.fc27.src
 pentaho-libxml-1.1.3-16.fc27.src
 pentaho-reporting-flow-engine-1:0.9.4-14.fc27.src

@@ -1465,7 +1465,7 @@ folks-devel-1:0.11.4-3.fc27.ppc64le
 folks-tools-1:0.11.4-3.fc27.ppc64le
 fontawesome-fonts-4.7.0-3.fc27.noarch
 fontawesome-fonts-web-4.7.0-3.fc27.noarch
-fontbox-1.8.13-1.fc26.noarch
+fontbox-1.8.13-3.fc28.noarch
 fontconfig-2.12.4-4.fc27.ppc64le
 fontconfig-devel-2.12.4-4.fc27.ppc64le
 fontforge-20170731-2.fc27.ppc64le
@@ -2983,7 +2983,7 @@ je-6.3.8-4.fc27.noarch
 jedis-2.7.2-6.fc27.noarch
 jemalloc-4.5.0-4.fc28.ppc64le
 jemalloc-devel-4.5.0-4.fc28.ppc64le
-jempbox-1.8.13-1.fc26.noarch
+jempbox-1.8.13-3.fc28.noarch
 jenkins-xstream-1.4.7-12.jenkins1.fc27.noarch
 jeromq-0.3.6-3.fc27.noarch
 jersey-2.23.2-3.fc27.noarch
@@ -5513,7 +5513,7 @@ pcsc-lite-ccid-1.4.27-3.fc27.ppc64le
 pcsc-lite-devel-1.8.22-3.fc27.ppc64le
 pcsc-lite-libs-1.8.22-3.fc27.ppc64le
 pdf-renderer-0-0.20.128svn.20110310.fc27.noarch
-pdfbox-1.8.13-1.fc26.noarch
+pdfbox-1.8.13-3.fc28.noarch
 pegdown-1.4.2-11.fc27.noarch
 pentaho-libxml-1.1.3-16.fc27.noarch
 pentaho-reporting-flow-engine-1:0.9.4-14.fc27.noarch

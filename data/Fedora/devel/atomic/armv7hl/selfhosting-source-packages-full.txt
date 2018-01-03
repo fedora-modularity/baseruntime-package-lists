@@ -1743,7 +1743,7 @@ pcre-8.41-1.fc27.2.src
 pcre2-10.30-1.fc27.src
 pcsc-lite-1.8.22-3.fc27.src
 pdf-renderer-0-0.20.128svn.20110310.fc27.src
-pdfbox-1.8.13-1.fc26.src
+pdfbox-1.8.13-3.fc28.src
 pegdown-1.4.2-11.fc27.src
 perl-4:5.26.0-399.fc28.src
 perl-Algorithm-C3-0.10-9.fc27.src

@@ -913,7 +913,7 @@ fluidsynth-libs-1.1.6-12.fc27.i686
 fmpp-0.9.14-8.fc27.noarch
 fontawesome-fonts-4.7.0-3.fc27.noarch
 fontawesome-fonts-web-4.7.0-3.fc27.noarch
-fontbox-1.8.13-1.fc26.noarch
+fontbox-1.8.13-3.fc28.noarch
 fontconfig-2.12.4-4.fc27.i686
 fontconfig-devel-2.12.4-4.fc27.i686
 fontforge-20170731-2.fc27.i686
@@ -1518,7 +1518,7 @@ je-6.3.8-4.fc27.noarch
 jedis-2.7.2-6.fc27.noarch
 jemalloc-4.5.0-4.fc28.i686
 jemalloc-devel-4.5.0-4.fc28.i686
-jempbox-1.8.13-1.fc26.noarch
+jempbox-1.8.13-3.fc28.noarch
 jenkins-xstream-1.4.7-12.jenkins1.fc27.noarch
 jeromq-0.3.6-3.fc27.noarch
 jersey-2.23.2-3.fc27.noarch
@@ -3246,7 +3246,7 @@ pcre2-utf16-10.30-1.fc27.i686
 pcre2-utf32-10.30-1.fc27.i686
 pcsc-lite-libs-1.8.22-3.fc27.i686
 pdf-renderer-0-0.20.128svn.20110310.fc27.noarch
-pdfbox-1.8.13-1.fc26.noarch
+pdfbox-1.8.13-3.fc28.noarch
 pegdown-1.4.2-11.fc27.noarch
 perl-4:5.26.0-399.fc28.i686
 perl-Algorithm-C3-0.10-9.fc27.noarch
