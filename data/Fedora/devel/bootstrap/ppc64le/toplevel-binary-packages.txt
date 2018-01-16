@@ -2047,7 +2047,6 @@ python3-sssdconfig
 python3-sss-murmur
 python3-tkinter
 python-docker-py
-python-jsonschema
 python-libcomps-doc
 python-psycopg2-doc
 python-pwquality

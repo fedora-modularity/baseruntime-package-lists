@@ -304,6 +304,7 @@ evolution-mapi
 exempi
 exiv2
 expat
+expect
 extra166y
 fabtests
 fakeroot

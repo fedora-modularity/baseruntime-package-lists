@@ -308,6 +308,7 @@ evolution-mapi
 exempi
 exiv2
 expat
+expect
 extlinux-bootloader
 extra166y
 fabtests

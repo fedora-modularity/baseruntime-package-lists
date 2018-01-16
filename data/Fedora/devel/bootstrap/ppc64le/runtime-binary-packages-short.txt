@@ -699,6 +699,7 @@ exempi
 exiv2-libs
 expat
 expat-devel
+expect
 extra166y
 fabtests
 fakeroot

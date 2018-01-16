@@ -688,6 +688,7 @@ exempi-2.4.2-7.fc27.s390x
 exiv2-libs-0.26-6.fc27.s390x
 expat-2.2.4-1.fc28.s390x
 expat-devel-2.2.4-1.fc28.s390x
+expect-5.45-28.fc27.s390x
 extra166y-1.7.0-8.fc27.noarch
 fabtests-1.4.1-3.fc27.s390x
 fakeroot-1.21-5.fc27.s390x

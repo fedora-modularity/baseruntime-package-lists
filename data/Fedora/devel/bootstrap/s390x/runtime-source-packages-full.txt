@@ -297,6 +297,7 @@ evolution-mapi-3.26.1-1.fc27.src
 exempi-2.4.2-7.fc27.src
 exiv2-0.26-6.fc27.src
 expat-2.2.4-1.fc28.src
+expect-5.45-28.fc27.src
 extra166y-1.7.0-8.fc27.src
 fabtests-1.4.1-3.fc27.src
 fakeroot-1.21-5.fc27.src

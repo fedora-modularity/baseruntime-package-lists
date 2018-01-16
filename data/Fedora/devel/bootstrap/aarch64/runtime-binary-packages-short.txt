@@ -706,6 +706,7 @@ exempi
 exiv2-libs
 expat
 expat-devel
+expect
 extlinux-bootloader
 extra166y
 fabtests
