@@ -7991,7 +7991,7 @@ sbinary-0.4.2-7.fc27.noarch
 sblim-cmpi-devel-2.0.3-13.fc27.s390x
 sblim-sfcc-2.2.8-6.fc27.s390x
 sblim-sfcc-devel-2.2.8-6.fc27.s390x
-sbt-0.13.1-8.fc24.1.noarch
+sbt-0.13.1-9.fc28.noarch
 scala-2.10.6-3.fc26.noarch
 scannotation-1.0.3-0.15.r12.fc27.noarch
 scap-security-guide-0.1.34-2.fc27.noarch
